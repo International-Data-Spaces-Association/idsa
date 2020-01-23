@@ -21,6 +21,7 @@ Find the overview on the IDS ressources in [**IDS-G** here on GitHub](https://gi
 ---
 [See the IDSA Homepage](https://www.internationaldataspaces.org) and the [Most important Documents](https://www.internationaldataspaces.org/info-package/)
 
+---
 
 Links to IDS related repositories:
 * [IDS Information Model](https://github.com/IndustrialDataSpace/InformationModel)
