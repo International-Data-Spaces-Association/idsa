@@ -16,21 +16,9 @@ Read the Executive Summary of the IDSA [here](https://www.internationaldataspace
 
 ---
 
-Find the overview on the IDS ressources in [**IDS-G** here on GitHub](https://github.com/International-Data-Spaces-Association/IDS-G)
+Find the overview on the IDS resources in [**IDS-G** here on GitHub](https://github.com/International-Data-Spaces-Association/IDS-G)
 
 ---
 [See the IDSA Homepage](https://www.internationaldataspaces.org) and the [Most important Documents](https://www.internationaldataspaces.org/info-package/)
 
 ---
-
-Links to IDS related repositories:
-* [IDS Information Model](https://github.com/IndustrialDataSpace/InformationModel)
-* [IDS Information Model Documentation](https://github.com/IndustrialDataSpace/Documentation)
-* [Trusted Connector](https://github.com/industrial-data-space/trusted-connector)
-* [Trusted Connector Documentation](https://github.com/industrial-data-space/trusted-connector-documentation)
-* [IDSCP example client application ](https://github.com/industrial-data-space/ids-comm-example)
-* [TrusteMe Build](https://github.com/industrial-data-space/trustme_build)
-* [nicos reseach and development](https://github.com/nicosResearchAndDevelopment)
-* [nicos reseach and development IDS](https://github.com/nicosResearchAndDevelopment/nrd-ids)
-* [nicos reseach and development DAPS client](https://github.com/nicosResearchAndDevelopment/nrd-ids-daps-dc-client-nodejs)
-* [nicos reseach and development DAPS](https://github.com/nicosResearchAndDevelopment/nrd-ids-daps-dc)
