@@ -6,7 +6,36 @@ we need an overview on OSS Components
 
 # List of known components
 
-- ...
-- ...
+
+' IDS Functionalities'  | Trusted Connector |	Dataspace Connector	| EI Connector |	TNO Trusted Connector |	GEC  Connector| DIH Connector	| Orbiter Connector	| Open Data Connector	| OPC UA Factory Connector
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+Based on another Connector | -	| - |	- |	- |	- |	Trusted Connector |	-	| - |	Trusted Connector
+Planned CertificationLevel	|	Trust |	Base |	Base |	Trust |	Trust '(Base eval.)' |	Trust	| Trust+ |	Base |	Trust
+Using Identity Provider	|	yes |	yes |	yes	| yes |	yes |	own IdP |	own IdP(idento.one) |	yes |	yes
+Using Infomodel Version 4.0.0 |	yes |	yes |	yes	| yes |	3.1.0 |	3.1.0 |	3.1.0 |	3.1.0 |	2.0.0
+Validate Infomodel | - |	yes |	yes |	yes	| not IDS conform	| - |	yes | yes |	yes
+Broker registration | yes |	yes |	yes |	yes |	- |	yes |	- |	yes |	yes
+Provide Data in IDS via	**HTTPS** |	- | yes | yes |	yes |	yes |	yes	| not IDS conform	| yes |	not IDS conform
+Provide Data in IDS via **IDSCP** |	yes	| - |	- |	yes |	- |	yes |	- |	-	| -
+Consume Data in IDS via	**HTTPS**	| yes | yes | yes | yes | not IDS conform	| yes |	not IDS conform	| -	| not IDS conform
+Consume Data in IDS via **IDSCP**	|	yes |	- |	- |	yes |	- | yes | - | - | -
+Usage Policy Negotiation	|	- |	- |	yes |	-	| - |	- |	not IDS conform	| - |	-
+Usage Control realization	| LUCON	| Dataspace	| - |	not IDS conform	| -	| LUCON/MYDATA	| - |	-	| MYDATA
+Support AppStore / IDS Data Apps	|	yes | - |	-	| not IDS conform |	- |	- |	- |	- |	-
+Support Clearing House | yes | - |	in Preparation	| not IDS conform	| -	| yes |	- |	-
+Support ParIS	|	- |	- |	- |	- |	- | - | - | - | - 
+Support Vocabulary Provider	|	- |	- |	- |	- |	- | - | - | - | - 
+
+
+
+Further Functionalities/Features	Developer		Fraunhofer	Fraunhofer	Fraunhofer	TNO	German Edge Cloud	T-Systems	Orbiter	Fraunhofer	Fraunhofer
+	GUI		ü	-	ü	ü	ü	ü	-	ü	ü
+	Open Source	Open Source	ü	ü	in Preparation	-	-	ü	-	ü	-
+		Community	-	-	in Preparation	-	-	-	-	-	-
+		Link / contact	GitHub	Github	Fraunhofer-Gitlab	TNO	GEC		Truzzt	GitHub	Fraunhofer-Gitlab
+	Deployment		Server	Docker	Docker	Server/Docker/K8s	Helm/Docker	Server/Docker	Docker	Docker	Server/Docker
+	Backend Interaction		via Apache Camel	HTTP	HTTP	via Apache Camel (HTTP & Kafka)	HTTP	via Apache Camel	HTTP	HTTP	via Apache Camel
+	TRL		6-7	6	7	6-7		5, (6 Q4/2020)		3-4	6-7
+
 
 ----
