@@ -34,7 +34,7 @@ Further Functionalities/Features | Trusted Connector |	Dataspace Connector	| EI 
 **GUI**	| yes |	- |	yes |	yes |	yes |	yes |	- |	yes |	yes |
 Open Source: **Open Source**	| yes |	yes |	in Preparation |	- |	- |	yes |	- |	yes |	- |
 Open Source: **Community**	|	- |	- |	in Preparation | - |	- | - | - | - | - |
-Open Source: **Link / contact**	| [GitHub](https://github.com/industrial-data-space)	| [Github](https://github.com/FraunhoferISST/DataspaceConnector)	| [Fraunhofer-Gitlab](sebastian.bader@iais.fraunhofer.de)	| [TNO](maarten.kollenstart@tno.nl)	| GEC	| n.n 	| Truzzt	| [GitHub](https://github.com/public-data-space/ids-open-data-connector)	| [Fraunhofer-Gitlab](friedrich.volz@iosb.fraunhofer.de) |
+Open Source: **Link / contact**	| [GitHub](https://github.com/industrial-data-space)	| [Github](https://github.com/FraunhoferISST/DataspaceConnector)	| [Fraunhofer-Gitlab](sebastian.bader@iais.fraunhofer.de)	| [TNO](maarten.kollenstart@tno.nl)	| GEC	| n.n 	| Truzzt	| [GitHub](https://github.com/public-data-space/ids-open-data-connector)	| [Fraunhofer-Gitlab](friedrich.volz@iosb.fraunhofer.de) | [GitHub](https://github.com/International-Data-Spaces-Association/metadata-broker-open-core)
 **Deployment**|  Server	| Docker	| Docker	| Server/Docker/K8s	| Helm/Docker	| Server/Docker	| Docker	| Docker	| Server/Docker |
 **Backend Interaction**	| via Apache Camel	| HTTP	| HTTP	| via Apache Camel (HTTP & Kafka) |	HTTP	| via Apache Camel	| HTTP |	HTTP	| via Apache Camel |
 **TRL** (20/12/08)	| 6-7	| 6	| 7	| 6-7	| n.n.	| 5, (6 Q4/2020) |	n.n.	| 3-4	| 6-7 |
