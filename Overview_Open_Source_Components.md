@@ -7,7 +7,7 @@ we need an overview on OSS Components
 # List of known components
 
 
-IDS Functionalities  | Trusted Connector |	Dataspace Connector	| EI Connector |	TNO Trusted Connector |	GEC  Connector| DIH Connector	| Orbiter Connector	| Open Data Connector	| OPC UA Factory Connector | metadata-broker-open-core 
+IDS Functionalities  | Trusted Connector |	Dataspace Connector	| IDS Enterprise Integration Connector |	TNO Trusted Connector |	GEC  Connector| DIH Connector	| Orbiter Connector	| Open Data Connector	| OPC UA Factory Connector | metadata-broker-open-core 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 **Based on another Connector** | -	| - |	- |	- |	- |	Trusted Connector |	-	| - |	Trusted Connector |
 **Planned CertificationLevel**	|	Trust |	Base |	Base |	Trust |	Trust '(Base eval.)' |	Trust	| Trust+ |	Base |	Trust |
@@ -28,13 +28,13 @@ Consume Data in IDS via **IDSCP**	|	yes |	- |	- |	yes |	- | yes | - | - | - |
 **Support Vocabulary Provider**	|	- |	- |	- |	- |	- | - | - | - | - |
 
 
-Further Functionalities/Features | Trusted Connector |	Dataspace Connector	| EI Connector |	TNO Trusted Connector |	GEC  Connector| DIH Connector	| Orbiter Connector	| Open Data Connector	| OPC UA Factory Connector | metadata-broker-open-core 
+Further Functionalities/Features | Trusted Connector |	Dataspace Connector	| IDS Enterprise Integration Connector |	TNO Trusted Connector |	GEC  Connector| DIH Connector	| Orbiter Connector	| Open Data Connector	| OPC UA Factory Connector | metadata-broker-open-core 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 **Developer** | Fraunhofer | Fraunhofer | Fraunhofer | TNO | German Edge Cloud	| T-Systems	| Orbiter	| Fraunhofer	| Fraunhofer | 
 **GUI**	| yes |	- |	yes |	yes |	yes |	yes |	- |	yes |	yes |
 Open Source: **Open Source**	| yes |	yes |	in Preparation |	- |	- |	yes |	- |	yes |	- |
 Open Source: **Community**	|	- |	- |	in Preparation | - |	- | - | - | - | - |
-Open Source: **Link / contact**	| [GitHub](https://github.com/industrial-data-space)	| [Github](https://github.com/FraunhoferISST/DataspaceConnector)	| [Fraunhofer-GitHub](https://github.com/International-Data-Spaces-Association/IDS-Enterprise-Integration-Connector)	| [TNO](maarten.kollenstart@tno.nl)	| GEC	| n.n 	| Truzzt	| [GitHub](https://github.com/public-data-space/ids-open-data-connector)	| [Fraunhofer-Gitlab](friedrich.volz@iosb.fraunhofer.de) | [GitHub](https://github.com/International-Data-Spaces-Association/metadata-broker-open-core)
+Open Source: **Link / contact**	| [GitHub](https://github.com/industrial-data-space)	| [Github](https://github.com/FraunhoferISST/DataspaceConnector)	| [GitHub](https://github.com/International-Data-Spaces-Association/IDS-Enterprise-Integration-Connector)	| [TNO](maarten.kollenstart@tno.nl)	| GEC	| n.n 	| Truzzt	| [GitHub](https://github.com/public-data-space/ids-open-data-connector)	| [Fraunhofer-Gitlab](friedrich.volz@iosb.fraunhofer.de) | [GitHub](https://github.com/International-Data-Spaces-Association/metadata-broker-open-core)
 **Deployment**|  Server	| Docker	| Docker	| Server/Docker/K8s	| Helm/Docker	| Server/Docker	| Docker	| Docker	| Server/Docker |
 **Backend Interaction**	| via Apache Camel	| HTTP	| HTTP	| via Apache Camel (HTTP & Kafka) |	HTTP	| via Apache Camel	| HTTP |	HTTP	| via Apache Camel |
 **TRL** (20/12/08)	| 6-7	| 6	| 7	| 6-7	| n.n.	| 5, (6 Q4/2020) |	n.n.	| 3-4	| 6-7 |
