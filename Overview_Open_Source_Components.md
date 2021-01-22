@@ -7,7 +7,7 @@ we need an overview on OSS Components
 # List of known components
 
 
-IDS Functionalities  | Trusted Connector |	Dataspace Connector	| IDS Enterprise Integration Connector |	TNO Trusted Connector |	GEC  Connector| DIH Connector	| Orbiter Connector	| Open Data Connector	| OPC UA Factory Connector | metadata-broker-open-core 
+IDS Functionalities  | Trusted Connector |	Dataspace Connector	| IDS Enterprise Integration Connector |	TNO Trusted Connector |	GEC  Connector| DIH Connector	| Orbiter Connector	| Open Data Connector	| OPC UA Factory Connector | Metadata-broker-open-core 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 **Based on another Connector** | -	| - |	- |	- |	- |	Trusted Connector |	-	| - |	Trusted Connector |
 **Planned CertificationLevel**	|	Trust |	Base |	Base |	Trust |	Trust '(Base eval.)' |	Trust	| Trust+ |	Base |	Trust |
@@ -28,7 +28,7 @@ Consume Data in IDS via **IDSCP**	|	yes |	- |	- |	yes |	- | yes | - | - | - |
 **Support Vocabulary Provider**	|	- |	- |	- |	- |	- | - | - | - | - |
 
 
-Further Functionalities/Features | Trusted Connector |	Dataspace Connector	| IDS Enterprise Integration Connector |	TNO Trusted Connector |	GEC  Connector| DIH Connector	| Orbiter Connector	| Open Data Connector	| OPC UA Factory Connector | metadata-broker-open-core 
+Further Functionalities/Features | Trusted Connector |	Dataspace Connector	| IDS Enterprise Integration Connector |	TNO Trusted Connector |	GEC  Connector| DIH Connector	| Orbiter Connector	| Open Data Connector	| OPC UA Factory Connector | Metadata-broker-open-core 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 **Developer** | Fraunhofer | Fraunhofer | Fraunhofer | TNO | German Edge Cloud	| T-Systems	| Orbiter	| Fraunhofer	| Fraunhofer | 
 **GUI**	| yes |	- |	yes |	yes |	yes |	yes |	- |	yes |	yes |
