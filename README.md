@@ -22,3 +22,107 @@ Find the overview on the IDS resources in [**IDS-G** here on GitHub](https://git
 [See the IDSA Homepage](https://www.internationaldataspaces.org) and the [Most important Documents](https://www.internationaldataspaces.org/info-package/)
 
 ---
+
+### Reference Implementations of IDS Components on Github
+#### DataspaceConnector 
+is the core of the Dataspace Connector as an IDS Connector reference implementation following the specifications of the IDS Information Model.
+   
+   [Visit Repository](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
+/ Responsible Team:[@dataspace-connector-maintainers](https://github.com/orgs/International-Data-Spaces-Association/teams/dataspace-connector-maintainers)
+   
+---
+   
+#### IDS-Connector-Framework   
+aims to simplify the development of an IDS Connector.
+
+   [Visit Repository](https://github.com/International-Data-Spaces-Association/IDS-Connector-Framework)
+/ Responsible Team:[@ids-framework-developers](https://github.com/orgs/International-Data-Spaces-Association/teams/ids-framework-maintainer)
+   
+---
+
+#### IDS-ConfigurationManager  
+aims to simplify the administration of a connector.
+
+   [Visit Repository](https://github.com/International-Data-Spaces-Association/IDS-ConfigurationManager)
+/ Responsible Team:[@ids-configurationmanager-maintainers](https://github.com/orgs/International-Data-Spaces-Association/teams/ids-configurationmanager-maintainers)
+
+---
+
+#### InformationModel  
+The Information Model of the International Data Spaces implements the IDS reference architecture as an extensible, machine readable and technology independent data model.
+
+   [Visit Repository](https://github.com/International-Data-Spaces-Association/InformationModel)
+/ Responsible Team:[@ids-information-model-maintainers](https://github.com/orgs/International-Data-Spaces-Association/teams/ids-information-model-maintainers)
+   
+---
+
+#### IDS-ConfigurationManager-UI  
+is the user interface for the IDS Configurationmanager.
+
+   [Visit Repository](https://github.com/International-Data-Spaces-Association/IDS-ConfigurationManager-UI)
+/ Responsible Team:[@config-manager-ui-maintainers](https://github.com/orgs/International-Data-Spaces-Association/teams/config-manager-ui-maintainers)
+   
+---
+
+#### IDS-Messaging-Services  
+ Also known as "Unified Library" or "framework-library", the aim of IDS-Messaging-Services is to simplify the development of an IDS-Connector.
+
+   [Visit Repository](https://github.com/International-Data-Spaces-Association/IDS-Messaging-Services)
+/ Responsible Team:[@unified-library-maintainers](https://github.com/orgs/International-Data-Spaces-Association/teams/unified-library-maintainers)
+   
+---
+
+#### IDS-Enterprise-Integration-Connector  
+Lightweight Interoprable Connector Architecture for IDS-Communicatons.
+
+   [Visit Repository](https://github.com/International-Data-Spaces-Association/IDS-Enterprise-Integration-Connector)
+/ Administrator:[@DennisKubitza](https://github.com/DennisKubitza)
+   
+---
+
+#### metadata-broker-open-core  
+is the repository of the open-core reference implementation of the IDS Metadata Broker. 
+
+   [Visit Repository](https://github.com/International-Data-Spaces-Association/metadata-broker-open-core)
+/ Responsible Team:[@metadata-broker-open-core-maintainers](https://github.com/orgs/International-Data-Spaces-Association/teams/metadata-broker-open-core-maintainers)
+   
+---
+
+#### Java-Representation-of-IDS-Information-Model  
+is the representation of IDS Information Model in Java.
+
+   [Visit Repository](https://github.com/International-Data-Spaces-Association/Java-Representation-of-IDS-Information-Model)
+/ Administrator:[@maboeckmann](https://github.com/maboeckmann)
+   
+---
+
+#### Trusted-Connector
+IoT edge platform "Trusted Connector" of the International Data Spaces. Based on Apache Karaf, includes Camel message routing, a Camel component for remote attestation with other connectors, and a management web console.
+
+   [Visit Repository](https://github.com/International-Data-Spaces-Association/trusted-connector)
+/ Responsible Team:[@trusted-connector-group](https://github.com/orgs/International-Data-Spaces-Association/teams/trusted-connector-group)
+   
+---
+
+#### idscp2-jvm
+is Kotlin implementation of the IDS Communication Protocol (IDSCP2) for use in JVM environments.
+
+   [Visit Repository](https://github.com/International-Data-Spaces-Association/idscp2-jvm)
+/ Administrator:[@oxisto](https://github.com/oxisto)
+   
+---
+
+#### idscp2-rust
+is the Rust implementation of the IDSCPv2 transport layer.
+
+   [Visit Repository](https://github.com/International-Data-Spaces-Association/idscp2-rust)
+/ Responsible Team:[@idscp2-rust-maintainers](https://github.com/orgs/International-Data-Spaces-Association/teams/idscp2-rust-maintainers)
+   
+---
+
+#### oss-daps
+Open Source implementation of IDS DAPS (Dynamic Attribute Provisioning Service)
+
+   [Visit Repository](https://github.com/International-Data-Spaces-Association/oss-daps)
+/ Responsible Team:[@ids-daps-team](https://github.com/orgs/International-Data-Spaces-Association/teams/ids-daps-team)
+   
