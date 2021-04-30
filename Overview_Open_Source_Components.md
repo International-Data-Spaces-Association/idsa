@@ -2,7 +2,7 @@
 The tables below depict IDS functionalities and features in various reference implementations of IDS components. These are lists to provide up-to-date information (and a chance for comparison) on these implementations, by providing unofficial information on various aspects including certification level, used and supported components, usage control status, provision and consumption of data in IDS (via IDSCP), GUI, Open Source Status, etc. 
 
 # Requirements to OSS components
-
+IDSA is working on an assessment scheme for OSS projects that is clearly aligend with the IDS Certification approach. 
 
 # List of known components
 
