@@ -22,7 +22,7 @@ Repo name | Description | private (y/n) | tbc. |
 [IDS-ConfigurationManager-UI](https://github.com/International-Data-Spaces-Association/IDS-ConfigurationManager-UI)|User interface for the IDS Configurationmanager.|n|
 [metadata-broker-open-core](https://github.com/International-Data-Spaces-Association/metadata-broker-open-core)|This is the repository of the open-core reference implementation of the IDS Metadata Broker. |n|
 [IDS-ThinkTank](https://github.com/International-Data-Spaces-Association/IDS-ThinkTank)|This is the ThinkTank. It's used to collect ideas and work together on pre-mature concepts and documents. |y|
-[omejdn-daps](https://github.com/International-Data-Spaces-Association/omejdn-daps]|Forked from Fraunhofer-AISEC/omejdn-server. Omejdn is an OAuth2/OpenID connect server for IoT devices which use their private keys to request OAuth2 access tokens in order to access protected resources and websites or apps which retrieve user attributes.|n|
+[omejdn-daps](https://github.com/International-Data-Spaces-Association/omejdn-daps)|Forked from Fraunhofer-AISEC/omejdn-server. Omejdn is an OAuth2/OpenID connect server for IoT devices which use their private keys to request OAuth2 access tokens in order to access protected resources and websites or apps which retrieve user attributes.|n|
 [IDS-Deployment-Examples](https://github.com/International-Data-Spaces-Association/IDS-Deployment-Examples)|n.a.|y|
 [idscp2-jvm](https://github.com/International-Data-Spaces-Association/idscp2-jvm)|Forked from industrial-data-space/idscp2-java. Kotlin implementation of the IDS Communication Protocol (IDSCP2) for use in JVM environments. |n|
 [idscp2-rust](https://github.com/International-Data-Spaces-Association/idscp2-rust)|n.a.|n|
