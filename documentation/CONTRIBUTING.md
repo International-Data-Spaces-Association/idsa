@@ -19,7 +19,7 @@ Please consider the following rules:
 - create issues when something is misisng (or wrong) in your opinion
 - tbc.
 ## How to Suggest a Feature or Enhancement
-Open a new issue to for any kind of sugestion
+Open a new issue to for any kind of suggestion
 - Additional content
 - Additional section
 - Corrections
