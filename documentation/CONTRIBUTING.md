@@ -19,6 +19,11 @@ Please consider the following rules:
 - create issues when something is misisng (or wrong) in your opinion
 - tbc.
 ## How to Suggest a Feature or Enhancement
+Open a new issue to for any kind of sugestion
+- Additional content
+- Additional section
+- Corrections
+- Missing or wrong content detected
 ### roadmap, goals, or philosophy for development
 tba.
 ## Review Process
