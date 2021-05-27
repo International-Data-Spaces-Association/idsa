@@ -1,3 +1,8 @@
+# Overview on the IDS Repositories on GitHub
+
+[IDSA Github Repos.pdf](https://github.com/International-Data-Spaces-Association/idsa/files/6554088/IDSA.Github.Repos.pdf)
+
+
 Repo name | Description | private (y/n) | tbc. |
 --- | --- | --- | --- | 
 [idsa](https://github.com/International-Data-Spaces-Association/idsa) | About International Data Spaces Association on GitHub | n |
