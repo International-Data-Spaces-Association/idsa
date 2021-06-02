@@ -36,6 +36,13 @@ This stage is meant to sharpen your comprehension of IDS technologies and core i
 **IDS Communication Guide** – This document describes how the interfaces of the individual components are defined and, above all, implemented. This results in a very precise description of the interfaces of individual components. To access this document, you must be registered in JIVE under https://internationaldataspaces.org/we/get-access-to-jive/. Link to the document: https://industrialdataspace.jiveon.com/docs/DOC-2524
 
 
+### IDS Trainings
+
+**IDS Basic Training “Data sovereignty and International Data Spaces”** – This hands-on training is designed for professionals from various industries, IT and software development specialists, and executive managers who would like to understand the structure of the IDS architecture, its technologies, services, and roles. The training lasts one full day and is offered upon request by the Fraunhofer Academy in Dortmund, Germany. Link to the training: https://www.dataspaces.fraunhofer.de/en/referenzen/seminare/basic-training.html
+
+**IDS Software Workshop** – During this two-day workshop, the participants will get to know the functions and configurations of various IDS components (e.g., provider and consumer connector, IDS Broker, IDS Identity Provider). The workshop is targeted at developers, software experts, and architects. Dates and costs are available upon request. Link to the training: https://www.dataspaces.fraunhofer.de/en/referenzen/seminare/software_workshop.html
+
+
 ## Design your architecture
 This stage is meant to support you in designing the architecture of your components. It provides relevant links and explains the context around it. 
 ## Develop your components
