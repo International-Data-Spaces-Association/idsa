@@ -15,6 +15,100 @@ In general, your journey may contain the following stages:
 ## Gather knowledge
 This stage is meant to sharpen your comprehension of IDS technologies and core ideas. It is linking you to every source that could be of help while learning about the IDS. (E.g. IDS Reference Architecture, IDS Rulebook, Current IDS standard, IDS Handshake and Communication Guide)
 
+### GOALS OF THE INTERNATIONAL DATA SPACES
+Data sovereignty is a central aspect of the International Data
+Spaces. It can be defined as a natural person’s or corporate
+entity’s capability of being entirely self-determined with regard
+to its data. The International Data Spaces initiative proposes
+a Reference Architecture Model for this particular capability
+and related aspects, including requirements for secure
+and trusted data exchange in business ecosystems.
+
++ **TRUST:** Trust is the basis of the International Data Spaces. Each participant is evaluated and certified before being granted access to the trusted business ecosystem.
+
++ **SECURITY AND DATA SOVEREIGNTY:** All components of the International Data Spaces rely on state-of-the-art security measures. Apart from architectural specifications, security is mainly ensured by the evaluation and certification of each technical component used in the International Data Spaces. In line with the central aspect of ensuring data sovereignty, a data owner in the International Data Spaces attaches usage restriction information to their data before it is transferred to a data consumer. To use the data, the data consumer must fully accept the data owner’s usage policy.
+
++ **ECOSYSTEM OF DATA:** The architecture of the International
+                         Data Spaces does not require central data storage capabilities.
+                         Instead, it pursues the idea of decentralization
+                         of data storage, which means that data physically remains
+                         with the respective data owner until it is transferred to a
+                         trusted party. This approach requires a comprehensive description
+                         of each data source and the value and usability
+                         of data for other companies, combined with the ability to
+                         integrate domain-specific data vocabularies. In addition,
+                         brokers in the ecosystem provide services for real-time
+                         data search.
+
++ **STANDARDIZED INTEROPERABILITY:** The International
+                                     Data Spaces Connector, being a central component of the
+                                     architecture, is implemented in different variants and can
+                                     be acquired from different vendors. Nevertheless, each
+                                     Connector is able to communicate with any other Connector
+                                     (or other technical component) in the ecosystem of the
+                                     International Data Space.
+
++ **VALUE ADDING APPS:** The International Data Spaces allows
+                         to inject apps into the IDS Connectors in order to
+                         provide services on top of data exchange processes. This
+                         includes services for data processing, data format alignment,
+                         and data exchange protocols, for example. Furthermore,
+                         data analytics services can be provided by remote
+                         execution of algorithms.
+
++ **DATA MARKETS:** The International Data Space enables the
+                    creation of novel, data-driven services that make use of
+                    data apps. It also fosters new business models for these
+                    services by providing clearing mechanisms and billing
+                    functions, and by creating domain-specific broker solutions
+                    and marketplaces. In addition, the International Data
+                    Spaces provides templates and other methodological support
+                    for participants to use when specifying usage restriction
+                    information and requesting legal information.
+
+All research and development activities, as well as all activities
+with regard to standardization, are driven by the
+following guidelines:
+
+
++ **OPEN DEVELOPMENT PROCESS:** The International Data
+                                Spaces Association is a non-profit organization institutionalized
+                                under the German law of associations. Every organization
+                                is invited to participate, as long as it adheres to the
+                                common principles of work.
+
++ **RE-USE OF EXISTING TECHNOLOGIES:** Inter-organizational
+                                       information systems, data interoperability, and information
+                                       security are well-established fields of research and
+                                       development, with plenty of technologies available in the
+                                       market. The work of the International Data Spaces initiative
+                                       is guided by the idea not to “reinvent the wheel”, but to
+                                       use existing technologies (e.g., from the open-source domain)
+                                       and standards (e.g., semantic standards of the W3C)
+                                       to the extent possible.
+
++ **CONTRIBUTION TO STANDARDIZATION:** Aiming at establishing
+                                       an international standard itself, the International
+                                       Data Spaces initiative supports the idea of standardized architecture
+                                       stacks.
+                                       
+
+### International Data Spaces Association
+**TODO**: Describe IDSA, Goals, Link to "Become Member"
+
+### How to start
+Currently, IDS does not yet have an overarching existing ecosystem. Until now, mainly use cases between individual companies have been addressed
+In the following diagram, these are located in evolutionary stage **I**.
+In the meantime, use cases of evolution stage **II** are becoming increasingly established. The [Mobility Data Space](https://www.mobility-data-space.de/) and [Catena-X](https://www.handelsblatt.com/27129464.html) are particularly worthy of mention here, as are other [IDS Communities](https://internationaldataspaces.org/make/communities/) and [Projects](https://internationaldataspaces.org/make/projects/).
+
+![IDS ecosystems evolution](./images/IDS business ecosystems evolution.png)
+
+On the IDSA website some use cases are described, which can be used as a guideline:
+[https://internationaldataspaces.org/make/use-cases-overview/](https://internationaldataspaces.org/make/use-cases-overview/ )
+
+**TODO**: Describe N:M Ecosystems from figure; Address use case development; Security Level
+
+### Further Documents
 **IDS Reference Architecture Model (RAM)** – This is an introductory document to the IDS architecture. It describes the goals, the structure, and the key elements of the architectural set-up of the IDS and offers a first glance at the practical application and context in which the IDS is used. Link to the document: https://internationaldataspaces.org/wp-content/uploads/IDS-Reference-Architecture-Model-3.0-2019.pdf
 
 **Visual Overview of the IDS** – Here you can find a visual representation of the IDS architecture that helps you and your business to understand the basic setup of the IDS. Link to the document: https://internationaldataspaces.org/wp-content/uploads/dlm_uploads/IDSA-Infografik-English.pdf
@@ -41,6 +135,17 @@ This stage is meant to sharpen your comprehension of IDS technologies and core i
 **IDS Basic Training “Data sovereignty and International Data Spaces”** – This hands-on training is designed for professionals from various industries, IT and software development specialists, and executive managers who would like to understand the structure of the IDS architecture, its technologies, services, and roles. The training lasts one full day and is offered upon request by the Fraunhofer Academy in Dortmund, Germany. Link to the training: https://www.dataspaces.fraunhofer.de/en/referenzen/seminare/basic-training.html
 
 **IDS Software Workshop** – During this two-day workshop, the participants will get to know the functions and configurations of various IDS components (e.g., provider and consumer connector, IDS Broker, IDS Identity Provider). The workshop is targeted at developers, software experts, and architects. Dates and costs are available upon request. Link to the training: https://www.dataspaces.fraunhofer.de/en/referenzen/seminare/software_workshop.html
+
+
+
+## Setup your IDS Connector in your system landscape
+
+**TODO** Link to DSC, Trusted Connector, TRUE Connector
+
+---
+From here on old content
+
+---
 
 
 ## Design your architecture
