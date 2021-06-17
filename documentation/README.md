@@ -130,7 +130,7 @@ On the IDSA website some use cases are described, which can be used as a guideli
 
 **IDS Communication Guide** – This document describes how the interfaces of the individual components are defined and, above all, implemented. This results in a very precise description of the interfaces of individual components. To access this document, you must be registered in JIVE under https://internationaldataspaces.org/we/get-access-to-jive/. Link to the document: https://industrialdataspace.jiveon.com/docs/DOC-2524
 
-
+**Data Usage Control in IDS** Data Usage Control is the specification and enforcement of restrictions regulating what must (not) happen to data. It is an extension to traditional Access Control. This document provides necessary information about Data Usage Control in IDS. Link to the document: [# Data Sovereignty: Updated Position Paper on Data Usage Control in the IDS](https://internationaldataspaces.org/data-sovereignty-updated-position-paper-on-data-usage-control-in-the-ids/)
 ### IDS Trainings
 
 **IDS Basic Training “Data sovereignty and International Data Spaces”** – This hands-on training is designed for professionals from various industries, IT and software development specialists, and executive managers who would like to understand the structure of the IDS architecture, its technologies, services, and roles. The training lasts one full day and is offered upon request by the Fraunhofer Academy in Dortmund, Germany. Link to the training: https://www.dataspaces.fraunhofer.de/en/referenzen/seminare/basic-training.html
