@@ -130,6 +130,9 @@ On the IDSA website some use cases are described, which can be used as a guideli
 
 **IDS Communication Guide** – This document describes how the interfaces of the individual components are defined and, above all, implemented. This results in a very precise description of the interfaces of individual components. To access this document, you must be registered in JIVE under https://internationaldataspaces.org/we/get-access-to-jive/. Link to the document: https://industrialdataspace.jiveon.com/docs/DOC-2524
 
+**IDS Message Description** - This document lists all IDS message types along with a descripton of the role of each message type. The messages are categorized in the three main IDS message categories: Request, Response, and Notification messages. Link to the document: https://htmlpreview.github.io/?https://github.com/IndustrialDataSpace/InformationModel/blob/feature/message_taxonomy_description/model/communication/Message_Description.htm.
+
+**IDS Appstore and App Development** - This document provides an overview of how IDS Data Apps and IDS App Store operate, along with their interaction with other IDS components. To access this document, you must be registered in JIVE under https://internationaldataspaces.org/we/get-access-to-jive/. Link to the document: https://industrialdataspace.jiveon.com/docs/DOC-2604
 
 ### IDS Trainings
 
