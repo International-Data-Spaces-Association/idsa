@@ -19,6 +19,20 @@ Read the Executive Summary of the IDSA [here](https://www.internationaldataspace
 Find the overview on the IDS resources in [**IDS-G** here on GitHub](https://github.com/International-Data-Spaces-Association/IDS-G)
 
 ---
+
 [See the IDSA Homepage](https://www.internationaldataspaces.org) and the [Most important Documents](https://www.internationaldataspaces.org/info-package/)
 
 ---
+
+## ARE YOU INTERESTED IN CONTRIBUTING?
+IDSA welcomes contributions to our open source projects on Github. If you are not a member of IDSA Github, then please use this [form](https://forms.office.com/r/JhH7HpCcGG "IDSA Github / Participation Request"). to submit a participation request: 
+
+When contributing, we ask you to adhere to the guidelines of the repository you are interested in. For this
+
+If you already have access to the IDS Github, we recommend you to adhere to the guidelines of the repository you are interested in. You can start doing this by checking the existing documentation of the repository:
+
+* License
+* Code of Conduct
+* Set of Labels for Issues
+
+and then contact the maintainers of the repository.
