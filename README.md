@@ -33,7 +33,7 @@ Find the overview on the IDS resources in [**IDS-G** here on GitHub](https://git
 ## ARE YOU INTERESTED IN CONTRIBUTING?
 IDSA welcomes contributions to our open source projects on Github. If you are not a member of IDSA Github, then please use this [form](https://forms.office.com/r/JhH7HpCcGG "IDSA Github / Participation Request") to submit a participation request. 
 
-If you already have access to the IDS Github, we recommend you to adhere to the guidelines of the repository you are interested in. You can start doing this by checking the existing documentation of the repository:
+If you already have access to the IDSA Github, we recommend you to adhere to the guidelines of the repository you are interested in. You can start doing this by checking the existing documentation of the repository:
 
 * License
 * Code of Conduct
