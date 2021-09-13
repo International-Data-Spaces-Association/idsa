@@ -29,7 +29,7 @@ Incubating projects have proven their compatibility (based on IDS Certification)
 ### Graduation Stage
 Graduated projects signal the highest level of maturity for an IDSA project. They have achieved a broad acceptance and adoption in data spaces. 
  
- ![graduation stages]((/media/graduation_steps.png)
+ ![graduation stages](media/graduation_steps.png)
 
 ## Submission/Application Processes
 
@@ -67,7 +67,7 @@ During this submission review, the TSC votes on each submission, and projects wi
 
 All exceptions (and "no" outcomes) are handled by the TSC.
 
- ![incubation_process]((/media/incubation_process.png)
+ ![incubation_process](media/incubation_process.png)
 Figure 3 1: From Sandbox to Incubation Steps
 
 #### Project Proposal
@@ -136,7 +136,7 @@ Projects must have a 2/3 supermajority vote of the TSC to graduate
 -	All “no” outcomes and other exceptions are discussed by the TSC, and then with project and WG representatives. We will try to give feedback but it may simply be a lack of conviction in the project.
  
 
-![graduation_process]((/media/graduation_process.png)
+![graduation_process](media/graduation_process.png)
 Figure 3 2: From Incubation to Graduation Steps
 
 #### Project Proposal Requirements
