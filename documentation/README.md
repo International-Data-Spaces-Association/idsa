@@ -20,6 +20,11 @@ In general, your journey may contain the following stages:
 + Get IDS certified
 + Register to get on board
 + Start sharing
+
+### Use Open Source Software
+[start with the data space connector](https://international-data-spaces-association.github.io/DataspaceConnector/)
+
+
 ## Gather knowledge
 This stage is meant to sharpen your comprehension of IDS technologies and core ideas. It is linking you to every source that could be of help while learning about the IDS. (E.g. IDS Reference Architecture, IDS Rulebook, Current IDS standard, IDS Handshake and Communication Guide)
 
