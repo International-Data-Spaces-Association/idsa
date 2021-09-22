@@ -19,7 +19,7 @@ As depicted on the infographic below, the IDS standard enables trustworthy data 
 ## IDSA AT A GLANCE
 Read the Executive Summary of the IDSA [here](https://www.internationaldataspaces.org/publications/sharing-data-while-keeping-data-ownership-the-potential-of-ids-for-the-data-economy/).
 
-#---
+---<hr style="border:2px solid blue"> </hr>
 
 [IDSA Website](https://internationaldataspaces.org/) | [LinkedIn](https://www.linkedin.com/company/international-data-spaces-association/mycompany/) | [Twitter](https://twitter.com/ids_association) | [YouTube](https://www.youtube.com/channel/UC9PsQnKgreCmj-F6Kea5QRg) 
 
