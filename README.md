@@ -33,7 +33,7 @@ Find the overview on the IDS resources and status of specifications in [**IDS-G*
 IDSA welcomes contributions from all levels (organizational, individual and projects) to the IDS OS Landscape. Feel free to join, discover and be part of the projects that constitutes the technical backbone of the data economy's future.  
 
 ### Joining as a Contributor
-*If you are not a user of IDSA Github yet*, please use this [form](https://forms.office.com/r/60B1hWv1Fu "IDSA Github / Participation Request") to submit a participation request. The requests are responded within two business days (in most cases, the invitations are sent within several hours).
+*If you are not a user of IDSA Github yet*, please use this [form](https://forms.office.com/r/60B1hWv1Fu "IDSA Github / Participation Request") to submit a participation request. The requests are responded within a maximum of two business days (in most cases, the invitations are sent within several hours).
 
 *If you already have access to IDSA Github*, we recommend you to adhere to the guidelines of the repository you are interested in. You can start doing this by checking the existing documentation of the repository:
 
