@@ -45,6 +45,7 @@ IDSA welcomes contributions from all levels (organizational, individual and proj
 and then contact the maintainers of the repository.
 
 
+
 ### Joining as a Project
 You are warmly invited to move your project into the IDS OS Landscape. This will not only make you a part of the great community here, but also will give you an opportunity to share your experiences and gather feedback from the other members.  
 
