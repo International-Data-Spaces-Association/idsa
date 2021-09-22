@@ -12,7 +12,7 @@ The specification of the IDS Association forms the basis for a data marketplace 
 
 As depicted on the infographic below, the IDS standard enables trustworthy data exchange among certified dataproviders and recipients, based on mutually agreed rules. Data spaces improve cooperation, lower the barriers to entry and enhance innovation for the future of data economy.
 
-![Data Sharing in a Data Space](images/IDSA-Infographic-Data-Sharing-in-a-Data-Space-1.jpg)
+![Data Sharing in a Data Space](images/IDSA-Infographic-Data-Sharing-in-a-Data-Space.jpg)
 
 ---
 
