@@ -10,7 +10,7 @@ There is a need for vendor independent data ecosystems and marketplaces, open to
 
 The specification of the IDS Association forms the basis for a data marketplace based on European values, i.e. data privacy and security, equal opportunities through a federated design, and ensuring data sovereignty for the creator of the data and trust among participants. It forms the strategic link between the creation of data in the internet of things on the one hand side and the use of this data in machine learning (ML) and artificial intelligence (AI) algorithms on the other hand side.
 
-![Data Sharing in a Data Space](IDSA-Infographic-Data-Sharing-in-a-Data-Space.jpg)
+![Data Sharing in a Data Space](IDSA-Infographic-Data-Sharing-in-a-Data-Space-1.jpg)
 
 ---
 
