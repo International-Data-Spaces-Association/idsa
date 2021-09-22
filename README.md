@@ -26,7 +26,9 @@ Read the Executive Summary of the IDSA [here](https://www.internationaldataspace
 Find the overview on the IDS resources and status of specifications in [**IDS-G** here on GitHub](https://github.com/International-Data-Spaces-Association/IDS-G)
 #
 [See the IDSA Homepage](https://www.internationaldataspaces.org) and the [Most Important Documents from IDSA](https://internationaldataspaces.org/publications/most-important-documents/)
+
 ---
+
 ## BECOME PART OF IDS OS LANDSCAPE
 IDSA welcomes contributions from all levels (organizational, individual and projects) to the IDS OS Landscape. Feel free to join, discover and be part of the projects that constitutes the technical backbone of the data economy's future.  
 
