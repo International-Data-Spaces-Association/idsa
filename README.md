@@ -22,21 +22,35 @@ Read the Executive Summary of the IDSA [here](https://www.internationaldataspace
 
 ---
 
-Find the overview on the IDS resources in [**IDS-G** here on GitHub](https://github.com/International-Data-Spaces-Association/IDS-G)
+Find the overview on the IDS resources and status of specifications in [**IDS-G** here on GitHub](https://github.com/International-Data-Spaces-Association/IDS-G)
 
 ---
 
-[See the IDSA Homepage](https://www.internationaldataspaces.org) and the [Most important Documents](https://internationaldataspaces.org/publications/most-important-documents/)
+[See the IDSA Homepage](https://www.internationaldataspaces.org) and the [Most Important Documents from IDSA](https://internationaldataspaces.org/publications/most-important-documents/)
 
 ---
 
-## ARE YOU INTERESTED IN CONTRIBUTING?
-IDSA welcomes contributions to our open source projects on Github. If you are not a member of IDSA Github, then please use this [form](https://forms.office.com/r/60B1hWv1Fu "IDSA Github / Participation Request") to submit a participation request. 
+## BECOME PART OF IDS OS LANDSCAPE
+IDSA welcomes contributions to our open source projects on Github. 
 
-If you already have access to the IDSA Github, we recommend you to adhere to the guidelines of the repository you are interested in. You can start doing this by checking the existing documentation of the repository:
+### Joining as a Contributor
+*If you are not a user of IDSA Github yet*, please use this [form](https://forms.office.com/r/60B1hWv1Fu "IDSA Github / Participation Request") to submit a participation request. The requests are responded within two business days (in most cases, the invitations are sent within several hours).
+
+*If you already have access to IDSA Github*, we recommend you to adhere to the guidelines of the repository you are interested in. You can start doing this by checking the existing documentation of the repository:
 
 * License
 * Code of Conduct
 * Set of Labels for Issues
 
 and then contact the maintainers of the repository.
+
+### Joining as a Project
+You are warmly invited to move your project into the IDS OS Landscape. This will not only make you a part of the great community here, but also will give you an opportunity to share your experiences and gather feedback from the other members.  
+
+If your project is not part of the IDSA OS Landscape, please use this form to [apply as a sandbox project](https://internationaldataspaces.org/ids-open-source-application/).
+
+
+For more information, please feel free to check [IDSA OS Graduation Scheme](...), where the processes for application and graduation are described in detail.
+
+
+
