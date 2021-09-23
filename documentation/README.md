@@ -32,7 +32,7 @@ In general, a typical data space development journey consists of the following s
 
 ## 1. Gathering Knowledge
 
-If you are an IDS beginner you should start with the consumption of some of our documents. 
+If you are an IDS beginner you should start with  some of our documents: 
 
 ### Relevant Documents
 **IDS Reference Architecture Model (RAM)** – This is the central document of the IDS and describes the IDS architecture. It contains the goals, the structure, and the key elements of the architectural set-up of the IDS and offers a first glance at the practical application and context in which the IDS is used. Link to the document: https://internationaldataspaces.org/wp-content/uploads/IDS-Reference-Architecture-Model-3.0-2019.pdf
@@ -63,7 +63,7 @@ If you are an IDS beginner you should start with the consumption of some of our 
 
 ### IDS Trainings
 
-If you feel that you need some additional supprt, you can consider the following workshop offerings.
+If you feel that you need some additional support, you can consider the following workshop offerings.
 
 **IDS Basic Training “Data sovereignty and International Data Spaces”** – This hands-on training is designed for professionals from various industries, IT and software development specialists, and executive managers who would like to understand the structure of the IDS architecture, its technologies, services, and roles. The training lasts one full day and is offered upon request by the Fraunhofer Academy in Dortmund, Germany. Link to the training: https://www.dataspaces.fraunhofer.de/en/referenzen/seminare/basic-training.html
 
