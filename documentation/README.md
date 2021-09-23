@@ -14,7 +14,8 @@ If you are interested in contributing to this document, please check the detaile
 # Building Data Spaces
 On the sections below, you will find the appropriate resources and links that provide technical information/documentation on each step for developing data spaces. As is known, every development journey is an individual one. So your starting point may differ based on your knowledge, as well as the steps you have to take. Please feel free to check the forthcoming chapters to find relevant information and documentation.
 
-In general, a general data space development journey consists of the following stages: 
+In general, a typical data space development journey consists of the following stages:
+
 [1. Gathering Knowledge](/documentation/README.md#1-gathering-knowledge)
 
 [2. Design Your Architecture](/documentation/README.md#2-design-your-architecture)
@@ -34,6 +35,38 @@ In general, a general data space development journey consists of the following s
 ## 2. Design Your Architecture
 
 ## 3. Develop Your Components
+You can either build IDS components from scratch by using existing resources as a template, or you can reuse existing open source components available on the IDS Github repository. Already at this stage, you must ensure that the necessary requirements for a later, successful certification are met. Below you can check the existing projects that are available on IDS OS Landscape.
+
+### Connectors
+
+* [Dataspace Connector](../../../../DataspaceConnector/) 
+* [TRUE Connector](../../../../true-connector/) 
+* [Trusted Connector](../../../../trusted-connector/)
+
+### Metadata Broker
+
+* [Metadata Broker Open Core](../../../../metadata-broker-open-core/)
+
+### Identity Management
+* [DAPS](../../../../omejdn-daps/) 
+* [ParIS Open Core](../../../../ParIS-open-core/)
+
+### App Store
+* [AppStore Open Core](../../../../IDS-AppStore/)
+
+### Clearing House
+* [Clearing House](../../../../ids-clearing-house-core/) 
+
+### Frameworks & Other Resources
+* [Certification Criteria Catalogue](../../../../ids3c-co/) 
+* [DataspaceConnector UI](../../../../ids-clearing-house-core/)
+* [Deployment Examples](../../../../IDS-Deployment-Examples/)
+* [IDS Enterprise Integration Connector](../../../../IDS-Enterprise-Integration-Connector/) 
+* [IDS Clearing House Service](../../../../ids-clearing-house-service/) 
+* [IDSCP2Rust](../../../../idscp2-rust/) 
+* [IDS Information Model](../../../../InformationModel/) 
+* [IDS Messaging Services](../../../../IDS-Messaging-Services/) 
+* [IDS Testbed](../../../../IDS-testbed/) 
 
 ## 4. Integrate Your Components
 
@@ -42,23 +75,12 @@ In general, a general data space development journey consists of the following s
 ## 6. Start Sharing Your Data in a Sovereign Way
 
 
-Let's move content below into the structure above.
---- 
+***Note: Let's move content below into the structure above.
 
-Since every journey is individual, the starting point may differ as well as the steps you have to take. 
-In general, your journey may contain the following stages: 
-+ Gather knowledge
-+ Design your architecture
-+ Develop your components
-+ Integrate your components
-+ Prepare for certification
-+ Get IDS certified
-+ Register to get on board
-+ Start sharing
+---
 
 ### Use Open Source Software
 [start with the data space connector](https://international-data-spaces-association.github.io/DataspaceConnector/)
-
 
 ## Gather knowledge
 This stage is meant to sharpen your comprehension of IDS technologies and core ideas. It is linking you to every source that could be of help while learning about the IDS. (E.g. IDS Reference Architecture, IDS Rulebook, Current IDS standard, IDS Handshake and Communication Guide)
