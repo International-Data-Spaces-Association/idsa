@@ -1,6 +1,6 @@
 # Documentation
 ## Introduction
-The following content is meant to support everyone who wants to either build IDS components or implement existing open source components.
+The following content is meant to support everyone who wants to either build IDS components or implement and/or contribute to the existing open source components.
 It will link you to relevant sources and will provide guidance on your way. 
 
 Since this documentation relies on the IDS expertise and experience of everyone involved, please feel free **to contribute to it.** 
@@ -9,7 +9,22 @@ As soon as you notice that you are missing information at a certain point, you c
 + Add a section, link, or whatever would fill this gap.
 + Have a look at the open issues and try to fix them.
 
-Please check the information on [how to contribute](/documentation/CONTRIBUTING.md).
+If you are interested in contributing to this document, please check the detailed information on [how to contribute](/documentation/CONTRIBUTING.md) to this documentation.
+
+# Building Data Spaces
+## Gather Knowledge
+
+## Design Your Architecture
+
+## Develop Your Components
+
+## Integrate Your Components
+
+## Get Certified
+
+## Start Sharing Your Data in a Sovereign Way
+
+
 
 Since every journey is individual, the starting point may differ as well as the steps you have to take. 
 In general, your journey may contain the following stages: 
