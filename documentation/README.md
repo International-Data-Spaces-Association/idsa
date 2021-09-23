@@ -12,8 +12,10 @@ As soon as you notice that you are missing information at a certain point, you c
 If you are interested in contributing to this document, please check the detailed information on [how to contribute](/documentation/CONTRIBUTING.md) to this documentation.
 
 # Building Data Spaces
+On the sections below, you will find the appropriate resources and links that provide technical information/documentation on each step for developing data spaces. As is known, every development journey is an individual one. So your starting point may differ based on your knowledge, as well as the steps you have to take. Please feel free to check the forthcoming chapters to find relevant information and documentation.
 
-[1. Gather Knowledge](/documentation/README.md#1-gather-knowledge)
+In general, a general data space development journey consists of the following stages: 
+[1. Gathering Knowledge](/documentation/README.md#1-gathering-knowledge)
 
 [2. Design Your Architecture](/documentation/README.md#2-design-your-architecture)
 
@@ -25,10 +27,9 @@ If you are interested in contributing to this document, please check the detaile
 
 [6. Start Sharing Your Data in a Sovereign Way](/documentation/README.md#6-start-sharing-your-data-in-a-sovereign-way)
 
-On the sections below, you will find the appropriate resources and links that provide technical information/documentation on each step for developing data spaces. As is known, every development journey is an individual one. So your starting point may differ based on your knowledge, as well as the steps you have to take. Please feel free to check the forthcoming chapters to find relevant information and documentation.
+---
 
-
-## 1. Gather Knowledge
+## 1. Gathering Knowledge
 
 ## 2. Design Your Architecture
 
@@ -41,6 +42,8 @@ On the sections below, you will find the appropriate resources and links that pr
 ## 6. Start Sharing Your Data in a Sovereign Way
 
 
+Let's move content below into the structure above.
+--- 
 
 Since every journey is individual, the starting point may differ as well as the steps you have to take. 
 In general, your journey may contain the following stages: 
