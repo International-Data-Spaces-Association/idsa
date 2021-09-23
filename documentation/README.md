@@ -31,16 +31,19 @@ In general, a typical data space development journey consists of the following s
 ---
 
 ## 1. Gathering Knowledge
+
+If you are an IDS beginner you should start with the consumption of some of our documents. 
+
 ### Relevant Documents
 **IDS Reference Architecture Model (RAM)** – This is the central document of the IDS and describes the IDS architecture. It contains the goals, the structure, and the key elements of the architectural set-up of the IDS and offers a first glance at the practical application and context in which the IDS is used. Link to the document: https://internationaldataspaces.org/wp-content/uploads/IDS-Reference-Architecture-Model-3.0-2019.pdf
+
+**IDSA Rulebook** – This document is meant for businesses and individuals who are building or using data-driven business models. This rulebook outlines a common governance framework and specifies the functional, technical, operational, and legal agreements to operate securely in the IDS. Link to the document: https://internationaldataspaces.org/wp-content/uploads/IDSA-White-Paper-IDSA-Rule-Book.pdf
 
 **Visual Overview of the IDS** – Here you can find a visual representation of the IDS architecture that helps you and your business to understand the basic setup of the IDS. Link to the document: https://internationaldataspaces.org/wp-content/uploads/dlm_uploads/IDSA-Infografik-English.pdf
 
 **IDS Standard (DIN SPEC 27070)** – The DIN SPEC 27070 is a confidential document that specifies the technical requirements and the reference architecture of a Security Gateway for the exchange of industry data and services. Based on the principles of data sovereignty, the Security Gateway facilitates secure exchange of data and allows providing and using trustworthy data services. Link to request access to the document: https://internationaldataspaces.org/din-spec-27070/
 
 **IDS and GAIA-X Position Paper** – The European initiative GAIA-X and the International Data Spaces share the vision of proliferating data sovereignty in a trusted data ecosystem. Nevertheless, some main differences exist. This position paper explains the relation of the International Data Spaces Reference Architecture Model and the principles and architecture of the European Imitative GAIA-X. Link to the document: https://internationaldataspaces.org/wp-content/uploads/IDSA-Position-Paper-GAIA-X-and-IDS.pdf
-
-**IDSA Rulebook** – This document is meant for businesses and individuals who are building or using data-driven business models. This rulebook outlines a common governance framework and specifies the functional, technical, operational, and legal agreements to operate securely in the IDS. Link to the document: https://internationaldataspaces.org/wp-content/uploads/IDSA-White-Paper-IDSA-Rule-Book.pdf
 
 **IDS Glossary** – In this glossary, the most important terms of the IDS, the services, and tools are defined (e.g., Clearing House, Data Provider, Data Sovereignty). Link to the glossary: https://github.com/International-Data-Spaces-Association/IDS-G/blob/master/glossary/README.md#certification-authority
 
@@ -59,7 +62,9 @@ In general, a typical data space development journey consists of the following s
 **Data Usage Control in IDS** Data Usage Control is the specification and enforcement of restrictions regulating what must (not) happen to data. It is an extension to traditional Access Control. This document provides necessary information about Data Usage Control in IDS. Link to the document: [# Data Sovereignty: Updated Position Paper on Data Usage Control in the IDS](https://internationaldataspaces.org/data-sovereignty-updated-position-paper-on-data-usage-control-in-the-ids/)
 
 ### IDS Trainings
+
 If you feel that you need some additional supprt, you can consider the following workshop offerings.
+
 **IDS Basic Training “Data sovereignty and International Data Spaces”** – This hands-on training is designed for professionals from various industries, IT and software development specialists, and executive managers who would like to understand the structure of the IDS architecture, its technologies, services, and roles. The training lasts one full day and is offered upon request by the Fraunhofer Academy in Dortmund, Germany. Link to the training: https://www.dataspaces.fraunhofer.de/en/referenzen/seminare/basic-training.html
 
 **IDS Software Workshop** – During this two-day workshop, the participants will get to know the functions and configurations of various IDS components (e.g., provider and consumer connector, IDS Broker, IDS Identity Provider). The workshop is targeted at developers, software experts, and architects. Dates and costs are available upon request. Link to the training: https://www.dataspaces.fraunhofer.de/en/referenzen/seminare/software_workshop.html
