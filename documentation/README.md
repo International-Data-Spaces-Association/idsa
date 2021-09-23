@@ -31,6 +31,39 @@ In general, a typical data space development journey consists of the following s
 ---
 
 ## 1. Gathering Knowledge
+### Relevant Documents
+**IDS Reference Architecture Model (RAM)** – This is the central document of the IDS and describes the IDS architecture. It contains the goals, the structure, and the key elements of the architectural set-up of the IDS and offers a first glance at the practical application and context in which the IDS is used. Link to the document: https://internationaldataspaces.org/wp-content/uploads/IDS-Reference-Architecture-Model-3.0-2019.pdf
+
+**Visual Overview of the IDS** – Here you can find a visual representation of the IDS architecture that helps you and your business to understand the basic setup of the IDS. Link to the document: https://internationaldataspaces.org/wp-content/uploads/dlm_uploads/IDSA-Infografik-English.pdf
+
+**IDS Standard (DIN SPEC 27070)** – The DIN SPEC 27070 is a confidential document that specifies the technical requirements and the reference architecture of a Security Gateway for the exchange of industry data and services. Based on the principles of data sovereignty, the Security Gateway facilitates secure exchange of data and allows providing and using trustworthy data services. Link to request access to the document: https://internationaldataspaces.org/din-spec-27070/
+
+**IDS and GAIA-X Position Paper** – The European initiative GAIA-X and the International Data Spaces share the vision of proliferating data sovereignty in a trusted data ecosystem. Nevertheless, some main differences exist. This position paper explains the relation of the International Data Spaces Reference Architecture Model and the principles and architecture of the European Imitative GAIA-X. Link to the document: https://internationaldataspaces.org/wp-content/uploads/IDSA-Position-Paper-GAIA-X-and-IDS.pdf
+
+**IDSA Rulebook** – This document is meant for businesses and individuals who are building or using data-driven business models. This rulebook outlines a common governance framework and specifies the functional, technical, operational, and legal agreements to operate securely in the IDS. Link to the document: https://internationaldataspaces.org/wp-content/uploads/IDSA-White-Paper-IDSA-Rule-Book.pdf
+
+**IDS Glossary** – In this glossary, the most important terms of the IDS, the services, and tools are defined (e.g., Clearing House, Data Provider, Data Sovereignty). Link to the glossary: https://github.com/International-Data-Spaces-Association/IDS-G/blob/master/glossary/README.md#certification-authority
+
+**IDS Use Case Overview** – The purpose of this document is to provide interested parties with an overview of the practical application of the IDS architecture in various industries. The use cases which are gathered in this document are real-life examples of IDS industry partners and include a short problem statement, description of the targets, results, and benefits. Link to the document: https://internationaldataspaces.org/wp-content/uploads/dlm_uploads/Use-Case-Brochure_2019.pdf
+
+**New Business Models for Data Spaces Grounded in Data Sovereignty** - This paper applies business frameworks and methods to the IDS perspective and gives some concrete use-case examples of early adopters for governance, participants, and support service providers. Link to the document: https://internationaldataspaces.org/wp-content/uploads/IDSA-Position-Paper-New-Business-Models-sneak-preview-version.pdf
+
+**IDS Handshake** – This document, referred to as the IDS Handshake, details the actual steps of the data exchange process between participants in the IDS. It highlights the mandatory and optional steps that are needed to establish a trustworthy connection. To access this document, you must be registered in JIVE under https://internationaldataspaces.org/we/get-access-to-jive/. Link to the document: https://industrialdataspace.jiveon.com/docs/DOC-1817#jive_content_id_Motivation
+
+**IDS Communication Guide** – This document describes how the interfaces of the individual components are defined and, above all, implemented. This results in a very precise description of the interfaces of individual components. To access this document, you must be registered in JIVE under https://internationaldataspaces.org/we/get-access-to-jive/. Link to the document: https://industrialdataspace.jiveon.com/docs/DOC-2524
+
+**IDS Message Description** - This document lists all IDS message types along with a descripton of the role of each message type. The messages are categorized in the three main IDS message categories: Request, Response, and Notification messages. Link to the document: https://htmlpreview.github.io/?https://github.com/IndustrialDataSpace/InformationModel/blob/feature/message_taxonomy_description/model/communication/Message_Description.htm.
+
+**IDS Appstore and App Development** - This document provides an overview of how IDS Data Apps and IDS App Store operate, along with their interaction with other IDS components. To access this document, you must be registered in JIVE under https://internationaldataspaces.org/we/get-access-to-jive/. Link to the document: https://industrialdataspace.jiveon.com/docs/DOC-2604
+
+**Data Usage Control in IDS** Data Usage Control is the specification and enforcement of restrictions regulating what must (not) happen to data. It is an extension to traditional Access Control. This document provides necessary information about Data Usage Control in IDS. Link to the document: [# Data Sovereignty: Updated Position Paper on Data Usage Control in the IDS](https://internationaldataspaces.org/data-sovereignty-updated-position-paper-on-data-usage-control-in-the-ids/)
+
+### IDS Trainings
+If you feel that you need some additional supprt, you can consider the following workshop offerings.
+**IDS Basic Training “Data sovereignty and International Data Spaces”** – This hands-on training is designed for professionals from various industries, IT and software development specialists, and executive managers who would like to understand the structure of the IDS architecture, its technologies, services, and roles. The training lasts one full day and is offered upon request by the Fraunhofer Academy in Dortmund, Germany. Link to the training: https://www.dataspaces.fraunhofer.de/en/referenzen/seminare/basic-training.html
+
+**IDS Software Workshop** – During this two-day workshop, the participants will get to know the functions and configurations of various IDS components (e.g., provider and consumer connector, IDS Broker, IDS Identity Provider). The workshop is targeted at developers, software experts, and architects. Dates and costs are available upon request. Link to the training: https://www.dataspaces.fraunhofer.de/en/referenzen/seminare/software_workshop.html
+
 
 ## 2. Design Your Architecture
 
@@ -185,38 +218,6 @@ On the IDSA website some use cases are described, which can be used as a guideli
 
 **TODO**: Describe N:M Ecosystems from figure; Address use case development; Security Level
 
-### Further Documents
-**IDS Reference Architecture Model (RAM)** – This is an introductory document to the IDS architecture. It describes the goals, the structure, and the key elements of the architectural set-up of the IDS and offers a first glance at the practical application and context in which the IDS is used. Link to the document: https://internationaldataspaces.org/wp-content/uploads/IDS-Reference-Architecture-Model-3.0-2019.pdf
-
-**Visual Overview of the IDS** – Here you can find a visual representation of the IDS architecture that helps you and your business to understand the basic setup of the IDS. Link to the document: https://internationaldataspaces.org/wp-content/uploads/dlm_uploads/IDSA-Infografik-English.pdf
-
-**IDS Standard (DIN SPEC 27070)** – The DIN SPEC 27070 is a confidential document that specifies the technical requirements and the reference architecture of a Security Gateway for the exchange of industry data and services. Based on the principles of data sovereignty, the Security Gateway facilitates secure exchange of data and allows providing and using trustworthy data services. Link to request access to the document: https://internationaldataspaces.org/din-spec-27070/
-
-**IDS and GAIA-X Position Paper** – The European initiative GAIA-X and the International Data Spaces share the vision of proliferating data sovereignty in a trusted data ecosystem. Nevertheless, some main differences exist. This position paper explains the relation of the International Data Spaces Reference Architecture Model and the principles and architecture of the European Imitative GAIA-X. Link to the document: https://internationaldataspaces.org/wp-content/uploads/IDSA-Position-Paper-GAIA-X-and-IDS.pdf
-
-**IDSA Rulebook** – This document is meant for businesses and individuals who are building or using data-driven business models. This rulebook outlines a common governance framework and specifies the functional, technical, operational, and legal agreements to operate securely in the IDS. Link to the document: https://internationaldataspaces.org/wp-content/uploads/IDSA-White-Paper-IDSA-Rule-Book.pdf
-
-**IDS Glossary** – In this glossary, the most important terms of the IDS, the services, and tools are defined (e.g., Clearing House, Data Provider, Data Sovereignty). Link to the glossary: https://github.com/International-Data-Spaces-Association/IDS-G/blob/master/glossary/README.md#certification-authority
-
-**IDS Use Case Overview** – The purpose of this document is to provide interested parties with an overview of the practical application of the IDS architecture in various industries. The use cases which are gathered in this document are real-life examples of IDS industry partners and include a short problem statement, description of the targets, results, and benefits. Link to the document: https://internationaldataspaces.org/wp-content/uploads/dlm_uploads/Use-Case-Brochure_2019.pdf
-
-**New Business Models for Data Spaces Grounded in Data Sovereignty** - This paper applies business frameworks and methods to the IDS perspective and gives some concrete use-case examples of early adopters for governance, participants, and support service providers. Link to the document: https://internationaldataspaces.org/wp-content/uploads/IDSA-Position-Paper-New-Business-Models-sneak-preview-version.pdf
-
-**IDS Handshake** – This document, referred to as the IDS Handshake, details the actual steps of the data exchange process between participants in the IDS. It highlights the mandatory and optional steps that are needed to establish a trustworthy connection. To access this document, you must be registered in JIVE under https://internationaldataspaces.org/we/get-access-to-jive/. Link to the document: https://industrialdataspace.jiveon.com/docs/DOC-1817#jive_content_id_Motivation
-
-**IDS Communication Guide** – This document describes how the interfaces of the individual components are defined and, above all, implemented. This results in a very precise description of the interfaces of individual components. To access this document, you must be registered in JIVE under https://internationaldataspaces.org/we/get-access-to-jive/. Link to the document: https://industrialdataspace.jiveon.com/docs/DOC-2524
-
-**IDS Message Description** - This document lists all IDS message types along with a descripton of the role of each message type. The messages are categorized in the three main IDS message categories: Request, Response, and Notification messages. Link to the document: https://htmlpreview.github.io/?https://github.com/IndustrialDataSpace/InformationModel/blob/feature/message_taxonomy_description/model/communication/Message_Description.htm.
-
-**IDS Appstore and App Development** - This document provides an overview of how IDS Data Apps and IDS App Store operate, along with their interaction with other IDS components. To access this document, you must be registered in JIVE under https://internationaldataspaces.org/we/get-access-to-jive/. Link to the document: https://industrialdataspace.jiveon.com/docs/DOC-2604
-
-**Data Usage Control in IDS** Data Usage Control is the specification and enforcement of restrictions regulating what must (not) happen to data. It is an extension to traditional Access Control. This document provides necessary information about Data Usage Control in IDS. Link to the document: [# Data Sovereignty: Updated Position Paper on Data Usage Control in the IDS](https://internationaldataspaces.org/data-sovereignty-updated-position-paper-on-data-usage-control-in-the-ids/)
-
-### IDS Trainings
-
-**IDS Basic Training “Data sovereignty and International Data Spaces”** – This hands-on training is designed for professionals from various industries, IT and software development specialists, and executive managers who would like to understand the structure of the IDS architecture, its technologies, services, and roles. The training lasts one full day and is offered upon request by the Fraunhofer Academy in Dortmund, Germany. Link to the training: https://www.dataspaces.fraunhofer.de/en/referenzen/seminare/basic-training.html
-
-**IDS Software Workshop** – During this two-day workshop, the participants will get to know the functions and configurations of various IDS components (e.g., provider and consumer connector, IDS Broker, IDS Identity Provider). The workshop is targeted at developers, software experts, and architects. Dates and costs are available upon request. Link to the training: https://www.dataspaces.fraunhofer.de/en/referenzen/seminare/software_workshop.html
 
 
 
