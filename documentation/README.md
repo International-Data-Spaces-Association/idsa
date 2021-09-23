@@ -12,9 +12,16 @@ As soon as you notice that you are missing information at a certain point, you c
 If you are interested in contributing to this document, please check the detailed information on [how to contribute](/documentation/CONTRIBUTING.md) to this documentation.
 
 # Building Data Spaces
+
+[Gather Knowledge](/documentation/README.md#1-gather-knowledge)
+[Design Your Architecture](/documentation/README.md#2-design-your-architecture)
+[Develop Your Components](/documentation/README.md#3-develop-your-components)
+[Integrate Your Components](/documentation/README.md#4-integrate-your-components)
+[Get Certified](/documentation/README.md#5-get-certified)
+[Start Sharing Your Data in a Sovereign Way](/documentation/README.md#6-start-sharing-your-data-in-a-sovereign-way)
+
 On the sections below, you will find the appropriate resources and links that provide technical information/documentation on each step for developing data spaces. As is known, every development journey is an individual one. So your starting point may differ based on your knowledge, as well as the steps you have to take. Please feel free to check the forthcoming chapters to find relevant information and documentation.
 
-[Integrate Your Components](/documentation/README.md#4-integrate-your-components)
 
 ## 1. Gather Knowledge
 
