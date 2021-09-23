@@ -29,6 +29,6 @@ tba.
 ## Review Process
 tba.
 ## Community
-Do not hestitate to have a look at the [IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G) and [other IDS repositories](https://github.com/International-Data-Spaces-Association), where contributors have already published their ideas.
+Do not hesitate to have a look at the [IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G) and [other IDS repositories](https://github.com/International-Data-Spaces-Association), where contributors have already published their ideas.
 ## Labeling Conventions for Issues.
 tba.
