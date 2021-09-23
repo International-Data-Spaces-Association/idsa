@@ -8,7 +8,8 @@ As soon as you notice that you are missing information at a certain point, you c
 + Open an issue that points to this topic. 
 + Add a section, link, or whatever would fill this gap.
 + Have a look at the open issues and try to fix them.
-Please check the information on [how to contribute](/documentation/CONTRIBUTING.md)
+
+Please check the information on [how to contribute](/documentation/CONTRIBUTING.md).
 
 Since every journey is individual, the starting point may differ as well as the steps you have to take. 
 In general, your journey may contain the following stages: 
