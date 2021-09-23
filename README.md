@@ -30,7 +30,9 @@ Find the overview on the IDS resources and status of specifications in [**IDS-G*
 ---
 
 ## BECOME PART OF IDS OS LANDSCAPE
-IDSA welcomes contributions from all levels (organizational, individual and projects) to the IDS OS Landscape. Feel free to join, discover and be part of the projects that constitutes the technical backbone of the data economy's future.  
+IDSA welcomes contributions from all levels (organizational, individual and projects) to the IDS OS Landscape. Feel free to join, discover and be part of the projects that constitutes the technical backbone of the data economy's future. 
+
+You do not have to be a developer to be part of IDS OS Landscape. You can join  ct or as a contributor. This will not only make you a part of the great community here, but also will give you an opportunity to share your experiences, express your opinion and gather feedback from the other members.  
 
 ### Joining as a Contributor
 *If you are not a user of IDSA Github yet*, please use this [form](https://forms.office.com/r/60B1hWv1Fu "IDSA Github / Participation Request") to submit a participation request. The requests are responded within a maximum of two business days (in most cases, the invitations are sent within several hours).
@@ -46,9 +48,7 @@ and then contact the maintainers of the repository.
 
 
 ### Joining as a Project
-You are warmly invited to move your project into the IDS OS Landscape. This will not only make you a part of the great community here, but also will give you an opportunity to share your experiences and gather feedback from the other members.  
-
-If your project is not part of the IDSA OS Landscape, please use this form to [apply as a sandbox project](https://internationaldataspaces.org/ids-open-source-application/).
+If your project is not part of the IDSA OS Landscape yet, please use this form to [apply as a sandbox project](https://internationaldataspaces.org/ids-open-source-application/).
 
 
 For more information, please feel free to check [IDSA OS Graduation Scheme](...), where the processes for application and graduation are described in detail.
