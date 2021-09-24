@@ -42,7 +42,7 @@ The Usage Control related libraries and applications are listed as follows:
 If you are an IDS beginner you should start with some of our documents:
 
 ### Relevant Documents
-**IDS Reference Architecture Model (RAM)** – This is the central document of the IDS and describes the IDS architecture. It contains the goals, the structure, and the key elements of the architectural set-up of the IDS and offers a first glance at the practical application and context in which the IDS is used. Link to the document: https://internationaldataspaces.org/wp-content/uploads/IDS-Reference-Architecture-Model-3.0-2019.pdf
+**IDS Reference Architecture Model (RAM)** – This is the central document of the IDS and describes the IDS architecture. It contains the goals, the structure, and the key elements of the architectural set-up of the IDS and offers a first glance at the practical application and context in which the IDS is used. Link to the document: https://internationaldataspaces.org/wp-content/uploads/IDS-RAM-3.0-2019.pdf
 
 **IDSA Rulebook** – This document is meant for businesses and individuals who are building or using data-driven business models. This rulebook outlines a common governance framework and specifies the functional, technical, operational, and legal agreements to operate securely in the IDS. Link to the document: https://internationaldataspaces.org/wp-content/uploads/IDSA-White-Paper-IDSA-Rule-Book.pdf
 
@@ -50,9 +50,9 @@ If you are an IDS beginner you should start with some of our documents:
 
 **IDS Standard (DIN SPEC 27070)** – The DIN SPEC 27070 is a confidential document that specifies the technical requirements and the reference architecture of a Security Gateway for the exchange of industry data and services. Based on the principles of data sovereignty, the Security Gateway facilitates secure exchange of data and allows providing and using trustworthy data services. Link to request access to the document: https://internationaldataspaces.org/din-spec-27070/
 
-**IDS and GAIA-X Position Paper** – The European initiative GAIA-X and the International Data Spaces share the vision of proliferating data sovereignty in a trusted data ecosystem. Nevertheless, some main differences exist. This position paper explains the relation of the International Data Spaces Reference Architecture Model and the principles and architecture of the European Imitative GAIA-X. Link to the document: https://internationaldataspaces.org/wp-content/uploads/IDSA-Position-Paper-GAIA-X-and-IDS.pdf
+**IDS and GAIA-X Position Paper** – The European initiative GAIA-X and the International Data Spaces share the vision of proliferating data sovereignty in a trusted data ecosystem. Nevertheless, some main differences exist. This position paper explains the relation of the International Data Spaces Reference Architecture Model and the principles and architecture of the European Imitative GAIA-X. Link to the document: https://internationaldataspaces.org/download/19016/
 
-**IDSA Rulebook** – This document is meant for businesses and individuals who are building or using data-driven business models. This rulebook outlines a common governance framework and specifies the functional, technical, operational, and legal agreements to operate securely in the IDS. Link to the document: https://internationaldataspaces.org/wp-content/uploads/IDSA-White-Paper-IDSA-Rule-Book.pdf
+**IDSA Rulebook** – This document is meant for businesses and individuals who are building or using data-driven business models. This rulebook outlines a common governance framework and specifies the functional, technical, operational, and legal agreements to operate securely in the IDS. Link to the document: https://internationaldataspaces.org/download/19008/
 
 **IDS Glossary** – In this glossary, the most important terms of the IDS, the services, and tools are defined (e.g., Clearing House, Data Provider, Data Sovereignty). Link to the glossary: https://github.com/International-Data-Spaces-Association/IDS-G/blob/master/glossary/README.md#certification-authority
 
