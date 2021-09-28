@@ -30,7 +30,7 @@ Find the overview on the IDS resources and status of specifications in [**IDS-G*
 ---
 
 ## BECOME PART OF IDS OS LANDSCAPE
-IDSA welcomes contributions from all levels (organizational, individual and projects) to the IDS OS Landscape. Feel free to join, discover and be part of the projects that constitutes the technical backbone of the data economy's future. 
+IDSA welcomes contributions from all levels (organizational, individual and projects) to the IDS OS Landscape. Feel free to join, discover and be part of the projects that constitutes the technical backbone of the data economy's future. You can check the list of [existing repositories here](/overview_repositories.md).
 
 You do not have to be a developer to be part of IDS OS Landscape. You can join either with your project or as a contributor. This will not only make you a part of the great community here, but also will give you an opportunity to share your experiences, express your opinion and gather feedback from the other members. So, as long as you have an idea on IDS components or data spaces in general please feel free to join us!
 
