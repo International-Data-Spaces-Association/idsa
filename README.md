@@ -35,7 +35,7 @@ IDSA welcomes contributions from all levels (organizational, individual and proj
 You do not have to be a developer to be part of IDS OS Landscape. You can join either with your project or as a contributor. This will not only make you a part of the great community here, but also will give you an opportunity to share your experiences, express your opinion and gather feedback from the other members. So, as long as you have an idea on IDS components or data spaces in general please feel free to join us!
 
 ### Joining as a Contributor/Individual
-*If you are not a user of IDSA Github yet*, please use this [form](https://forms.office.com/r/60B1hWv1Fu "IDSA Github / Participation Request") to submit a participation request. The requests are responded within a maximum of two business days (in most cases, the invitations are sent within several hours).
+*If you are not a user of IDSA Github yet*, please use this [form](https://forms.office.com/r/LMFt6pbji4 "IDSA Github / Participation Request") to submit a participation request. The requests are responded within a maximum of two business days (in most cases, the invitations are sent within several hours).
 
 *If you already have access to IDSA Github*, we recommend you to adhere to the guidelines of the repository you are interested in. You can start doing this by checking the existing documentation of the repository:
 
