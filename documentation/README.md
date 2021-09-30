@@ -28,13 +28,7 @@ In general, a typical data space development journey consists of the following s
 
 [6. Start Sharing Your Data in a Sovereign Way](/documentation/README.md#6-start-sharing-your-data-in-a-sovereign-way)
 
-Here, you will get hints on how to set for instance usage contrains.
-### Data Usage Control
-The Usage Control related libraries and applications are listed as follows:
-- **Policy-Library** This is the IDS policy model in Java which can read and interpret the IDS Usage Policy Language as JSON-LD. Link to the code: [IDS Policy Library](https://github.com/International-Data-Spaces-Association/Policy-Library)
-- **Mydata-Translator** This Java library uses the Policy-Library and translates an IDS usage policy to a MY DATA Control Technologies policy. Link to the code: [MY DATA Control Technologies Translator](https://github.com/International-Data-Spaces-Association/Mydata-Translator)
-- **IDS-PAP** This is a web application with Java back end that provides a Material-UI to support the users to specify their IDS policies. Link to the code: [IDS Policy Administration Point (PAP)](https://github.com/International-Data-Spaces-Association/IDS-PAP)
-- **Usage-Control-App** This a Usage Control prototype application which uses MY DATA Control Technologies to manage and enforce IDS policies. The app can be called by a [Camel Interceptor](https://camel.apache.org/components/3.4.x/eips/intercept.html)  or can be called directly to integrate Usage Control into the IDS Connectors. Link to the code: [IDS Usage Control Application](https://github.com/International-Data-Spaces-Association/Usage-Control-App)
+
 ---
 
 ## 1. Gathering Knowledge
@@ -150,6 +144,13 @@ You can either build IDS components from scratch by using existing resources as 
 
 ## 6. Start Sharing Your Data in a Sovereign Way
 
+Here, you will get hints on how to set for instance usage contrains.
+### Data Usage Control
+The Usage Control related libraries and applications are listed as follows:
+- **Policy-Library** This is the IDS policy model in Java which can read and interpret the IDS Usage Policy Language as JSON-LD. Link to the code: [IDS Policy Library](https://github.com/International-Data-Spaces-Association/Policy-Library)
+- **Mydata-Translator** This Java library uses the Policy-Library and translates an IDS usage policy to a MY DATA Control Technologies policy. Link to the code: [MY DATA Control Technologies Translator](https://github.com/International-Data-Spaces-Association/Mydata-Translator)
+- **IDS-PAP** This is a web application with Java back end that provides a Material-UI to support the users to specify their IDS policies. Link to the code: [IDS Policy Administration Point (PAP)](https://github.com/International-Data-Spaces-Association/IDS-PAP)
+- **Usage-Control-App** This a Usage Control prototype application which uses MY DATA Control Technologies to manage and enforce IDS policies. The app can be called by a [Camel Interceptor](https://camel.apache.org/components/3.4.x/eips/intercept.html)  or can be called directly to integrate Usage Control into the IDS Connectors. Link to the code: [IDS Usage Control Application](https://github.com/International-Data-Spaces-Association/Usage-Control-App)
 
 
 ***Note: Let's move content below into the structure above.
