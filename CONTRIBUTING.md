@@ -30,8 +30,9 @@ should at least include the following information:
 
 ## Labels
 
-The [labels](https://github.com/International-Data-Spaces-Association/ids-g/labels) are listed at the
-[issues](https://github.com/International-Data-Spaces-Association/IDS-G/issues).
+
+The [labels](https://github.com/International-Data-Spaces-Association/idsa/labels) are listed at the
+[issues](https://github.com/International-Data-Spaces-Association/idsa/issues).
 There are two types of labels: one describes the content of the issue and should be used by the
 developer that creates the issue. The other one, starting with `status`, will be added from the
 developer that takes on the issue. New issues should be initially marked with `status:open`.
