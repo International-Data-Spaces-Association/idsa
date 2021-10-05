@@ -6,10 +6,6 @@ All content published here is provided and approved by the IDSA Head Office. You
 
 Please note that we have a [code of conduct](CODE_OF_CONDUCT.md) that all contributors should stick to.
 
-## Changelog
-
-We document changes in the [CHANGELOG.md](CHANGELOG.md) on root level which is formatted and
-maintained according to the rules documented on http://keepachangelog.com.
 
 ## Issues
 
