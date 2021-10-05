@@ -13,7 +13,7 @@ maintained according to the rules documented on http://keepachangelog.com.
 
 ## Issues
 
-You always have to create an issue if you want to propose or integrate a bugfix, improvement, or feature.
+You always have to create an issue if you want to propose a correction, improvement, or feature.
 Briefly and clearly describe the purpose of your contribution in the corresponding issue.
 The pre-defined [labels](#labels) improve the understanding of your intentions and help to follow
 the scope of your changes.
