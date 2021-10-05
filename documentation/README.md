@@ -18,18 +18,20 @@ In general, a typical data space development journey consists of the following s
 
 [1. Gather Knowledge & Design Architecture](/documentation/README.md#1-gather-knowledge-design-architecture)
 
-[2. Develop Your Components](/documentation/README.md#2-develop-your-components)
+[2. Design Your Architecture](/documentation/README.md#1-gather-knowledge-design-architecture)
 
-[3. Integrate Your Components](/documentation/README.md#3-integrate-your-components)
+[3. Develop Your Components](/documentation/README.md#2-develop-your-components)
 
-[4. Get Certified](/documentation/README.md#4-get-certified)
+[4. Integrate Your Components](/documentation/README.md#3-integrate-your-components)
 
-[5. Start Sharing Your Data in a Sovereign Way](/documentation/README.md#5-start-sharing-your-data-in-a-sovereign-way)
+[5. Get Certified](/documentation/README.md#4-get-certified)
+
+[6. Start Sharing Your Data in a Sovereign Way](/documentation/README.md#5-start-sharing-your-data-in-a-sovereign-way)
 
 
 ---
 
-## 1. Gather Knowledge & Design Architecture
+## 1. Gather Knowledge
 
 If you are an IDS beginner you should start with some of our documents:
 
