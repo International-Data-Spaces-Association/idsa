@@ -34,7 +34,7 @@ Repo name | Description | private (y/n) | tbc. |
 [LUCON](https://github.com/International-Data-Spaces-Association/LUCON)|n.a.|y|
 [Trusted-uConnector](https://github.com/International-Data-Spaces-Association/Trusted-uConnector)|n.a.|n|
 [JavaDoc](https://github.com/International-Data-Spaces-Association/JavaDoc)|n.a.|n|
-[How_idsa_does_github](https://github.com/International-Data-Spaces-Association/How_idsa_does_github)|Internal documentation how we work on github and which rules we set up|y|
+[How_idsa_does_github](https://github.com/International-Data-Spaces-Association/How_idsa_does_github)| (Archieved) Internal documentation how we work on github and which rules we set up|y|
 [IDS-DAPS](https://github.com/International-Data-Spaces-Association/IDS-DAPS)|IDS DAPS development|y|
 [InformationModelUtils](https://github.com/International-Data-Spaces-Association/InformationModelUtils)|Main purpose of this repository is to store tools, utilities and other content related to the IDS Information Model, which are not part of the core ontology.|y|
 [IDS-RAM_4_0](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0)|Text for the IDS-RAM 4.0 |y|
