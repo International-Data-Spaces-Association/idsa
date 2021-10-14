@@ -68,7 +68,7 @@ During this submission review, the TSC votes on each submission, and projects wi
 
 All exceptions (and "no" outcomes) are handled by the TSC.
 
- ![incubation_process](media/incubation_process.png)
+ ![incubation_process](media/IDSA-GraduationScheme-Sandbox-Incubation.png)
 Figure 3 1: From Sandbox to Incubation Steps
 
 #### Project Proposal
@@ -117,7 +117,7 @@ TSC members may not sponsor a project for which they have a clear conflict of in
 ### Graduation Process
 - Submit Graduation Proposal Template
 - Project fills out and submits the [graduation proposal template in a form](https://internationaldataspaces.org/graduation-application/).
-- The file containing the proposal should be located in github.
+- The file containing the proposal should be located in Github.
 - The proposal addresses how the project has grown since incubation and any concerns from incubation DD in addition to the standard graduation requirements.
 - TSC member kicks off two week period of time for public comment on the TSC mailing list
 - The email should contain a link to the proposal pull request and incubation DD document.
@@ -137,7 +137,7 @@ Projects must have a 2/3 supermajority vote of the TSC to graduate
 -	All “no” outcomes and other exceptions are discussed by the TSC, and then with project and WG representatives. We will try to give feedback but it may simply be a lack of conviction in the project.
  
 
-![graduation_process](media/graduation_process.png)
+![graduation_process](media/IDSA-GraduationScheme-Incubation-Graduation.png)
 Figure 3 2: From Incubation to Graduation Steps
 
 #### Project Proposal Requirements
