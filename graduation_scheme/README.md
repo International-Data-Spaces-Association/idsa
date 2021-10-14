@@ -6,6 +6,7 @@ The [IDS standard on data sovereignty](https://github.com/International-Data-Spa
 
 The IDSA Graduation Scheme is based on the Cloud Native Computing Foundation (CNCF) project life cycle process (https://github.com/cncf/toc/blob/main/process/README.md). 
  
+Please find addional information also on the [IDSA Homepage](https://internationaldataspaces.org/make/open-source/).
 
 ## Project Stages
 
@@ -19,9 +20,9 @@ The IDSA Sandbox has four goals:
 
 When we say that Sandbox projects are “early stage,” this covers the following examples:
 -	New projects that are designed to extend one or more IDSA projects with functionality or interoperability libraries. 
--	Independent projects that fit the IDSA mission and provide the potential for a novel approach to existing functional areas (or are an attempt to meet an un-fulfilled need).
--	Projects commissioned or sanctioned by the IDSA, including initial code for ID-SA WG collaborations, and “experimental” projects.
--	Any project that realistically intends to join IDSA Incubation in future and wish-es to lay the foundations for that.
+-	Independent projects that fit the IDSA mission and provide the potential for a novel approach to existing functional areas (or are an attempt to meet an unfulfilled need).
+-	Projects commissioned or sanctioned by the IDSA, including initial code for IDSA WG collaborations, and “experimental” projects.
+-	Any project that realistically intends to join IDSA Incubation in future and wishes to lay the foundations for that.
 
 ### Incubating Stage
 Incubating projects have proven their compatibility (based on IDS Certification), reliability, vision and mission.
@@ -37,10 +38,10 @@ This governance policy sets forth the proposal process for projects to be accept
  
 ### Sandbox Application Process
 
-Projects apply to join the Sandbox by submitting the form [here](https://forms.office.com/r/Asbz3zjR9Q) , which fills in a row on a publicly-visible spreadsheet, but will include
+Projects apply to join the Sandbox by submitting the form [here](https://internationaldataspaces.org/sandbox-application/) , which fills in a row on a publicly-visible spreadsheet, but will include
 - Required: link to project on GitHub or other public source repository
 - Optional: link to project website, if it exists
-- Required: checkbox to ensure submitter understands the project license would need to follow the [IDSA IP Policy](IP_Policy.md) if accepted
+- Required: checkbox to ensure submitter understands the project license would need to follow the [IDSA IP Policy](./IP_Policy.md) if accepted
 -	Required: checkbox to ensure submitter understands they would be giving the project trademarks and accounts to IDSA if accepted
 -	Required: a short description of alignment to IDSA
 -	Required: comparison with similar projects
@@ -61,7 +62,7 @@ Projects apply to join the Sandbox by submitting the form [here](https://forms.o
 	-	Does the project appear to be on a good path to becoming well-governed and vendor-neutral? 
 
 During this submission review, the TSC votes on each submission, and projects will be accepted by a simple majority vote of the TSC. In the event of rejection, we will indicate which of these criteria the TSC did not believe were met. Projects are welcome to address feedback and submit again in future. Unless advised otherwise, projects should not submit again for six months. 
--	Sandbox projects remain subject to the Annual Review process \([see below\]())
+-	Sandbox projects remain subject to the [Annual Review process](./Sandbox_Annual_Review.md).
 
 ### Incubation Process
 
@@ -72,7 +73,7 @@ Figure 3 1: From Sandbox to Incubation Steps
 
 #### Project Proposal
 
-Incubation proposed through a [submission form](https://github.com/International-Data-Spaces-Association/idsa) that can be accessed via [IDSA repository main page](https://github.com/International-Data-Spaces-Association/idsa).
+Incubation proposed through a [submission form](https://internationaldataspaces.org/incubation-application/).
 
 The status of outstanding Incubation proposals is reported on a monthly basis in the TSC public meeting. This highlights projects looking for sponsorship, and provides a check-in on DD progress for sponsored projects.
 
@@ -96,7 +97,7 @@ TSC members may not sponsor a project for which they have a clear conflict of in
 
 #### Due Diligence 2-3 months
 
-- TSC Incubation Sponsor drives due diligence (see the [template](/due_diligence_reports/Due_Diligence_Project_Review_Template.md) and guidelines).
+- TSC Incubation Sponsor drives due diligence (see the [template](./due_diligence_reports/Due_Diligence_Project_Review_Template.md) and guidelines).
 - TSC Incubation Sponsor can delegate DD work to IDSA WGs and/or other TSC members.
 - Typically, DD includes a presentation to a IDSA WG, as identified by the TSC Sponsor. This step may be omitted if the TSC Sponsor feels there are readily-available and suitable presentations on video - for example, because the WG has already recently held a presentation. (We do not want unnecessary levels of process or bureaucracy to delay a widely-known and adopted project from joining the IDSA). TSC Sponsor has discretion to arrange alternatives (for example, arranging a Q&A session at a TSC meeting) to ensure there is ample opportunity to ask questions.
 - TSC Incubation Sponsor can ask project maintainers to complete the DD template. (In practice project maintainers sometimes choose to make a start on this in advance of the official DD process, or even in advance of the initial proposal as it may help them ensure they meet all the requirements.) The TSC Incubation Sponsor should carefully review and ask questions about the DD as prepared by the project maintainers and may also call on WGs to help with this.
@@ -115,7 +116,7 @@ TSC members may not sponsor a project for which they have a clear conflict of in
 
 ### Graduation Process
 - Submit Graduation Proposal Template
-- Project fills out and submits the [graduation proposal template in a form]().
+- Project fills out and submits the [graduation proposal template in a form](https://internationaldataspaces.org/graduation-application/).
 - The file containing the proposal should be located in github.
 - The proposal addresses how the project has grown since incubation and any concerns from incubation DD in addition to the standard graduation requirements.
 - TSC member kicks off two week period of time for public comment on the TSC mailing list
@@ -132,7 +133,7 @@ Projects must have a 2/3 supermajority vote of the TSC to graduate
 -	TSC always has final decision
 -	TSC doesn’t have to accept WG recommendation
 -	Outcome may be “no” simply because sponsors don’t step forward within the timeframe
--	Outcome from TSC Triage or TAG recommendation could be that we want to wait for some reason e.g. project backlogs; batching similar projects together. We should give the project an explanation and set time expectations in these cases.
+-	Outcome from TSC Triage or WG recommendation could be that we want to wait for some reason e.g. project backlogs; batching similar projects together. We should give the project an explanation and set time expectations in these cases.
 -	All “no” outcomes and other exceptions are discussed by the TSC, and then with project and WG representatives. We will try to give feedback but it may simply be a lack of conviction in the project.
  
 
@@ -141,12 +142,12 @@ Figure 3 2: From Incubation to Graduation Steps
 
 #### Project Proposal Requirements
 
-Project proposals submitted to the IDSA \([see example]()\) can be written in [Markdown](https://www.markdownguide.org/), [AsciiDoc](http://asciidoc.org/), or [reStructuredText](http://docutils.sourceforge.net/rst.html) and must provide the following information to the best of your ability:
+Project proposals submitted to the IDSA can be written in [Markdown](https://www.markdownguide.org/), [AsciiDoc](http://asciidoc.org/), or [reStructuredText](http://docutils.sourceforge.net/rst.html) and must provide the following information to the best of your ability:
 -	name of project (must be unique within IDSA)
 -	project description (what it does, why it is valuable, origin and history)
 -	statement on alignment with IDSA charter mission
--	comparison with similar projects (inside or outside the IDSA), including what differ-entiates this project
--	sponsor from TSC (sponsor helps mentor projects)
+-	comparison with similar projects (inside or outside the IDSA), including what differentiates this project
+-	sponsor from TSC or head office (sponsor helps mentor projects)
 -	preferred maturity level (see  …)
 -	license (charter dictates [Apache 2](http://www.apache.org/licenses/LICENSE-2.0) by default)
 -	source control (GitHub by default)
@@ -159,12 +160,14 @@ Project proposals submitted to the IDSA \([see example]()\) can be written in [M
 -	social media accounts
 -	community size and any existing sponsorship
 -	who is currently known to be using the project? Are they using it in production and at what scale? (It may be hard to obtain accurate data for this, but any supporting evidence of usage is helpful)
--	project logo in svg format (see https://github.com/cncf/artwork#cncf-related-logos-and-artwork for guidelines)
+-	project logo in svg format 
 
 ##	Graduation Levels Criteria
 
-Every IDSA project has an associated maturity level. Proposed IDSA projects should state their preferred maturity level. A two-thirds supermajority is required for a project to be accepted as incubating or graduated. If there is not a superma-jority of votes to enter as a graduated project, then any graduated votes are re-counted as votes to enter as an incubating project. If there is not a supermajority of votes to enter as an incubating project, then any graduated or incubating votes are recounted as sponsorship to enter as a sandbox project. If there is not enough sponsorship to enter as a sandbox stage project, the project is rejected. This vot-ing process is called fallback voting.
-The criteria for each stage of maturity are described below, and there is a sepa-rate Project Proposal process (see above.
+Every IDSA project has an associated maturity level. Proposed IDSA projects should state their preferred maturity level. A two-thirds supermajority is required for a project to be accepted as incubating or graduated. If there is not a superma-jority of votes to enter as a graduated project, then any graduated votes are re-counted as votes to enter as an incubating project. If there is not a supermajority of votes to enter as an incubating project, then any graduated or incubating votes are recounted as sponsorship to enter as a sandbox project. If there is not enough sponsorship to enter as a sandbox stage project, the project is rejected. This voting process is called fallback voting.
+
+The criteria for each stage of maturity are described below, and there is a separate Project Proposal process (see above).
+
 Projects that achieve the sandbox, incubating or graduation status are listed on the IDSA Homepage https://www.internationaldataspaces.org.
 
 
