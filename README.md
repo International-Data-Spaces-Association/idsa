@@ -26,9 +26,9 @@ Find the overview on the IDS resources in [**IDS-G** here on GitHub](https://git
 
 ---
 
-The IDSA Open Source SOftware Graduation Scheme is placed in in this repository. 
+The IDSA Open Source Software Graduation Scheme is placed in in this repository. 
 - Find the scheme itself [in the graduation scheme folder](./graduation_scheme/README.md).
-- The templates for [sandbox](./graduation_scheme/Sanbox_Reviews/README.md) reviews and [due dilligence](./graduation_scheme/due_diligence_reports/README.md).
+- The templates for [sandbox](./graduation_scheme/Sandbox_Reviews/README.md) reviews and [due dilligence](./graduation_scheme/due_diligence_reports/README.md).
 - Addional information on the [IDSA Homepage](https://internationaldataspaces.org/make/open-source/).
 
 ---
