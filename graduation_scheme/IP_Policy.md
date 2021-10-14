@@ -18,4 +18,4 @@
 https://internationaldataspaces.org/wp-content/uploads/Rules_for_participation_IDSA.pdf
 
 # Further license information
-Additional information on available Open Source Software licenses and possible conflicts with the IDSA OSS Gradaution Scheme can be found [here](./media/01062021_OS_Licenses_Blacklist_and_Greylist.v0.1.xls)
+Additional information on available Open Source Software licenses and possible conflicts with the IDSA OSS Gradaution Scheme can be found [here](./resources/01062021_OS_Licenses_Blacklist_and_Greylist.v0.1.xls)
