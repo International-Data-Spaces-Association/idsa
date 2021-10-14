@@ -8,9 +8,9 @@ To keep it lightweight, it is a single phase process - the review doesn't first 
 
 IDSA staff will notify the project maintainers when the project review is due.
 
-Project maintainers are responsible for agreeing between them who will complete the an-nual review. One of the maintainers should create the review in GitHub under <LINK>.
--	Raise a PR titled [Project name] [year] Annual Review
--	The PR should include a file called <year>-<project name>-annual.md (for exam-ple, 2019-amazingproj-annual.md) with the contents described below
+Project maintainers are responsible for agreeing between them who will complete the an-nual review. One of the maintainers should create the review in GitHub under [Sanbox_Reviews](./Sanbox_Reviews/README.md).
+-	Raise a [PR](https://github.com/International-Data-Spaces-Association/idsa/pulls) titled [Project name] [year] Annual Review
+-	The PR should include a file called <year>-<project name>-annual.md (for example, 2022-amazingproj-annual.md) with the contents described below
 -	Send an email to the  TSC Chair so that the community knows the PR is there and can comment on it
 
 If your annual review isn’t submitted within two months of notification, we will take this as a sign that the project is not under active maintenance and the TSC is likely to decide to archive the project.
