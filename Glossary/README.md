@@ -11,7 +11,7 @@ This glossary extends the [IDSA glossary](https://github.com/International-Data-
 
 ## Graduation stages
 
-As part of the IDSA OSS Graduation Scheme projects are classified into different gradaution stages:
+As part of the IDSA OSS Graduation Scheme projects are classified into different graduation stages:
 1. Sandbox
 2. Incubating
 3. Graduated
