@@ -10,12 +10,12 @@
 
 (e) All projects evaluated for inclusion in the IDSA shall be completely licensed under an OSI-approved open source license. If the license for a project included in IDSA is not Apache License, Version 2.0, approval of the TSC shall be required.
 
-(f) All documentation will be received and made available by the project under the Crea-tive Commons Attribution 4.0 International License.
+(f) All documentation will be received and made available by the project under the Creative Commons Attribution 4.0 International License.
 
-(g) If an alternative inbound or outbound license is required for compliance with the li-cense for a leveraged open source project or is otherwise required to achieve the IDSA mission, the TSC may approve the use of an alternative license for inbound or outbound contributions on an exception basis.
+(g) If an alternative inbound or outbound license is required for compliance with the license for a leveraged open source project or is otherwise required to achieve the IDSA mission, the TSC may approve the use of an alternative license for inbound or outbound contributions on an exception basis.
 
 # Antitrust Guidelines
 https://internationaldataspaces.org/wp-content/uploads/Rules_for_participation_IDSA.pdf
 
 # Further license information
-Additional information on available Open Source Software licenses and possible conflicts with the IDSA OSS Gradaution Scheme can be found [here](./resources/01062021_OS_Licenses_Blacklist_and_Greylist.v0.1.xls)
+Additional information on available Open Source Software licenses and possible conflicts with the IDSA OSS Graduation Scheme can be found [here](./resources/01062021_OS_Licenses_Blacklist_and_Greylist.v0.1.xls)

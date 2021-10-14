@@ -38,7 +38,7 @@ This governance policy sets forth the proposal process for projects to be accept
  
 ### Sandbox Application Process
 
-Projects apply to join the Sandbox by submitting the form [here](https://internationaldataspaces.org/sandbox-application/) , which fills in a row on a publicly-visible spreadsheet, but will include
+Projects apply to join the Sandbox by submitting the form [here](https://internationaldataspaces.org/sandbox-application/), which fills in a row on a publicly-visible spreadsheet, but will include
 - Required: link to project on GitHub or other public source repository
 - Optional: link to project website, if it exists
 - Required: checkbox to ensure submitter understands the project license would need to follow the [IDSA IP Policy](./IP_Policy.md) if accepted
@@ -81,7 +81,7 @@ A potential sponsor will support the DD process and can indicate that they are i
 
 The TSC may agree that the project does not (yet) meet the Incubation requirements and give feedback on why this is the case. If the project is not already in the IDSA, the TSC may suggest that project apply for Sandbox instead.
 
-If a TSC Incubation Sponsor has not stepped forward within two months after the proposal PR is submitted, projects may request that their project proposal is discussed at a forthcoming TSC meeting by adding it to the [Working Doc](). The outcome of this is discus-sion is either that a sponsor steps forward, or that the TSC votes to admit the project to Sandbox, or the proposal is rejected (projects may reapply after six months). If, even after all those steps, a sponsor does not step forward, the proposal is rejected.
+If a TSC Incubation Sponsor has not stepped forward within two months after the proposal PR is submitted, projects may request that their project proposal is discussed at a forthcoming TSC meeting by adding it to the [Working Doc](). The outcome of this is discussion is either that a sponsor steps forward, or that the TSC votes to admit the project to Sandbox, or the proposal is rejected (projects may reapply after six months). If, even after all those steps, a sponsor does not step forward, the proposal is rejected.
 
 DD will usually involve a presentation to an IDSA Working Group (WG), but an interested WG is welcome to schedule a project presentation at any time. WG can discuss their recommendations or concerns about a project with their WG Chairs, if there isn’t already a TSC Incubation Sponsor in place.
 
@@ -104,9 +104,9 @@ TSC members may not sponsor a project for which they have a clear conflict of in
 - IDSA staff does governance checks and legal DD checks.
 - During DD some conversations may be held in private (e.g. user interviews where the user wishes to remain anonymous) and are documented using discretion.
 - The TSC Incubation Sponsor confirms that project meets the Incubation requirements.
-- TSC Incubation Sponsor determines when DD is “done”. DD documentation should then be on [GitHub](/due_diligence_reports/README.md) , open to public comment on record.
+- TSC Incubation Sponsor determines when DD is “done”. DD documentation should then be on [GitHub](/due_diligence_reports/README.md), open to public comment on record.
 
-#### Due Diligence review 2-6 weeks
+#### Due Diligence review (2-6 weeks)
 - TSC Incubation Sponsor announces on the TSC mailing list when the DD documents are available for public review and comment, which can take place on GitHub, the TSC mailing list, or at TSC public meetings.
 - TSC Incubation sponsor decides when to call TSC vote, allowing at least two weeks for public comment before calling vote
 - TSC vote up to 6 weeks
@@ -164,7 +164,7 @@ Project proposals submitted to the IDSA can be written in [Markdown](https://www
 
 ##	Graduation Levels Criteria
 
-Every IDSA project has an associated maturity level. Proposed IDSA projects should state their preferred maturity level. A two-thirds supermajority is required for a project to be accepted as incubating or graduated. If there is not a superma-jority of votes to enter as a graduated project, then any graduated votes are re-counted as votes to enter as an incubating project. If there is not a supermajority of votes to enter as an incubating project, then any graduated or incubating votes are recounted as sponsorship to enter as a sandbox project. If there is not enough sponsorship to enter as a sandbox stage project, the project is rejected. This voting process is called fallback voting.
+Every IDSA project has an associated maturity level. Proposed IDSA projects should state their preferred maturity level. A two-thirds supermajority is required for a project to be accepted as incubating or graduated. If there is not a supermajority of votes to enter as a graduated project, then any graduated votes are counted again as votes to enter as an incubating project. If there is not a supermajority of votes to enter as an incubating project, then any graduated or incubating votes are recounted as sponsorship to enter as a sandbox project. If there is not enough sponsorship to enter as a sandbox stage project, the project is rejected. This voting process is called fallback voting.
 
 The criteria for each stage of maturity are described below, and there is a separate Project Proposal process (see above).
 

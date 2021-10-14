@@ -49,6 +49,6 @@ see [Sandbox reports](./graduation_scheme/Sandbox_Reviews/README.md)
 
 ## Technical Due Dilligence
 
-see [Technical DUe Dilligence](./graduation_scheme/due_diligence_reports/Due_Diligence_Project_Review_Template.md#technical-due-diligence)
+see [Technical Due Diligence](./graduation_scheme/due_diligence_reports/Due_Diligence_Project_Review_Template.md#technical-due-diligence)
 
 

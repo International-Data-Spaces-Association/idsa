@@ -10,7 +10,7 @@ How many maintainers do you have, and which organizations are they from? (Feel f
 
 ## Adoption
 
-What do you know about adoption, and how has this changed since your last re-view / since you joined Sandbox? If you can list companies that are end users of your project, please do so. (Feel free to link to an existing ADOPTERS file if appro-priate.)
+What do you know about adoption, and how has this changed since your last review / since you joined Sandbox? If you can list companies that are end users of your project, please do so. (Feel free to link to an existing ADOPTERS file if appropriate.)
 
 ## General performance
 
