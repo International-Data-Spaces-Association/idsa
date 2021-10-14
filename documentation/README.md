@@ -14,7 +14,7 @@ If you are interested in contributing to this document, please check the detaile
 # Building Data Spaces
 On the sections below, you will find the appropriate resources and links that provide technical information/documentation on each step for developing data spaces. As is known, every development journey is an individual one. So your starting point may differ based on your knowledge, as well as the steps you have to take. Please feel free to check the forthcoming chapters to find relevant information and documentation.
 
-In general, a typical data space development journey consists of the following stages:
+In general, a typical data space development journey consists of the following stages. Please feel free to start from any of these steps, based on how familiar you are with IDS Technologies. 
 
 [1. Gather Knowledge](/documentation/1-Gather-Knowledge.md)
 
