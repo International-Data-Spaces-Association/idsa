@@ -68,7 +68,7 @@ Technical
 -	What is the release model? Versioning scheme? Evidence of stability or otherwise of past stable released versions?
 -	What is the CI/CD status? Do explicit code coverage metrics exist? If not, what is the subjective adequacy of automated testing? Do different levels of tests exist (e.g. unit, integration, interface, end-to-end), or is there only partial coverage in this regard? Why?
 -	What licensing restrictions apply? Again, IDSA staff will handle the full legal due diligence.
--	What are the recommended operational models? How do thex align with IDSA Certification?
+-	What are the recommended operational models? How do they align with IDSA Certification?
 
 Project
 -	Do we believe this is a growing, thriving project with committed contributors?
