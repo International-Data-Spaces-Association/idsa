@@ -29,6 +29,7 @@ In general, a typical data space development journey consists of the following s
 [6. Start Sharing Your Data in a Sovereign Way](/documentation/6-Start-Sharing-Your-Data.md)
 
 
+# Looking for Best Practices?
 Currently, IDS does not yet have an overarching existing ecosystem. Until now, mainly use cases between individual companies have been addressed
 In the following diagram, these are located in evolutionary stage **I**.
 In the meantime, use cases of evolution stage **II** are becoming increasingly established. The [Mobility Data Space](https://www.mobility-data-space.de/) and [Catena-X](https://www.handelsblatt.com/27129464.html) are particularly worthy of mention here, as are other [IDS Communities](https://internationaldataspaces.org/make/communities/) and [Projects](https://internationaldataspaces.org/make/projects/).
