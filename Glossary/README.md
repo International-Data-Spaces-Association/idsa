@@ -9,13 +9,14 @@ This glossary extends the [IDSA glossary](https://github.com/International-Data-
 
 #G
 
-## Graduation scheme
-
-see
-
 ## Graduation stages
 
-see 
+As part of the IDSA OSS Graduation Scheme projects are classified into different gradaution stages:
+1. Sandbox
+2. Incubating
+3. Graduated
+
+for additional information see https://github.com/International-Data-Spaces-Association/idsa/blob/graduation_scheme/graduation_scheme/README.md#project-stages
 
 
 # I
@@ -26,21 +27,28 @@ See [IDS-G Glossary on IDSA](https://github.com/International-Data-Spaces-Associ
 
 ## IDSA-TSC
 
-IDSA Technical Steering Committee
+The IDSA Technical Steering Committee. 
 
 ## IDSA-Working Groups
 
-Bodies of the IDSA, see
+The IDSA Working Groups.
+
+#O
+
+##  OSS Graduation Scheme
+
+See [OSS Graduation Scheme](./graduation_scheme/README.md)
+
+
+# S
 
 ## Sandbox report
 
-see 
-
+see [Sandbox reports](./graduation_scheme/Sandbox_Reviews/README.md)
 #T 
 
 ## Technical Due Dilligence
 
-see 
-https://github.com/International-Data-Spaces-Association/idsa/blob/graduation_scheme/graduation_scheme/due_diligence_reports/Due_Diligence_Project_Review_Template.md#technical-due-diligence
+see [Technical DUe Dilligence](./graduation_scheme/due_diligence_reports/Due_Diligence_Project_Review_Template.md#technical-due-diligence)
 
 
