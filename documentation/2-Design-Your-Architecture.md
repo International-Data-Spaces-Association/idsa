@@ -10,7 +10,7 @@ This section aims to support you in designing the architecture of your component
 #
 
 ### Available for IDSA Members
-To have access to these documents, you need to be part of [IDSA Jive] (https://industrialdataspace.jiveon.com/). If you are not registered yet, you must [register for IDSA JIVE](https://internationaldataspaces.org/we/get-access-to-jive/).
+To have access to these documents, you need to be part of [IDSA Jive](https://industrialdataspace.jiveon.com/). If you are not registered yet, you must [register for IDSA JIVE](https://internationaldataspaces.org/we/get-access-to-jive/).
 
 **IDS Handshake** – This document, referred to as the IDS Handshake, details the actual steps of the data exchange process between participants in the IDS. It highlights the mandatory and optional steps that are needed to establish a trustworthy connection. [you can access the document here](https://industrialdataspace.jiveon.com/docs/DOC-1817#jive_content_id_Motivation). 
 
