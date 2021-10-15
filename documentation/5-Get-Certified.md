@@ -17,6 +17,8 @@ The entire certification process consists of three steps as shown on the leaflet
 1. We will consult you on the process and help you find the perfect partner.
 2. Onboarding session with your Evaluation Facility. You will get your individual audit road map.
 3. The Evaluation Facility will start the audit process and collaborate with you on collecting all necessary documents and information.
+
+[Here](https://internationaldataspaces.org/use/certification/) you can find more information about the roles involved in the certification process. 
 #
 
 You can get more information via [IDSA Website](https://internationaldataspaces.org/use/certification/)
