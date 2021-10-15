@@ -48,4 +48,4 @@ The first Certification Body will be run within the IDSA, as a separated section
 ### Certificate Authority
 The Certificate Authority (CA) will be notified by the CB if a positive evaluation of the Applicant took place and issues the digital x.509 certificate to the Applicant directly. 
 
-![Roles in the IDS certification](./images/certification-process2.png | width=100)
+![Roles in the IDS certification](./images/certification-process2.png =250x)
