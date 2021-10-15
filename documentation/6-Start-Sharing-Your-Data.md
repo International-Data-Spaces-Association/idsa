@@ -3,7 +3,7 @@
 Here, you will get hints on how to set for instance usage contrains.
 
 ### Data Usage Control
-**Data Usage Control in IDS** Data Usage Control is the specification and enforcement of restrictions regulating what must (not) happen to data. It is an extension to traditional Access Control. This document provides necessary information about Data Usage Control in IDS. Link to the document: [# Data Sovereignty: Updated Position Paper on Data Usage Control in the IDS](https://internationaldataspaces.org/data-sovereignty-updated-position-paper-on-data-usage-control-in-the-ids/)
+**Data Usage Control in IDS** Data Usage Control is the specification and enforcement of restrictions regulating what must (not) happen to data. It is an extension to traditional Access Control. This document (Data Sovereignty: Updated Position Paper on Data Usage Control in the IDS) provides necessary information about Data Usage Control in IDS. [Link to the document:](https://internationaldataspaces.org/data-sovereignty-updated-position-paper-on-data-usage-control-in-the-ids/)
 
 The Usage Control related libraries and applications are listed as follows:
 - **Policy-Library** This is the IDS policy model in Java which can read and interpret the IDS Usage Policy Language as JSON-LD. Link to the code: [IDS Policy Library](https://github.com/International-Data-Spaces-Association/Policy-Library)
