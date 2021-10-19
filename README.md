@@ -20,12 +20,16 @@ As depicted on the infographic below, the IDS standard enables trustworthy data 
 Read the Executive Summary of the IDSA [here](https://www.internationaldataspaces.org/publications/sharing-data-while-keeping-data-ownership-the-potential-of-ids-for-the-data-economy/).
 
 #
-
 [IDSA Website](https://internationaldataspaces.org/) | [LinkedIn](https://www.linkedin.com/company/international-data-spaces-association/mycompany/) | [Twitter](https://twitter.com/ids_association) | [YouTube](https://www.youtube.com/channel/UC9PsQnKgreCmj-F6Kea5QRg) 
 #
 Find the technical documentation and learn about the steps to build data spaces in [Documentation](/documentation/README.md) page. IDS components or implement and/or contribute to the existing open source components. It will link you to relevant sources and will provide guidance on your way.
 #
 Find the overview on the IDS resources and status of specifications in [**IDS-G** here on GitHub](https://github.com/International-Data-Spaces-Association/IDS-G)
+#
+The IDSA Open Source Software Graduation Scheme is placed in in this repository. 
+- Find the scheme itself [in the graduation scheme folder](./graduation_scheme/README.md).
+- The templates for [sandbox](./graduation_scheme/Sandbox_Reviews/README.md) reviews and [due diligence](./graduation_scheme/due_diligence_reports/README.md).
+- Addional information on the [IDSA Homepage](https://internationaldataspaces.org/make/open-source/).
 #
 [See the IDSA Homepage](https://www.internationaldataspaces.org) and the [Most Important Documents from IDSA](https://internationaldataspaces.org/publications/most-important-documents/)
 
