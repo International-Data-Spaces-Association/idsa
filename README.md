@@ -56,6 +56,3 @@ and then contact the maintainers of the repository.
 If your project is not part of the IDSA OS Landscape yet, please use this form to [apply as a sandbox project](https://internationaldataspaces.org/open-source-application-form/).
 
 For more information that might be relevant for your project (such as information on graduation processes), please feel free to check [IDSA OS Graduation Scheme](...), where the application processes and graduation criteria are described in more detail.
-
-
-
