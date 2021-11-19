@@ -4,6 +4,7 @@ You can either build IDS components from scratch by using existing resources as 
 ### Connectors
 
 * [Dataspace Connector](../../../../DataspaceConnector/) 
+* [Eclipse Dataspace Connector](https://projects.eclipse.org/projects/technology.dataspaceconnector)
 * [TRUE Connector](../../../../true-connector/) 
 * [Trusted Connector](../../../../trusted-connector/)
 
