@@ -1,4 +1,4 @@
-## 3. Build Components
+# 3. Build Components
 You can either build IDS components from scratch by using existing resources as a template, or you can reuse existing open source components available on the IDS Github repository. Already at this stage, you must ensure that the necessary requirements for a later, successful certification are met. Below you can check the existing projects that are available on IDS OS Landscape.
 
 ### Connectors
