@@ -18,13 +18,13 @@ In general, a typical data space development journey consists of the following s
 
 [1. Gather Knowledge](/documentation/1-Gather-Knowledge.md)
 
-[2. Define Your Use Case](/documentation/2-Design-Your-Architecture.md)
+[2. Define Your Use Case](/documentation/2-Define-Your-Use-Case.md)
 
-[3. Build Components](/documentation/3-Develop-Your-Components.md)
+[3. Build Components](/documentation/3-Build-Components.md)
 
-[4. Prepare for Go-Live](/documentation/4-Integrate-Your-Components.md)
+[4. Prepare for Go-Live](/documentation/4-Prepare-for-Go-Live.md)
 
-[5. Share](/documentation/5-Start-Sharing-Your-Data.md)
+[5. Share](/documentation/5-Share.md)
 
 
 # Looking for Best Practices?
