@@ -1,4 +1,4 @@
-## 2. Define Your Use Case
+# 2. Define Your Use Case
 This section aims to support you in defining the use case of your components. For this, some relevant links and resources are provided below: 
 
 **IDS Reference Architecture Model (RAM)** – This is an introductory document to the IDS architecture. It describes the goals, the structure, and the key elements of the architectural set-up of the IDS and offers a first glance at the practical application and context in which the IDS is used. [Learn more](/IDS-Reference-Architecture-Model-3.0-2019.pdf)
