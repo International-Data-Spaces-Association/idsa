@@ -22,7 +22,7 @@ Read the Executive Summary of the IDSA [here](https://www.internationaldataspace
 #
 [IDSA Website](https://internationaldataspaces.org/) | [LinkedIn](https://www.linkedin.com/company/international-data-spaces-association/mycompany/) | [Twitter](https://twitter.com/ids_association) | [YouTube](https://www.youtube.com/channel/UC9PsQnKgreCmj-F6Kea5QRg) 
 #
-Find the technical documentation and learn about the steps to build data spaces in [Documentation](/documentation/README.md) page. IDS components or implement and/or contribute to the existing open source components. It will link you to relevant sources and will provide guidance on your way.
+Find the technical documentation and learn about the steps to build data spaces in [How To Build Data Spaces?](/how-to-build-data-spaces/README.md) page. IDS components or implement and/or contribute to the existing open source components. It will link you to relevant sources and will provide guidance on your way.
 #
 Find the overview on the IDS resources and status of specifications in [**IDS-G** here on GitHub](https://github.com/International-Data-Spaces-Association/IDS-G)
 #
