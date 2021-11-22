@@ -1,4 +1,4 @@
-## 1. Gather Knowledge
+# 1. Gather Knowledge
 This stage is meant to sharpen your comprehension of IDS technologies and core ideas. It is linking you to every source that could be of help while learning about the IDS.
 If you are looking for a general overview of IDS and its functionalities you should start with some of our documents:
 
