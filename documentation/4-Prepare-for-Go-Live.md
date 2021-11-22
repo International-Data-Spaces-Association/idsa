@@ -1,4 +1,4 @@
-# 5. Prepare for Go-Live
+# 4. Prepare for Go-Live
  
 ## Get Certified
 
