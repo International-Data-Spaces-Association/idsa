@@ -1,4 +1,4 @@
-# Documentation
+# How To Build Data Spaces?
 ## Introduction
 The following content is meant to support everyone who wants to either build IDS components or implement and/or contribute to the existing open source components.
 It will link you to relevant sources and will provide guidance on your way. 
