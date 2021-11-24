@@ -1,6 +1,6 @@
 # How to contribute to [the IDS documentation](https://github.com/International-Data-Spaces-Association/idsa/blob/documentation-IDS/documentation/README.md)
 ## Introduction
-Dear IDS supporter, thank you for considering contributing to ["the IDS documentation"](https://github.com/International-Data-Spaces-Association/idsa/blob/documentation-IDS/documentation/README.md). It is your active participation and your specific knowledge that we are looking for.
+Dear IDS supporter, thank you for considering contributing to ["the IDS documentation"](https://github.com/International-Data-Spaces-Association/idsa/blob/documentation-IDS/documentation/README.md). It is your active participation and your specific knowledge that we are looking for. You migth also consider reading the [general contribution guidelines to IDSA Repositories](../CONTRIBUTING.md) and the [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 The IDS documentation is meant as a lean guide that leads developers through their way to develop or implement IDS components. 
 It is meant as a compilation of important resources and links, linked by concise but brief explanations provided by IDS experts (such as you?).
