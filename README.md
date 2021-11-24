@@ -35,10 +35,10 @@ The IDSA Open Source Software Graduation Scheme is placed in in this repository.
 
 ---
 
-## BECOME PART OF IDS OS LANDSCAPE
-IDSA welcomes contributions from all levels (organizational, individual and projects) to the IDS OS Landscape. Feel free to join, discover and be part of the projects that constitutes the technical backbone of the data economy's future. You can check the list of [existing repositories here](/overview_repositories.md).
+## BECOME PART OF IDS OPEN SOURCE LANDSCAPE
+IDSA welcomes contributions from all levels (organizational, individual and projects) to the IDS Open Source Landscape. Feel free to join, discover and be part of the projects that constitutes the technical backbone of the data economy's future. You can check the list of [existing repositories here](/overview_repositories.md).
 
-You do not have to be a developer to be part of IDS OS Landscape. You can join either with your project or as a contributor. This will not only make you a part of the great community here, but also will give you an opportunity to share your experiences, express your opinion and gather feedback from the other members. So, as long as you have an idea on IDS components or data spaces in general please feel free to join us!
+You do not have to be a developer to be part of IDS Open Source Landscape. You can join either with your project or as a contributor. This will not only make you a part of the great community here, but also will give you an opportunity to share your experiences, express your opinion and gather feedback from the other members. So, as long as you have an idea on IDS components or data spaces in general please feel free to join us!
 
 ### Joining as a Contributor/Individual
 *If you are not a user of IDSA Github yet*, please use this [form](https://forms.office.com/r/LMFt6pbji4 "IDSA Github / Participation Request") to submit a participation request. The requests are responded within a maximum of two business days (in most cases, the invitations are sent within several hours).
@@ -53,6 +53,6 @@ and then contact the maintainers of the repository.
 
 
 ### Joining as a Project
-If your project is not part of the IDSA OS Landscape yet, please use this form to [apply as a sandbox project](https://internationaldataspaces.org/open-source-application-form/).
+If your project is not part of the IDSA Open Source Landscape yet, please use this form to [apply as a sandbox project](https://internationaldataspaces.org/open-source-application-form/).
 
-For more information that might be relevant for your project (such as information on graduation processes), please feel free to check [IDSA OS Graduation Scheme](...), where the application processes and graduation criteria are described in more detail.
+For more information that might be relevant for your project (such as information on graduation processes), please feel free to check [IDSA Open Source Graduation Scheme](./graduation_scheme/README.md), where the application processes and graduation criteria are described in more detail.
