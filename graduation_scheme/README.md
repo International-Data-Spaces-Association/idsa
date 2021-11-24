@@ -42,7 +42,6 @@ Projects apply to join the Sandbox by submitting the form [here](https://interna
 - Required: link to project on GitHub or other public source repository
 - Optional: link to project website, if it exists
 - Required: checkbox to ensure submitter understands the project license would need to follow the [IDSA IP Policy](./IP_Policy.md) if accepted
--	Required: checkbox to ensure submitter understands they would be giving the project trademarks and accounts to IDSA if accepted
 -	Required: a short description of alignment to IDSA
 -	Required: comparison with similar projects
 -	Required: link to the public roadmap (This could be in any format - documentation, GitHub issues, project boards etc. The requirement is simply that there should be some public documentation of the future direction and goals of the project)
@@ -169,8 +168,3 @@ Every IDSA project has an associated maturity level. Proposed IDSA projects shou
 The criteria for each stage of maturity are described below, and there is a separate Project Proposal process (see above).
 
 Projects that achieve the sandbox, incubating or graduation status are listed on the IDSA Homepage https://www.internationaldataspaces.org.
-
-
-
-
-
