@@ -168,8 +168,3 @@ Every IDSA project has an associated maturity level. Proposed IDSA projects shou
 The criteria for each stage of maturity are described below, and there is a separate Project Proposal process (see above).
 
 Projects that achieve the sandbox, incubating or graduation status are listed on the IDSA Homepage https://www.internationaldataspaces.org.
-
-
-
-
-

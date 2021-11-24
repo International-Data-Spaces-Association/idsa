@@ -18,7 +18,7 @@ Please consider the following rules:
 - provide background information (one or two sentences) when adding links
 - create issues when something is misisng (or wrong) in your opinion
 - tbc.
-## How to Suggest a Feature or Enhancement
+## How to Suggest a Feature or Enhancement?
 Open a new issue to for any kind of suggestion
 - Additional content
 - Additional section
@@ -29,6 +29,6 @@ tba.
 ## Review Process
 tba.
 ## Community
-Do not hestitate to have a look at the [IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G) and [other IDS repositories](https://github.com/International-Data-Spaces-Association), where contributors have already published their ideas.
+Do not hesitate to have a look at the [IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G) and [other IDS repositories](https://github.com/International-Data-Spaces-Association), where contributors have already published their ideas.
 ## Labeling Conventions for Issues.
 tba.
