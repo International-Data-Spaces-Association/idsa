@@ -6,6 +6,10 @@ All content published here is provided and approved by the IDSA Head Office. You
 
 Please note that we have a [code of conduct](CODE_OF_CONDUCT.md) that all contributors should stick to.
 
+## Contributing to the IDSA knowledge base
+
+Next to the general contribution guidelines in this document, you might want to continue with the [contribution guidelines for the knowledge base](./documentation/CONTRIBUTING.md) . The IDSA knowledge base is a community endeavor and you are invited to contribute.
+
 
 ## Issues
 
