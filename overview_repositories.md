@@ -6,13 +6,13 @@ See here the relation of the different GitHub repositories: [IDSA Github Repos.p
 Repo name | Description | private (y/n) | tbc. |
 --- | --- | --- | --- | 
 [idsa](https://github.com/International-Data-Spaces-Association/idsa) | About International Data Spaces Association on GitHub | n |
-[IDS-G-pre](https://github.com/International-Data-Spaces-Association/IDS-G-pre) | This is where specifications for different components are provided. | y | 
+[IDS-G-pre](https://github.com/International-Data-Spaces-Association/IDS-G-pre) | IDS-G-pre is the place where the Working Groups of IDSA prepare specification that will be published to IDS-G.(see also the [IDS-G Handbook](https://github.com/International-Data-Spaces-Association/IDS-G/tree/main/Handbook) ) | y | 
 [DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector) | This is the core of the Dataspace Connector as an IDS Connector reference implementation following the specifications of the IDS Information Model. | n |
 [IDS-ConfigurationManager](https://github.com/International-Data-Spaces-Association/IDS-ConfigurationManager) | Latest: 6.0.0 - The IDS ConfigurationManager aims to simplify the administration of a connector) | n |
 [ids3c-co](https://github.com/International-Data-Spaces-Association/ids3c-co) | IDS Certification criteria catalog | n |
 [IDS-testbed](https://github.com/International-Data-Spaces-Association/IDS-testbed)| n.a. | y | 
 [InformationModel](https://github.com/International-Data-Spaces-Association/InformationModel)| The Information Model of the International Data Spaces implements the IDS reference architecture as an extensible, machine readable and technology independent data model. | n |
-[IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G) | IDS-G | n |
+[IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G) | IDS-G is where the detailed specifications inclduing APIs for different components are provided based on the resutls of the IDSA Working Groups.(see also the [IDS-G Handbook](https://github.com/International-Data-Spaces-Association/IDS-G/tree/main/Handbook) )| n |
 [trusted-connector](https://github.com/International-Data-Spaces-Association/trusted-connector) | Forked from [industrial-data-space/trusted-connector](https://github.com/industrial-data-space/trusted-connector). IoT edge platform "Trusted Connector" of the International Data Spaces. Based on Apache Karaf, includes Camel message routing, a Camel component for remote attestation with other connectors, and a management web console.| n |
 [ParIS-open-core](https://github.com/International-Data-Spaces-Association/ParIS-open-core) | An implementation of an International Data Spaces (IDS) Participant Information Service (ParIS), which is a registry for IDS Participant self-description documents | n |
 [Java-Representation-of-IDS-Information-Model](https://github.com/International-Data-Spaces-Association/Java-Representation-of-IDS-Information-Model)| n.a. |
