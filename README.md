@@ -43,15 +43,8 @@ Read the Executive Summary of the IDSA [here](https://www.internationaldataspace
 
 #
 [IDSA Website](https://internationaldataspaces.org/) | [LinkedIn](https://www.linkedin.com/company/international-data-spaces-association/mycompany/) | [Twitter](https://twitter.com/ids_association) | [YouTube](https://www.youtube.com/channel/UC9PsQnKgreCmj-F6Kea5QRg) 
-#
-Find the technical documentation and learn about the steps to build data spaces in [How To Build Data Spaces](/documentation/README.md) page. IDS components or implement and/or contribute to the existing open source components. It will link you to relevant sources and will provide guidance on your way.
-#
-Find the overview on the IDS resources and status of specifications in [**IDS-G** here on GitHub](https://github.com/International-Data-Spaces-Association/IDS-G)
-#
-The IDSA Open Source Software Graduation Scheme is placed in in this repository. 
-- Find the scheme itself [in the graduation scheme folder](./graduation_scheme/README.md).
-- The templates for [sandbox](./graduation_scheme/Sandbox_Reviews/README.md) reviews and [due diligence](./graduation_scheme/due_diligence_reports/README.md).
-- Addional information on the [IDSA Homepage](https://internationaldataspaces.org/make/open-source/).
+
+
 #
 [See the IDSA Homepage](https://www.internationaldataspaces.org) and the [Most Important Documents from IDSA](https://internationaldataspaces.org/publications/most-important-documents/)
 
@@ -60,6 +53,9 @@ The IDSA Open Source Software Graduation Scheme is placed in in this repository.
 ### IDS-G
 
 The [IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G) is the point of truth for specifications of the IDS and its components. It is public for everyone and contains the approved specifications that were confirmed by the IDS Technical Steering Committee (IDS-TSC) and the IDSA Working Groups. IDS-G publishes quarterly releases with new approvals by the Working Groups and the TSC.
+
+Find the overview on the IDS resources and status of specifications in [**IDS-G** here on GitHub](https://github.com/International-Data-Spaces-Association/IDS-G)
+
 You are invited to [create issues on IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G/issues). The issues are tracked, approved and worked on in [IDS-G-pre](https://github.com/International-Data-Spaces-Association/IDS-G-pre) by IDSA members.
 
 ---
@@ -73,6 +69,7 @@ The International Data Spaces Association GitHub organization provides insights 
 ## Knowledge Base
 
 The [Knowledge Base](./documentation/README.md) provides insights to support your way to build Data Spaces on the foundation of IDS. This community-driven knowledge base is a place to gather and share knowledge.
+Find the technical documentation and learn about the steps to build data spaces in [How To Build Data Spaces](/documentation/README.md#building-data-spaces) page. IDS components or implement and/or contribute to the existing open source components. It will link you to relevant sources and will provide guidance on your way.
 
 ---
 
@@ -100,6 +97,11 @@ Feel free to add your knowledge and experience to the IDSA Knowledge Base.
 IDSA welcomes contributions from all levels (organizational, individual and projects) to the IDS Open Source Landscape. Feel free to join, discover and be part of the projects that constitutes the technical backbone of the data economy's future. You can check the list of [existing repositories here](/overview_repositories.md).
 
 You do not have to be a developer to be part of IDS Open Source Landscape. You can join either with your project or as a contributor. This will not only make you a part of the great community here, but also will give you an opportunity to share your experiences, express your opinion and gather feedback from the other members. So, as long as you have an idea on IDS components or data spaces in general please feel free to join us!
+
+The IDSA Open Source Software Graduation Scheme is placed in in this repository. 
+- Find the scheme itself [in the graduation scheme folder](./graduation_scheme/README.md).
+- The templates for [sandbox](./graduation_scheme/Sandbox_Reviews/README.md) reviews and [due diligence](./graduation_scheme/due_diligence_reports/README.md).
+- Addional information on the [IDSA Homepage](https://internationaldataspaces.org/make/open-source/).
 
 #### Joining as a Contributor/Individual
 *If you are not a user of IDSA Github yet*, please use this [form](https://forms.office.com/r/LMFt6pbji4 "IDSA Github / Participation Request") to submit a participation request. The requests are responded within a maximum of two business days (in most cases, the invitations are sent within several hours).
