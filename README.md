@@ -1,5 +1,27 @@
 # The International Data Spaces Association on GitHub
 
+This is an umbrella repository which guides you through the International Data Spaces Association (IDSA). We briefly provide an overview on available resources in this repository and beyond. To support your journey building data spaces and maintaining data sovereignty while sharing data we offer here a growing and community-driven knowledge base and an overview on available Open Source components, based on the IDSA Open Source Graduation Scheme. 
+
+## Contents
+
+<details>
+<summary><strong>Details</strong></summary>
+
+-   [SHARING DATA WHILE KEEPING DATA OWNERSHIP](##sharing-data-while-keeping-data-ownership)
+    -  [IDSA AT A GLANCE](#idsa-at-a-glance) 
+    - [IDS-G](#ids-g)
+    - [Repository overview](#tbd)
+-   [Knowlede Base](#knowledge-base)
+-   [Management of IDSA Releases](#management-of-idsa-releases)
+-   [Installation](#installation)
+-   [Contributing](#willing-to-contribute)
+    - [Open Source](#tbd)
+    - [Knowledge base](#tbd)  
+-   [License](#license)
+
+</details>
+
+
 ## SHARING DATA WHILE KEEPING DATA OWNERSHIP
 
 The International Data Spaces Association aims at open, federated data ecosystems and marketplaces ensuring data sovereignty for the creator of the data.
@@ -35,12 +57,51 @@ The IDSA Open Source Software Graduation Scheme is placed in in this repository.
 
 ---
 
-## BECOME PART OF IDS OPEN SOURCE LANDSCAPE
+### IDS-G
+
+The [IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G) is the point of truth for specifications of the IDS and its components. It is public for everyone and contains the approved specifications that were confirmed by the IDS Technical Steering Committee (IDS-TSC) and the IDSA Working Groups. IDS-G publishes quarterly releases with new approvals by the Working Groups and the TSC.
+You are invited to [create issues on IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G/issues). The issues are tracked, approved and worked on in [IDS-G-pre](https://github.com/International-Data-Spaces-Association/IDS-G-pre) by IDSA members.
+
+---
+
+### Repository Overview
+
+The International Data Spaces Association GitHub organization provides insights on the IDSA core deliverables and supports Open Source Projects. You can find an overview on the available repositories [here](./overview_repositories.md)
+
+---
+
+## Knowledge Base
+
+The [Knowledge Base](./documentation/README.md) provides insights to support your way to build Data Spaces on the foundation of IDS. This community-driven knowledge base is a place to gather and share knowledge.
+
+---
+
+## Management of IDSA Releases
+
+The IDS-RAM and specifications on IDS-G are governed and managed by the IDSA and its members through the bodies of the association. The main bodies are the IDSA Working Groups. Details on the management of IDSA releases are described in the [IDS-G Handbook](https://github.com/International-Data-Spaces-Association/IDS-G/blob/main/Handbook/README.md)
+
+---
+
+## Installation
+
+To get started with IDS based Data Spaces we provide an overview on available components in the Portfolio of Building Blocks (coming soon!) and setup examples based on the Minimum Viable Data Space (coming soon!).
+
+---
+
+## willing to contribute)
+You are warmly invited to contribute to the IDSA work. While some aspects of the IDSA work is limited to IDSA members, most of the work here on GitHub is open for everybody to use and to contribute. You can always create Change Request as Issue on IDS-G (https://github.com/International-Data-Spaces-Association/IDS-G). 
+
+You can contribute your technology by following the IDSA OSS Gradaution Scheme as explaines below.
+
+Feel free to add your knowledge and experience to the IDSA Knowledge Base. 
+
+
+### BECOME PART OF IDS OPEN SOURCE LANDSCAPE
 IDSA welcomes contributions from all levels (organizational, individual and projects) to the IDS Open Source Landscape. Feel free to join, discover and be part of the projects that constitutes the technical backbone of the data economy's future. You can check the list of [existing repositories here](/overview_repositories.md).
 
 You do not have to be a developer to be part of IDS Open Source Landscape. You can join either with your project or as a contributor. This will not only make you a part of the great community here, but also will give you an opportunity to share your experiences, express your opinion and gather feedback from the other members. So, as long as you have an idea on IDS components or data spaces in general please feel free to join us!
 
-### Joining as a Contributor/Individual
+#### Joining as a Contributor/Individual
 *If you are not a user of IDSA Github yet*, please use this [form](https://forms.office.com/r/LMFt6pbji4 "IDSA Github / Participation Request") to submit a participation request. The requests are responded within a maximum of two business days (in most cases, the invitations are sent within several hours).
 
 *If you already have access to IDSA Github*, we recommend you to adhere to the guidelines of the repository you are interested in. You can start doing this by checking the existing documentation of the repository:
@@ -52,7 +113,14 @@ You do not have to be a developer to be part of IDS Open Source Landscape. You c
 and then contact the maintainers of the repository.
 
 
-### Joining as a Project
+#### Joining as a Project
 If your project is not part of the IDSA Open Source Landscape yet, please use this form to [apply as a sandbox project](https://internationaldataspaces.org/open-source-application-form/).
 
 For more information that might be relevant for your project (such as information on graduation processes), please feel free to check [IDSA Open Source Graduation Scheme](./graduation_scheme/README.md), where the application processes and graduation criteria are described in more detail.
+
+## Contributing to the Knowledge base
+
+---
+
+## License
+[CC-BY 4.0](./LICENSE.MD) © International Data Spaces Association e.V.
