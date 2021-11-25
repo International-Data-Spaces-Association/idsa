@@ -88,7 +88,7 @@ To get started with IDS based Data Spaces we provide an overview on available co
 
 ---
 
-## willing to contribute)
+## Willing to contribute
 You are warmly invited to contribute to the IDSA work. While some aspects of the IDSA work is limited to IDSA members, most of the work here on GitHub is open for everybody to use and to contribute. You can always create Change Request as Issue on IDS-G (https://github.com/International-Data-Spaces-Association/IDS-G). 
 
 You can contribute your technology by following the IDSA OSS Gradaution Scheme as explaines below.
