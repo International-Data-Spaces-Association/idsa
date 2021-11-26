@@ -14,7 +14,7 @@ You can either build IDS components from scratch by using existing resources as 
 
 ### Identity Management
 
-* [DAPS](../../../../omejdn-daps/) (Dynamic Attribute Provisioning System) is the component to assertain certain attributes to organizations and connectors. 
+* [DAPS](../../../../omejdn-daps/) (Dynamic Attribute Provisioning Service) is the component to assertain certain attributes to organizations and connectors. 
 * [ParIS Open Core](../../../../ParIS-open-core/)
 
 ### App Store
