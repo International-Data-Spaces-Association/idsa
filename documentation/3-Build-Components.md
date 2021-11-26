@@ -5,7 +5,7 @@ You can either build IDS components from scratch by using existing resources as 
 
 * [Dataspace Connector](../../../../DataspaceConnector/) 
 * [Eclipse Dataspace Connector](https://projects.eclipse.org/projects/technology.dataspaceconnector)
-* [TRUE Connector](../../../../true-connector/) 
+* [TRUE Connector](https://github.com/Engineering-Research-and-Development/true-connector-basic_data_app/blob/master/README.md#markdown-header-Contract-Negotiation-simple-flow)
 * [Trusted Connector](../../../../trusted-connector/)
 
 ### Metadata Broker
