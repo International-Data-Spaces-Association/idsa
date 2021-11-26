@@ -6,7 +6,7 @@ You can either build IDS components from scratch by using existing resources as 
 * [Dataspace Connector](../../../../DataspaceConnector/) 
 * [Eclipse Dataspace Connector](https://projects.eclipse.org/projects/technology.dataspaceconnector)
 * [TRUE Connector](../../../../true-connector/) 
-* [Trusted Connector](../../../../trusted-connector/)
+* [Trusted Connector](../../../../trusted-connector/) The Trusted Connector is an Apache Karaf-based platform for the Industrial Internet of Things (IIoT).
 
 ### Metadata Broker
 
