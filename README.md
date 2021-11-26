@@ -126,4 +126,4 @@ As [IDS Knowledge Base](#knowledge-base) consists of experiences shared by IDS e
 ---
 
 ## License
-[CC-BY 4.0](./LICENSE.MD) © International Data Spaces Association e.V.
+[CC-BY 4.0](/LICENSE.md) © International Data Spaces Association e.V.
