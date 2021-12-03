@@ -68,8 +68,8 @@ The International Data Spaces Association GitHub organization provides insights 
 
 ## Knowledge Base
 
-The [Knowledge Base](./documentation/README.md) provides insights to support your way to build Data Spaces on the foundation of IDS. This community-driven knowledge base is a place to gather and share knowledge.
-Find the technical documentation and learn about the steps to build data spaces in [How To Build Data Spaces](/documentation/README.md#building-data-spaces) page. IDS components or implement and/or contribute to the existing open source components. It will link you to relevant sources and will provide guidance on your way.
+The [Knowledge Base](./how-to-build-data-spaces/README.md) provides insights to support your way to build Data Spaces on the foundation of IDS. This community-driven knowledge base is a place to gather and share knowledge.
+Find the technical documentation and learn about the steps to build data spaces in [How To Build Data Spaces](/how-to-build-data-spaces/README.md#building-data-spaces) page. IDS components or implement and/or contribute to the existing open source components. It will link you to relevant sources and will provide guidance on your way.
 
 ---
 
