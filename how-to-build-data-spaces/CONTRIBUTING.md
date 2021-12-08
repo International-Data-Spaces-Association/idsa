@@ -1,6 +1,6 @@
 # How to contribute to IDS Knowledge Base?
 ## Introduction
-Dear IDS supporter, thank you for considering contributing to ["the IDS Knowledge Base"](https://github.com/International-Data-Spaces-Association/idsa/tree/main/documentation/README.md). It is your active participation and your specific knowledge that we are looking for.
+Dear IDS supporter, thank you for considering contributing to ["the IDS Knowledge Base"](/how-to-build-data-spaces/README.md). It is your active participation and your specific knowledge that we are looking for.
 
 The IDS Knowledge Base is meant as a lean guide that leads developers through their way to develop or implement IDS components. 
 It is meant as a compilation of important resources and links, linked by concise but brief explanations provided by IDS experts (such as you?).

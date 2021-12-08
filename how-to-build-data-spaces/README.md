@@ -9,22 +9,22 @@ In case you are unable to locate the information you are looking for, please:
 + Add a section, link, or whatever that would fill this gap.
 + Have a look at the open issues and try to fix them.
 
-If you are interested in contributing to this document, please check the detailed information on [how to contribute](/documentation/CONTRIBUTING.md) to this documentation.
+If you are interested in contributing to this document, please check the detailed information on [how to contribute](/how-to-build-data-spaces/CONTRIBUTING.md) to this documentation.
 
 # Building Data Spaces
 On the sections below, you will find the appropriate resources and links that provide technical information/documentation on each step for developing data spaces, based on [goals of IDSA](../GOALS.md). As is known, every development journey is an individual one. So your starting point may differ based on your knowledge, as well as the steps you have to take. Please feel free to check the forthcoming chapters to find relevant information and documentation.
 
 In general, a typical data space development journey consists of the following stages. Please feel free to start from any of these steps, based on how familiar you are with IDS Technologies. 
 
-[1. Gather Knowledge](/documentation/1-Gather-Knowledge.md)
+[1. Gather Knowledge](/how-to-build-data-spaces/1-Gather-Knowledge.md)
 
-[2. Define Your Use Case](/documentation/2-Define-Your-Use-Case.md)
+[2. Define Your Use Case](/how-to-build-data-spaces/2-Define-Your-Use-Case.md)
 
-[3. Build Components](/documentation/3-Build-Components.md)
+[3. Build Components](/how-to-build-data-spaces/3-Build-Components.md)
 
-[4. Prepare for Go-Live](/documentation/4-Prepare-for-Go-Live.md)
+[4. Prepare for Go-Live](/how-to-build-data-spaces/4-Prepare-for-Go-Live.md)
 
-[5. Share](/documentation/5-Share.md)
+[5. Share](/how-to-build-data-spaces/5-Share.md)
 
 
 # Looking for Best Practices?
