@@ -22,4 +22,3 @@ If you feel that you need some additional support, you can consider the followin
 
 **IDS Software Workshop** – During this two-day workshop, the participants will get to know the functions and configurations of various IDS components (e.g., provider and consumer connector, IDS Broker, IDS Identity Provider). The workshop is targeted at developers, software experts, and architects. Dates and costs are available upon request. [Learn more](https://www.dataspaces.fraunhofer.de/en/referenzen/seminare/software_workshop.html) 
 
-**Introduction to Data Spaces** – Here is a brief summary of how international data spaces work and an overview of their minimun viable structure. [Learn more] 
