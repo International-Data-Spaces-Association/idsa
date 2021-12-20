@@ -14,7 +14,7 @@ If you are looking for a general overview of IDS and its functionalities you sho
 
 **IDS Standard (DIN SPEC 27070)** – The DIN SPEC 27070 is a confidential document that specifies the technical requirements and the reference architecture of a Security Gateway for the exchange of industry data and services. Based on the principles of data sovereignty, the Security Gateway facilitates secure exchange of data and allows providing and using trustworthy data services. [Request access to document](https://internationaldataspaces.org/din-spec-27070/) 
 
-**Introduction to Data Spaces** – Here is a brief summary of how international data spaces work and an overview of their minimun viable structure. [Learn more](https://github.com/International-Data-Spaces-Association/idsa/blob/main/how-to-build-data-spaces/images/Introduction%20to%20Data%20Spaces.pdf)
+**Introduction to Data Spaces** – Here is a brief summary of how International Data Spaces work and an overview of their minimum viable structure. [Learn more](https://github.com/International-Data-Spaces-Association/idsa/blob/main/how-to-build-data-spaces/images/Introduction%20to%20Data%20Spaces.pdf)
 
 **IDS Glossary** – In this glossary, the most important terms of the IDS, the services, and tools are defined (e.g., Clearing House, Data Provider, Data Sovereignty). [Learn more](https://github.com/International-Data-Spaces-Association/IDS-G/blob/master/glossary/README.md)
 
