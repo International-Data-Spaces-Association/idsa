@@ -8,6 +8,8 @@ The IDSA Graduation Scheme is based on the Cloud Native Computing Foundation (CN
  
 Please find addional information also on the [IDSA Homepage](https://internationaldataspaces.org/make/open-source/).
 
+:rocket: Quickstart: [What is the Graduation Scheme, How to apply and why?](/graduation_scheme/IDSA-Graduation-Scheme.pdf)
+
 ## Project Stages
 
 ### Sandbox Stage

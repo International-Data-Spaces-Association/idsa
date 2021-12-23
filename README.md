@@ -101,6 +101,7 @@ You do not have to be a developer to be part of IDS Open Source Landscape. You c
 The IDSA Open Source Software Graduation Scheme is placed in in this repository. 
 - Find the scheme itself [in the graduation scheme folder](./graduation_scheme/README.md).
 - The templates for [sandbox](./graduation_scheme/Sandbox_Reviews/README.md) reviews and [due diligence](./graduation_scheme/due_diligence_reports/README.md).
+- [A short slide deck on the Graduation Scheme, how to apply and why.](./graduation_scheme/IDSA-Graduation-Scheme.pdf)
 - Addional information on the [IDSA Homepage](https://internationaldataspaces.org/make/open-source/).
 
 #### Joining as a Contributor/Individual
