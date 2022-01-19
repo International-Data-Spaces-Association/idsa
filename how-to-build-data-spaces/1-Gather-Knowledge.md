@@ -18,6 +18,8 @@ If you are looking for a general overview of IDS and its functionalities you sho
 
 **IDS Glossary** – In this glossary, the most important terms of the IDS, the services, and tools are defined (e.g., Clearing House, Data Provider, Data Sovereignty). [Learn more](https://github.com/International-Data-Spaces-Association/IDS-G/blob/master/glossary/README.md)
 
+**Dataspace Connector** - This is the documentation explaining the technical steps for deployment of the Dataspace Connector. [Learn more](https://international-data-spaces-association.github.io/DataspaceConnector/)
+
 ### Trainings
 If you feel that you need some additional support, you can consider the following workshop offerings.
 **IDS Basic Training “Data sovereignty and International Data Spaces”** – This hands-on training is designed for professionals from various industries, IT and software development specialists, and executive managers who would like to understand the structure of the IDS architecture, its technologies, services, and roles. The training lasts one full day and is offered upon request by the Fraunhofer Academy in Dortmund, Germany. [Learn more](https://www.dataspaces.fraunhofer.de/en/referenzen/seminare/basic-training.html)
