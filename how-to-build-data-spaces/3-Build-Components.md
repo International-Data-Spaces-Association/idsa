@@ -1,5 +1,5 @@
 # 3. Build Components
-You can either build IDS components from scratch by using existing resources as a template, or you can reuse existing open source components available on the IDS Github repository. Already at this stage, you must ensure that the necessary requirements for a later, successful certification are met. Below you can check the existing projects that are available on IDS OS Landscape.
+You can either build IDS components from scratch by using existing resources as a template, or you can reuse existing open source components available on the IDS Github repository. Already at this stage, you must ensure that the necessary requirements for a later, successful certification are met. Below you can check the existing projects that are available on IDS OS Landscape. If you are looking for external support for the implementation process, you can check the section about [Technology Implementation Partners](#technology-implementation-partners), at the end of this page.
 
 ### Connectors
 
@@ -36,3 +36,8 @@ Existing open-source projects address the technical challenges of cataloguing an
 * [IDS Information Model](../../../../InformationModel/) is an RDFS/OWL-ontology covering the fundamental concepts of the International Data Spaces (IDS), i.e. the types of digital contents that are exchanged by participants by means of the IDS infrastructure components.
 * [IDS Messaging Services](../../../../IDS-Messaging-Services/) provides a lightweight implementation for IDS-Message-Handling. The IDS-Messaging-Services offer open-source functionality for sending IDS-Messages as well as interfaces for processing received IDS-Messages.
 * [IDS Testbed](../../../../IDS-testbed/) can be used for component behaviour testing and to verify interoperability testing against IDS components (Connector, DAPS, CA, Metadata Broker). It also functions as a preparation tool for IDS certification as well as a starting point for creation of data spaces. 
+
+
+## Technology Implementation Partners
+Are you looking for external support for technology implementation process? IDSA works together with many different organizations who serve as technology implementation partners (TIP), that will support you as you build the necessary components to succeed with certification. Your TIP will help you to bring your use case from the drawing board into the real world. You can find more information [on IDSA Website](https://internationaldataspaces.org/adopt/implementation-partners/).
+
