@@ -1,6 +1,8 @@
 # 3. Build Components
 You can either build IDS components from scratch by using existing resources as a template, or you can reuse existing open source components available on the IDS Github repository. Already at this stage, you must ensure that the necessary requirements for a later, successful certification are met. Below you can check the existing projects that are available on IDS OS Landscape. If you are looking for external support for the implementation process, you can check the section about [Technology Implementation Partners](#technology-implementation-partners), at the end of this page.
 
+**Deployment Scenarios**, (*which is currently under development*) aims to consist the library of information, listing different deployment alternatives applied by IDS projects. When completed, this will be a source of inspiration and will provide technical guidance for others who would like to experiment with data spaces. This will be the place for all who is in search for best practices or exemplary deployment alternatives provided by domain experts, or those who are looking to share and improve their deployment scenarios.
+
 ### Connectors
 
 * [Dataspace Connector](../../../../DataspaceConnector/) is an implementation of an IDS connector component following the IDS Reference Architecture Model.
