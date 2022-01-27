@@ -48,6 +48,11 @@ Read the Executive Summary of the IDSA [here](https://www.internationaldataspace
 #
 [See the IDSA Homepage](https://www.internationaldataspaces.org) and the [Most Important Documents from IDSA](https://internationaldataspaces.org/publications/most-important-documents/)
 
+
+#
+Advantages of [Becoming a Member](https://internationaldataspaces.org/we/become-a-member/)
+
+
 ---
 
 ### IDS-G
