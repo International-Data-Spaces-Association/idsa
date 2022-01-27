@@ -18,7 +18,7 @@ A minimum viable data space consists of 2 or more IDS connectors and the Identit
 2. The [Dynamic Attributes Provisioning Service (DAPS)](https://github.com/International-Data-Spaces-Association/IDS-testbed/blob/master/InstallationGuide.md#daps) to handle dynamic attributes and manage dynamic access tokens
 3. The Participant Information Service (ParIS) holding general information of all data space participants
 
-![Minimum Viable Data Space](/images/MVDS-Graph.png)
+![Minimum Viable Data Space](/images/MVDS-Testbed_1.0.png)
 
 [Certification](https://internationaldataspaces.org/use/certification/) of all components and the operational environments is an additional trust layer, since it ensures the functionality of components work in clearly specified boundaries.
 
