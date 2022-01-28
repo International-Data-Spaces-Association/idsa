@@ -1,7 +1,6 @@
 ---
 name: Content Change Request
-about: Suggest a change (typo correction, enhancement, removal, adjustment. etc.)
-  on any existing part of the documentation
+about: Suggest a change (typo correction, enhancement, removal, adjustment. etc.) on any existing part of the documentation
 title: Content Change Request
 labels: ''
 assignees: ''
