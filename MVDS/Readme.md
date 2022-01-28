@@ -18,7 +18,7 @@ A minimum viable data space consists of 2 or more IDS connectors and the Identit
 2. The [Dynamic Attributes Provisioning Service (DAPS)](https://github.com/International-Data-Spaces-Association/IDS-testbed/blob/master/InstallationGuide.md#daps) to handle dynamic attributes and manage dynamic access tokens
 3. The Participant Information Service (ParIS) holding general information of all data space participants
 
-![Minimum Viable Data Space](/images/MVDS-Testbed_1.0.png)
+![Minimum Viable Data Space](images/MVDS-Testbed_1.0.png)
 
 [Certification](https://internationaldataspaces.org/use/certification/) of all components and the operational environments is an additional trust layer, since it ensures the functionality of components work in clearly specified boundaries.
 
@@ -28,7 +28,7 @@ Every data provider can define the rules and conditions (usage policies) under w
 After a data consumer requests a data set from the provider a contract negotiation process is started during which the usage policies are negotiated.
 
 The picture below depicts a data flow example from two technical and legal enforcement perspectives.
-![Minimum Viable Data Space](/images/IDSA_MVDS-Scenarios.png)
+![Minimum Viable Data Space](images/IDSA_MVDS-Scenarios.png)
 
 ## Example :one: (legal enforcement) 
 The connector of the data consumer (Company 2) is connected with an ERP system that is not deployed in the connector. Therefore the data
