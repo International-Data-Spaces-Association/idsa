@@ -23,15 +23,19 @@ Data spaces are the clean rooms of data, the perfect ecosystem for a secure and 
 + Data spaces can be called “clean rooms” because there is control inside them. Security is another benefit that comes from entering these rooms, since every member´s operational environment and components must be certified, in order to access these spaces. This is how trust between players is ensured and secure data exchange is made available to everyone. 
 
 ## What are the advantages of being an IDSA Member?
-There are several perks of being part of the data economy revolution, for instance:
+IDS is poised to become the backbone of our future data economy, indispensable to any enterprise that collects, manages or shares any kind of data. Organizations of every type and size will benefit from gaining early knowledge of and access to IDS. Your involvement will put you at the forefront of shaping the future and gaining early access to IDS concepts and technology that can directly advance your business. Benefits of membership include:
 
-+ Be part of the change: Data is the new oil in economy, and it fosters progress any domain you can think off. It is important to be aware of its power and the ways this power can be leveraged. Being a member gives you the advantage of participating in the frontlines of data revolution and be there from the very beginning. Change is inevitable. You can either be part of the change or be forced to change last minute. The choice is clear.
++ Learning IDS concepts
 
-+ Steer the change: The IDSA offers their members several channels to participate and “take the wheel” and contribute to different topics and projects that shape the future of data spaces. From Working groups, to Task forces, Implementation Partners, Service Providers, Committees or Ecosystem Building, members have always a seat at the table. 
++ Access to research insights and cross-pollination between research and industry
 
-+ A place for Matchmaking: Being a member of the IDSA means that you have access to a huge network of Communities, Hubs, Implementation Partners and many more! As a member, you can always be connected to the right people and find the projects, support, liaisons, and consortia you were looking for. 
++ Technology, certification and networking events
 
-Want to leverage these and many more advantages?  [Learn more](https://internationaldataspaces.org/we/members/)
++ Support for implementation and adoption of IDS-certified products and services
+
++ Involvement in member-driven projects that become use cases and success stories for your business
+
+[Learn more on IDSA Website](https://internationaldataspaces.org/we/members/)
 
 
 # Building Data Spaces
