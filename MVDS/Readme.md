@@ -28,7 +28,7 @@ Every data provider can define the rules and conditions (usage policies) under w
 After a data consumer requests a data set from the provider a contract negotiation process is started during which the usage policies are negotiated.
 
 The picture below depicts a data flow example from two technical and legal enforcement perspectives.
-![Minimum Viable Data Space](images/IDSA_MVDS-Scenarios.png)
+![Minimum Viable Data Space](/images/IDSA_MVDS-Scenarios.png)
 
 ## Example :one: (legal enforcement) 
 The connector of the data consumer (Company 2) is connected with an ERP system that is not deployed in the connector. Therefore the data
