@@ -44,9 +44,11 @@ Read the Executive Summary of the IDSA [here](https://www.internationaldataspace
 #
 [IDSA Website](https://internationaldataspaces.org/) | [LinkedIn](https://www.linkedin.com/company/international-data-spaces-association/mycompany/) | [Twitter](https://twitter.com/ids_association) | [YouTube](https://www.youtube.com/channel/UC9PsQnKgreCmj-F6Kea5QRg) 
 
+#
+[Most Important Documents from IDSA](https://internationaldataspaces.org/publications/most-important-documents/)
 
 #
-[See the IDSA Homepage](https://www.internationaldataspaces.org) and the [Most Important Documents from IDSA](https://internationaldataspaces.org/publications/most-important-documents/)
+[Benefits of Becoming a Member of IDSA](https://internationaldataspaces.org/we/become-a-member/)
 
 
 #
