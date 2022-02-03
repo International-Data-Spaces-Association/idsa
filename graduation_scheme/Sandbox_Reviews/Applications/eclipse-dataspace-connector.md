@@ -1,10 +1,8 @@
 ## Eclipse Dataspace Connector
 
------
-
 Date of Application: 01.12.2021
 
-Email: markus.spiekermann@isst.fraunhofer.de
+1. Email: markus.spiekermann@isst.fraunhofer.de
 
 2. Name of project: Eclipse Dataspace Connector
 
