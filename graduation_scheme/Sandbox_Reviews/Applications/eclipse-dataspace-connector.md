@@ -1,6 +1,4 @@
-## TRUE Connector
-
-Date of Application: 01.02.2022
+## Eclipse Dataspace Connector
 
 -----
 
