@@ -112,7 +112,12 @@ The IDSA Open Source Software Graduation Scheme is placed in in this repository.
 - Addional information on the [IDSA Homepage](https://internationaldataspaces.org/make/open-source/).
 
 #### Joining as a Contributor/Individual
-*If you are not a user of IDSA Github yet*, please use this [form](https://forms.office.com/r/LMFt6pbji4 "IDSA Github / Participation Request") to submit a participation request. The requests are responded within a maximum of two business days (in most cases, the invitations are sent within several hours).
+*If you are not a user of IDSA Github yet*, please click on the button below and submit a participation request by using the form.
+
+[![Join](/images/button_click-to-join-ids-github.png)](https://forms.office.com/r/LMFt6pbji4)
+
+
+The requests are responded within a maximum of two business days (in most cases, the invitations are sent within several hours).
 
 *If you already have access to IDSA Github*, we recommend you to adhere to the guidelines of the repository you are interested in. You can start doing this by checking the existing documentation of the repository:
 
