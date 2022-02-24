@@ -29,7 +29,7 @@ Existing open-source projects address the technical challenges of cataloguing an
 * [Clearing House](../../../../ids-clearing-house-core/) is an implementation of the IDS Clearing House. It consists of two microservices that support the Clearing House Service, which is a prototype implementation of the Clearing House component of the Industrial Data Space.
 
 ### Frameworks & Other Resources
-* [Certification Criteria Catalogue](../../../../ids3c-co/) International Data Spaces Certification Criteria Catalog for Components.
+* [Certification Criteria Catalogue](../../../../ids3c-co/) International Data Spaces Certification Criteria Catalog for Components. **(Accessible only for IDS Members)** 
 * [DataspaceConnector UI](../../../../DataspaceConnectorUI/) is a user interface for the Dataspace Connector, facilitating the operation and configuration of the connector.
 * [Deployment Examples](../../../../IDS-Deployment-Examples/) is used to provide working deployments across the various IDSA repositories.
 * [IDS Enterprise Integration Connector](../../../../IDS-Enterprise-Integration-Connector/) is an implementation of an International Data Spaces (IDS) Connector that serves static content (files) using the standard message types defined in the IDS Information Model.
