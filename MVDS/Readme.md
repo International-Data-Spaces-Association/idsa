@@ -13,10 +13,10 @@ The MVDS is the unique solution provided by IDSA Head Office, as current best pr
 The deployment scenarios will act as best practices and sources of inspiration on building data spaces. 
 
 # What are the components that make a MVDS?
-A minimum viable data space consists of 2 or more IDS connectors and the Identity Provider, which consists of 3 components:
-1. The [Certificate Authority (CA)](https://github.com/International-Data-Spaces-Association/IDS-testbed/blob/master/InstallationGuide.md#certificate-authority) granting X.509 certificates (not to be confused with certification)
-2. The [Dynamic Attributes Provisioning Service (DAPS)](https://github.com/International-Data-Spaces-Association/IDS-testbed/blob/master/InstallationGuide.md#daps) to handle dynamic attributes and manage dynamic access tokens
-3. The Participant Information Service (ParIS) holding general information of all data space participants
+A minimum viable data space consists of: 
+1. Two or more IDS connectors  
+2. The [Certificate Authority (CA)](https://github.com/International-Data-Spaces-Association/IDS-testbed/blob/master/InstallationGuide.md#certificate-authority) granting X.509 certificates (not to be confused with certification)
+3. The [Dynamic Attributes Provisioning Service (DAPS)](https://github.com/International-Data-Spaces-Association/IDS-testbed/blob/master/InstallationGuide.md#daps) to handle dynamic attributes and manage dynamic access tokens
 
 ![Minimum Viable Data Space](images/MVDS-Testbed_1.0.png)
 
