@@ -4,6 +4,7 @@ This page provides an overview of all projects that are part of the IDSA Graduat
 
 :triangular_flag_on_post: To apply with your project, you may [click here](https://internationaldataspaces.org/open-source-application-form/) to apply via the forms on IDSA Website.
 
+:triangular_flag_on_post: And [here](https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme) you can check the IDSA Graduation Scheme.
 
 ---
 
@@ -30,7 +31,7 @@ The FIWARE TRUE Connector enables the trusted data exchange in order to be an ac
 
 :page_with_curl: [Contributing Guidelines](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/blob/main/CONTRIBUTING.md)
 
-:memo: [Application Document](graduation_scheme/Sandbox_Reviews/Applications/true-connector.md)
+:memo: [Application Document](Sandbox_Reviews/Applications/true-connector.md)
 
 ---
 
@@ -45,7 +46,7 @@ Whatever the individual setup is — on-premises bare-metal, different cloud ven
 
 :page_with_curl: [Contributing Guidelines](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/blob/main/CONTRIBUTING.md)
 
-:memo: [Application Document](graduation_scheme/Sandbox_Reviews/Applications/eclipse-dataspace-connector.md)
+:memo: [Application Document](Sandbox_Reviews/Applications/eclipse-dataspace-connector.md)
 
 ---
 
