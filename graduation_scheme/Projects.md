@@ -1,12 +1,12 @@
-# Projects in IDSA Open Source Landscape 
+## Projects in IDSA Open Source Landscape 
 
-This page provides an overview of all projects that are part of the IDSA Graduation Scheme.
-(newest projects at the top)
+This page provides an overview of all projects that are part of the IDSA Graduation Scheme, with newest projects at the top.
 
-To apply with your project, you can click on the button below that will lead you to the application forms on IDSA Website.
-[![Apply](../images/button_application-forms.png)](https://internationaldataspaces.org/open-source-application-form/)
+:triangular_flag_on_post: To apply with your project, you may [click here](https://internationaldataspaces.org/open-source-application-form/) to apply via the forms on IDSA Website.
+
 
 ---
+
 
 ![Sandbox](media/IDSA-Sandbox-Logo.png)
 
@@ -18,33 +18,40 @@ Sandbox projects are “early stage,” this covers the following examples:
 - Any project that realistically intends to join IDSA Incubation in future and wishes to lay the foundations for that.
 
 
-### FIWARE TRUE Connector 
+
+## :arrow_forward: FIWARE TRUE Connector 
 (Sandbox project since 09.02.2022)
 
-[Project Repository](https://github.com/International-Data-Spaces-Association/true-connector)
+The FIWARE TRUE Connector enables the trusted data exchange in order to be an active part of an IDS Ecosystem, a virtual data space leveraging existing standards and technologies, as well as governance models well-accepted in the data economy, to facilitate secure and standardized data exchange and data linkage in a trusted business ecosystem. The integration of existing FIWARE ecosystems is guaranteed by the dedicated Data APP, enabling the IDS-based interaction in a plug-and-play way.
 
-[Application Document](graduation_scheme/Sandbox_Reviews/Applications/true-connector.md)
+:octocat: [Project Repository](https://github.com/International-Data-Spaces-Association/true-connector)
 
-[Project Website](https://www.eng.it/en/case-studies/true-connector-per-facilitare-la-condivisione-di-dati-in-gaiax)
+:link: [Project Website](https://www.eng.it/en/case-studies/true-connector-per-facilitare-la-condivisione-di-dati-in-gaiax)
 
-[Contributing Guidelines](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/blob/main/CONTRIBUTING.md)
+:page_with_curl: [Contributing Guidelines](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/blob/main/CONTRIBUTING.md)
 
+:memo: [Application Document](graduation_scheme/Sandbox_Reviews/Applications/true-connector.md)
 
-### Eclipse Dataspace Connector
+---
+
+## :arrow_forward: Eclipse Dataspace Connector
 (Sandbox project since 02.02.2022)
 
-[Project Repository](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
+Whatever the individual setup is — on-premises bare-metal, different cloud vendors, hybrid, even single end-user machines — the EDC can be customized to work within any environment at scale. The connector’s added value is achieved through the separation of control and data plane, which enables a modular and thereby customizable way to build dataspaces. Due to common interfaces and mapping of existing standards, the connector adds capabilities of contract negotiating and policy handling in an interoperable manner. As an open source project hosted by the Eclipse Foundation, it provides a growing list of modules for many widely-deployed cloud environments “out-of-the-box” and can easily be extended for more customized environments, while avoiding any intellectual property rights (IPR) headaches.
 
-[Application Document](graduation_scheme/Sandbox_Reviews/Applications/eclipse-dataspace-connector.md)
+:octocat: [Project Repository](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector)
 
-[Project Website](https://projects.eclipse.org/projects/technology.dataspaceconnector) 
+:link: [Project Website](https://projects.eclipse.org/projects/technology.dataspaceconnector) 
 
-[Contributing Guidelines](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/blob/main/CONTRIBUTING.md)
+:page_with_curl: [Contributing Guidelines](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/blob/main/CONTRIBUTING.md)
+
+:memo: [Application Document](graduation_scheme/Sandbox_Reviews/Applications/eclipse-dataspace-connector.md)
 
 ---
 
 
 ![Incubated](media/IDSA-Incubated-Logo.png)
+
 Incubating projects have proven their compatibility (based on IDS Certification), reliability, vision and mission.
 
 Currently, there are no incubated projects in IDSA Open Source landscape. 
@@ -53,6 +60,7 @@ Currently, there are no incubated projects in IDSA Open Source landscape.
 
 
 ![Graduted](media/IDSA-Graduated-Logo.png)
+
 Graduated projects signal the highest level of maturity for an IDSA project. They have achieved a broad acceptance and adoption in data spaces.
 
 Currently, there are no graduated projects in IDSA Open Source landscape. 
