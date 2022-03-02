@@ -9,7 +9,7 @@ This page provides an overview of all projects that are part of the IDSA Graduat
 ---
 
 
-![Sandbox](media/IDSA-Sandbox-Logo.png)
+![Sandbox](./media/IDSA-Sandbox-Logo.png)
 
 Sandbox projects are “early stage,” this covers the following examples:
 
@@ -31,7 +31,7 @@ The FIWARE TRUE Connector enables the trusted data exchange in order to be an ac
 
 :page_with_curl: [Contributing Guidelines](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/blob/main/CONTRIBUTING.md)
 
-:memo: [Application Document](Sandbox_Reviews/Applications/true-connector.md)
+:memo: [Application Document](./Sandbox_Reviews/Applications/true-connector.md)
 
 ---
 
@@ -46,12 +46,12 @@ Whatever the individual setup is — on-premises bare-metal, different cloud ven
 
 :page_with_curl: [Contributing Guidelines](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector/blob/main/CONTRIBUTING.md)
 
-:memo: [Application Document](Sandbox_Reviews/Applications/eclipse-dataspace-connector.md)
+:memo: [Application Document](./Sandbox_Reviews/Applications/eclipse-dataspace-connector.md)
 
 ---
 
 
-![Incubated](media/IDSA-Incubated-Logo.png)
+![Incubated](./media/IDSA-Incubated-Logo.png)
 
 Incubating projects have proven their compatibility (based on IDS Certification), reliability, vision and mission.
 
@@ -60,7 +60,7 @@ Currently, there are no incubated projects in IDSA Open Source landscape.
 ---
 
 
-![Graduted](media/IDSA-Graduated-Logo.png)
+![Graduted](./media/IDSA-Graduated-Logo.png)
 
 Graduated projects signal the highest level of maturity for an IDSA project. They have achieved a broad acceptance and adoption in data spaces.
 
