@@ -10,6 +10,8 @@ Please find addional information also on the [IDSA Homepage](https://internation
 
 :rocket: Quickstart: [What is the Graduation Scheme, How to apply and why?](/graduation_scheme/IDSA-Graduation-Scheme.pdf)
 
+:rocket: Quickstart: [How to Apply as a Sandbox Project](/graduation_scheme/IDSA-Sandbox-Application.pdf)
+
 ## Project Stages
 
 ### Sandbox Stage
