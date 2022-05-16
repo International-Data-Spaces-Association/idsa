@@ -19,6 +19,22 @@ Sandbox projects are “early stage,” this covers the following examples:
 - Any project that realistically intends to join IDSA Incubation in future and wishes to lay the foundations for that.
 
 
+## :arrow_forward: Dataspace Connector
+(IDS Sandbox project since 11.05.2022)
+
+The DataSpaceConnector (DSC) is a connector, that serves as reference implementation for IDS's Reference Architecture and is integrated as first Connector into IDSA Testbed. It allows an access to sovereign data sharing based on the IDS principles. As part of the IDS graduation scheme, the DSC will remain very closely to the IDS architecture. We would like to engage further development teams within the DSC to contribute requirements and features.
+
+With the help of the Dataspace Connector, existing software can easily be extended by IDS connector functionalities in order to integrate them into an IDS data ecosystem. Furthermore, it is possible to use the Dataspace Connector as a basis for the development of own software that is to be connected to an IDS data ecosystem.
+
+:octocat: [Project Repository](https://github.com/International-Data-Spaces-Association/DataspaceConnector)
+
+:link: [Project Website](https://international-data-spaces-association.github.io/DataspaceConnector/)
+
+:page_with_curl: [Contributing Guidelines](https://github.com/International-Data-Spaces-Association/DataspaceConnector/blob/main/CONTRIBUTING.md)
+
+:memo: [Application Document](./Sandbox_Reviews/Applications/dataspace-connector.md)
+
+---
 
 ## :arrow_forward: FIWARE TRUE Connector 
 (IDS Sandbox project since 09.02.2022)
