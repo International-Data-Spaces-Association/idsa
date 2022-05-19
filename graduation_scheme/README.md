@@ -12,6 +12,8 @@ Please find addional information also on the [IDSA Homepage](https://internation
 
 :rocket: Quickstart: [How to Apply as a Sandbox Project](/graduation_scheme/IDSA-Sandbox-Application.pdf)
 
+🚩 [Check the Projects that are Already Part of IDS Graduation Scheme](/graduation_scheme/Projects.md)
+
 ## Project Stages
 
 ### Sandbox Stage
