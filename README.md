@@ -134,7 +134,7 @@ If your project is not part of the IDSA Open Source Landscape yet, please use th
 For more information that might be relevant for your project (such as information on graduation processes), please feel free to check [IDSA Open Source Graduation Scheme](./graduation_scheme/README.md), where the application processes and graduation criteria are described in more detail.
 
 ## Contributing to the Knowledge base
-As [IDS Knowledge Base](#knowledge-base) consists of experiences shared by IDS experts, new contributions are always very welcome. If you are interested in sharing your experiences with the community, it is recommended to start with the [contribution guidelines](/documentation/CONTRIBUTING.md).
+As [IDS Knowledge Base](#knowledge-base) consists of experiences shared by IDS experts, new contributions are always very welcome. If you are interested in sharing your experiences with the community, it is recommended to start with the [contribution guidelines](/CONTRIBUTING.md).
 
 ---
 
