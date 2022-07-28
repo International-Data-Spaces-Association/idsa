@@ -23,6 +23,12 @@ This is an umbrella repository which aims to guide you through the International
 
 </details>
 
+*If you are not a user of IDS Github yet*, please join us by clicking on the button below and submitting a request to participate.
+
+[![Join](/images/button_click-to-join-ids-githubv2.png.png)](https://forms.office.com/r/LMFt6pbji4)
+
+The requests are processed within a maximum of two business days (in most cases, the invitations are sent within several hours).
+
 ## IDS-G
 The [IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G) is the point of truth for specifications of the IDS and its components. It is public for everyone and contains the approved specifications that were confirmed by the IDS Technical Steering Committee (IDS-TSC) and the IDSA Working Groups. IDS-G publishes quarterly releases with new approvals by the Working Groups and the TSC.
 
@@ -41,25 +47,46 @@ IDS Graduation Scheme is the set of rules, processes and criteria to evaluate th
 
 You can find the latest version of [IDS Graduation Scheme here](https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme) and check this [one pager](https://github.com/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/IDSA-Sandbox-Application.pdf) as a starting point to understand how you can apply to it with your project. If you already have a IDS-related project you can quickly initiate your application via [this form](https://internationaldataspaces.org/sandbox-application/).
 
+## IDS Knowledge Base
+The [Knowledge Base](./how-to-build-data-spaces/README.md) provides insights to support your way to build Data Spaces on the foundation of IDS. This community-driven knowledge base is a place to gather and share knowledge.
+Find the technical documentation and learn about the steps to build data spaces in [How To Build Data Spaces](/how-to-build-data-spaces/README.md#building-data-spaces) page. IDS components or implement and/or contribute to the existing open source components. It will link you to relevant sources and will provide guidance on your way. 
+
+[IDS Knowledge Base](https://docs.internationaldataspaces.org/) is located as part of IDS Website to provide information in a simpler way, with videos and visuals.
+
 ## IDSA at a Glance
+Read the Executive Summary of the IDSA [here](https://www.internationaldataspaces.org/publications/sharing-data-while-keeping-data-ownership-the-potential-of-ids-for-the-data-economy/).
 
+#
+[IDSA Website](https://internationaldataspaces.org/) | [LinkedIn](https://www.linkedin.com/company/international-data-spaces-association/mycompany/) | [Twitter](https://twitter.com/ids_association) | [YouTube](https://www.youtube.com/channel/UC9PsQnKgreCmj-F6Kea5QRg) 
 
+#
+[Most Important Documents from IDSA](https://internationaldataspaces.org/publications/most-important-documents/)
 
-## Management of Releases
+#
+[Benefits of Becoming a Member of IDSA](https://internationaldataspaces.org/we/become-a-member/)
 
+#
+Advantages of [Becoming a Member](https://internationaldataspaces.org/we/become-a-member/)
 
-## How to Contribute 
+## Management of IDSA Releases
+
+The IDS-RAM and specifications on IDS-G are governed and managed by the IDSA and its members, through the bodies of the association. The main bodies are the IDSA Working Groups. Details on the management of IDSA releases are described in the [IDS-G Handbook](https://github.com/International-Data-Spaces-Association/IDS-G/blob/main/Handbook/README.md)
 
 
 ## Quick Guides
 
 ## Knowledge Base
+The IDS Knowledge Base consists of a step-by-step guide on [How to Build Data Spaces](./how-to-build-data-spaces/README.md) providing insights to support your way to build Data Spaces on the foundation of IDS. This community-driven knowledge base is a place to gather and share knowledge. New contributions are always very welcome. If you are interested in sharing your experiences with the community, it is recommended to start with the [contribution guidelines](/CONTRIBUTING.md).
+
+:triangular_flag_on_post: Part of the IDS Knowledge Base is also offered as part of IDSA Website [docs.internationaldataspaces.org](https://docs.internationaldataspaces.org/knowledge-base/) where you can find lean and brief information on the most popular topics about IDS technologies. 
+
+## How to Contribute to IDSA Github?
+You are warmly invited to contribute to the IDSA work here. While some aspects of the IDSA work is limited to IDSA members, most of the work here on GitHub is open for everybody to use and to contribute. You can always create change requests as issues on the repositories below: 
 
 
+You can always create Change Request as Issue on IDS-G (https://github.com/International-Data-Spaces-Association/IDS-G). 
 
-
-
-
+Contribute to IDS-G Creating an Issue
 
 --- old content --- 
 
@@ -143,12 +170,6 @@ The International Data Spaces Association GitHub organization provides insights 
 
 The [Knowledge Base](./how-to-build-data-spaces/README.md) provides insights to support your way to build Data Spaces on the foundation of IDS. This community-driven knowledge base is a place to gather and share knowledge.
 Find the technical documentation and learn about the steps to build data spaces in [How To Build Data Spaces](/how-to-build-data-spaces/README.md#building-data-spaces) page. IDS components or implement and/or contribute to the existing open source components. It will link you to relevant sources and will provide guidance on your way.
-
----
-
-## Management of IDSA Releases
-
-The IDS-RAM and specifications on IDS-G are governed and managed by the IDSA and its members through the bodies of the association. The main bodies are the IDSA Working Groups. Details on the management of IDSA releases are described in the [IDS-G Handbook](https://github.com/International-Data-Spaces-Association/IDS-G/blob/main/Handbook/README.md)
 
 ---
 
