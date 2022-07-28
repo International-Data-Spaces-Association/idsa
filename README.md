@@ -1,4 +1,70 @@
 # The International Data Spaces Association on GitHub
+The International Data Spaces Association aims at open, federated data ecosystems and marketplaces ensuring data sovereignty for the creator of the data. As depicted on the infographic below, the IDS standard enables trustworthy data exchange among certified dataproviders and recipients, based on mutually agreed rules. Data spaces improve cooperation, lower the barriers to entry and enhance innovation for the future of data economy.
+
+![Data Sharing in a Data Space](images/IDSA-Infographic-Data-Sharing-in-a-Data-Space.jpg)
+
+## What is Available Here?
+This is an umbrella repository which aims to guide you through the International Data Spaces Association (IDSA) on Github, by pointing you to the right source of information. We briefly provide an overview on available resources in this repository and beyond to support your journey building data spaces and sharing data in a secure and sovereign way.
+
+<details>
+<summary><strong>Table of Contents</strong></summary>
+
+-   [SHARING DATA WHILE KEEPING DATA OWNERSHIP](##sharing-data-while-keeping-data-ownership)
+    - [IDSA AT A GLANCE](#idsa-at-a-glance) 
+    - [IDS-G](#ids-g)
+    - [Repository overview](#tbd)
+-   [Knowledge Base](#knowledge-base)
+-   [Management of IDSA Releases](#management-of-idsa-releases)
+-   [Installation](#installation)
+-   [Contributing](#willing-to-contribute)
+    - [Open Source](#tbd)
+    - [Knowledge base](#tbd)  
+-   [License](#license)
+
+</details>
+
+## IDS-G
+The [IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G) is the point of truth for specifications of the IDS and its components. It is public for everyone and contains the approved specifications that were confirmed by the IDS Technical Steering Committee (IDS-TSC) and the IDSA Working Groups. IDS-G publishes quarterly releases with new approvals by the Working Groups and the TSC.
+
+Find the overview on the IDS resources and status of specifications in [**IDS-G** here on GitHub](https://github.com/International-Data-Spaces-Association/IDS-G)
+
+You are invited to [create issues on IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G/issues). The issues are tracked, approved and worked on in [IDS-G-pre](https://github.com/International-Data-Spaces-Association/IDS-G-pre) by IDSA members.
+
+
+## IDS Deployment Scenarios
+[IDS Deployment Scenarios](https://github.com/International-Data-Spaces-Association/IDS-Deployment-Scenarios) is the repository where deployment examples from various domains and cases are listed. It acts as a library of information listing different deployment alternatives applied by IDS projects and can be used as a great source of inspiration, prior to your implementation process.
+
+If your IDS implementation is either on Pilot or Live stage, you are warmly invited to apply with your IDS Deployment Scenario via the [Data Space Radar form](https://forms.office.com/Pages/ResponsePage.aspx?id=NNZGs_usx0K9RPFVfuibG3WVHeFvj2hHgjU7ZCgshUhUMExMOTdCWDNMSERJTjlIUlRKMVc0QTUxMCQlQCN0PWcu). 
+
+## IDS Graduation Scheme
+IDS Graduation Scheme is the set of rules, processes and criteria to evaluate the maturity level of a IDS-compliant component. 
+
+You can find the latest version of [IDS Graduation Scheme here](https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme) and check this [one pager](https://github.com/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/IDSA-Sandbox-Application.pdf) as a starting point to understand how you can apply to it with your project. If you already have a IDS-related project you can quickly initiate your application via [this form](https://internationaldataspaces.org/sandbox-application/).
+
+## IDSA at a Glance
+
+
+
+## Management of Releases
+
+
+## How to Contribute 
+
+
+## Quick Guides
+
+## Knowledge Base
+
+
+
+
+
+
+
+--- old content --- 
+
+
+# The International Data Spaces Association on GitHub
 
 This is an umbrella repository which guides you through the International Data Spaces Association (IDSA). We briefly provide an overview on available resources in this repository and beyond. To support your journey building data spaces and maintaining data sovereignty while sharing data, we offer here a growing and community-driven knowledge base and an overview on available Open Source components, based on the IDSA Open Source Graduation Scheme. 
 
