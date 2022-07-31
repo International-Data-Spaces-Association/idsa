@@ -81,15 +81,15 @@ The IDS Knowledge Base consists of a step-by-step guide on [How to Build Data Sp
 
 :triangular_flag_on_post: Part of the IDS Knowledge Base is also offered as part of IDSA Website [docs.internationaldataspaces.org](https://docs.internationaldataspaces.org/knowledge-base/) where you can find lean and brief information on the most popular topics about IDS technologies. 
 
-## How to Contribute to IDSA Github?
+## How to Contribute to IDS Assets on Github?
 You are warmly invited to contribute to the IDSA work here. While some aspects of the IDSA work is limited to IDSA members, most of the work here on GitHub is open for everybody to use and to contribute. You can always create change requests as issues on the repositories below: 
 
-
-| You Can Contribute to  | Via | Rules are Available in
+| You Can Contribute to | Via | Rules are Available in
 | ----------- | ----------- | ----------- |
 | [IDSA Main Repository (this repo)](https://github.com/International-Data-Spaces-Association/idsa), [IDS Knowledge Base](https://github.com/International-Data-Spaces-Association/idsa/tree/main/how-to-build-data-spaces), [IDS Graduation Scheme](https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme) | [Creating an Issue](https://github.com/International-Data-Spaces-Association/idsa/issues/new/choose) | [Contribution Guidelines](https://github.com/International-Data-Spaces-Association/idsa/blob/main/CONTRIBUTING.md)
 | [IDS Reference Architecture Model](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0) | [Creating an Issue](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0/issues/new)| [Contribution Guidelines](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0/blob/main/CONTRIBUTING.md)
 | [IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G) | [Creating an Issue](https://github.com/International-Data-Spaces-Association/IDS-G/issues/new)| [Contribution Guidelines](https://github.com/International-Data-Spaces-Association/IDS-G/blob/main/CONTRIBUTING.md)
+| [IDS Reference Testbed](https://github.com/International-Data-Spaces-Association/IDS-testbed) | [Creating an Issue](https://github.com/International-Data-Spaces-Association/IDS-testbed/issues/new)| [Contribution Guidelines](https://github.com/International-Data-Spaces-Association/IDS-testbed/blob/master/CONTRIBUTING.md)
 | [IDS Deployment Scenarios](https://github.com/International-Data-Spaces-Association/IDS-Deployment-Scenarios) | [Applying with a Deployment Scenario](https://forms.office.com/Pages/ResponsePage.aspx?id=NNZGs_usx0K9RPFVfuibG3WVHeFvj2hHgjU7ZCgshUhUMExMOTdCWDNMSERJTjlIUlRKMVc0QTUxMCQlQCN0PWcu) or [Creating an Issue](https://github.com/International-Data-Spaces-Association/IDS-Deployment-Scenarios/issues/new)| [Contribution Guidelines](https://github.com/International-Data-Spaces-Association/IDS-Deployment-Scenarios/blob/main/CONTRIBUTING.md)
 
 
