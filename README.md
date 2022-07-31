@@ -31,29 +31,40 @@ This is an umbrella repository which aims to guide you through the International
 [![Join](/images/button_click-to-join-ids-githubv2.png.png)](https://forms.office.com/r/LMFt6pbji4)
 
 
-## IDS-G
+## :globe_with_meridians: IDS-G
 The [IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G) is the point of truth for specifications of the IDS and its components. It is public for everyone and contains the approved specifications that were confirmed by the IDS Technical Steering Committee (IDS-TSC) and the IDSA Working Groups. IDS-G publishes quarterly releases with new approvals by the Working Groups and the TSC.
 
 Find the overview on the IDS resources and status of specifications in [**IDS-G** here on GitHub](https://github.com/International-Data-Spaces-Association/IDS-G)
 
 You are invited to [create issues on IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G/issues). The issues are tracked, approved and worked on in [IDS-G-pre](https://github.com/International-Data-Spaces-Association/IDS-G-pre) by IDSA members.
 
+## ✔️IDS Reference Testbed
+[IDS Testbed](https://github.com/International-Data-Spaces-Association/IDS-testbed) is a setup with Open Source IDS components which can be used to verify that a component implements the IDS specifications for establishing connections and communication and thus, can work interoperable with all IDS components in the testbed setup. It can be used for component behaviour testing, interoperability testing against IDS components (Connector, DAPS, CA, Metadata Broker), preparation for IDS certification and a starting point for creation of data spaces. 
 
-## IDS Deployment Scenarios
+You can check the [IDS Reference Testbed repository](https://github.com/International-Data-Spaces-Association/IDS-testbed) for more information.
+
+## 💊 Minimum Viable Data Space
+The Minimum Viable Data Space (MVDS) is a combination of components to initiate a data space with just enough features to be usable for secure and sovereign data exchange, as specified by IDSA. It aims to facilitate the work of experimenters by shortening the implementation time (by avoiding lengthy details that would slow down the first release). MVDS allows them to start with a first working version (where secure and sovereign data exchange is granted), where the development team can iterate, identify and respond to the assumptions about the requirements of the data space.
+
+To start experimenting with a MVDS, you can start with the setup explained [on this page](https://github.com/International-Data-Spaces-Association/IDS-testbed/blob/master/minimum-viable-data-space/MVDS.md) of IDS Reference Testbed repository.
+
+## ✍️ IDS Deployment Scenarios
 [IDS Deployment Scenarios](https://github.com/International-Data-Spaces-Association/IDS-Deployment-Scenarios) is the repository where deployment examples from various domains and cases are listed. It acts as a library of information listing different deployment alternatives applied by IDS projects and can be used as a great source of inspiration, prior to your implementation process.
 
 If your IDS implementation is either on Pilot or Live stage, you are warmly invited to apply with your IDS Deployment Scenario via the [Data Space Radar form](https://forms.office.com/Pages/ResponsePage.aspx?id=NNZGs_usx0K9RPFVfuibG3WVHeFvj2hHgjU7ZCgshUhUMExMOTdCWDNMSERJTjlIUlRKMVc0QTUxMCQlQCN0PWcu). 
 
-## IDS Graduation Scheme
+## 🥚 IDS Graduation Scheme
 IDS Graduation Scheme is the set of rules, processes and criteria to evaluate the maturity level of a IDS-compliant component. 
 
 You can find the latest version of [IDS Graduation Scheme here](https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme) and check this [one pager](https://github.com/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/IDSA-Sandbox-Application.pdf) as a starting point to understand how you can apply to it with your project. If you already have a IDS-related project you can quickly initiate your application via [this form](https://internationaldataspaces.org/sandbox-application/).
 
-## IDS Knowledge Base
+## :book: IDS Knowledge Base
 The [Knowledge Base](./how-to-build-data-spaces/README.md) provides insights to support your way to build Data Spaces on the foundation of IDS. This community-driven knowledge base is a place to gather and share knowledge.
 Find the technical documentation and learn about the steps to build data spaces in [How To Build Data Spaces](/how-to-build-data-spaces/README.md#building-data-spaces) page. IDS components or implement and/or contribute to the existing open source components. It will link you to relevant sources and will provide guidance on your way. 
 
 [IDS Knowledge Base](https://docs.internationaldataspaces.org/) is located as part of IDS Website to provide information in a simpler way, with videos and visuals.
+
+
 
 ## IDSA at a Glance
 Read the Executive Summary of the IDSA [here](https://www.internationaldataspaces.org/publications/sharing-data-while-keeping-data-ownership-the-potential-of-ids-for-the-data-economy/).
@@ -177,19 +188,6 @@ The [Knowledge Base](./how-to-build-data-spaces/README.md) provides insights to 
 Find the technical documentation and learn about the steps to build data spaces in [How To Build Data Spaces](/how-to-build-data-spaces/README.md#building-data-spaces) page. IDS components or implement and/or contribute to the existing open source components. It will link you to relevant sources and will provide guidance on your way.
 
 ---
-
-## Installation
-
-To get started with IDS based Data Spaces we provide an overview on available components in the Portfolio of Building Blocks (coming soon!) and setup examples based on the Minimum Viable Data Space (coming soon!).
-
----
-
-## Willing to Contribute
-You are warmly invited to contribute to the IDSA work. While some aspects of the IDSA work is limited to IDSA members, most of the work here on GitHub is open for everybody to use and to contribute. You can always create Change Request as Issue on IDS-G (https://github.com/International-Data-Spaces-Association/IDS-G). 
-
-You can contribute your technology by following the IDSA OSS Graduation Scheme as explained below.
-
-Feel free to add your knowledge and experience to the IDSA Knowledge Base. 
 
 
 ### BECOME PART OF IDS OPEN SOURCE LANDSCAPE
