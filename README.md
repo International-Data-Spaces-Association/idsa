@@ -123,7 +123,6 @@ The requests are responded within a maximum of two business days (in most cases,
 * License
 * Code of Conduct
 * Set of Labels for Issues
-
 and then contact the maintainers of the repository.
 
 #### Joining as a Project
