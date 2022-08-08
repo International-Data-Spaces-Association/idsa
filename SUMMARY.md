@@ -1,0 +1,16 @@
+# Table of contents
+
+* [IDS Knowledge Base](README.md)
+  * [Step 1. Gather Knowledge](readme/1-gather-knowledge.md)
+  * [Step 2. Define Your Use Case](readme/2-define-your-use-case.md)
+  * [Step 3. Build Components](readme/3-build-components.md)
+  * [Step 4. Prepare for Go Live](readme/4-prepare-for-go-live.md)
+  * [Step 5. Share](readme/5-share.md)
+* [IDS RAM 4.0](ids-ram-4.0/README.md)
+  * [How to Contribute to IDS RAM?](ids-ram-4.0/how-to-contribute-to-ids-ram.md)
+* [Design Principles for Data Spaces](design-principles-for-data-spaces.md)
+* [IDS Testbed](ids-testbed-1.md)
+* [Minimum Viable Data Space (MVDS)](mvds.md)
+* [IDS Open Source Strategy](ids-open-source-strategy/README.md)
+  * [How to Become a Contributor?](ids-open-source-strategy/how-to-become-a-contributor.md)
+  * [IDS Graduation Scheme](ids-open-source-strategy/ids-graduation-scheme.md)

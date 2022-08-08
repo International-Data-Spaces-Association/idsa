@@ -1,0 +1,1702 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark" >
+  <head>
+    <meta charset="utf-8">
+  <link rel="dns-prefetch" href="https://github.githubassets.com">
+  <link rel="dns-prefetch" href="https://avatars.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+  <link rel="preconnect" href="https://github.githubassets.com" crossorigin>
+  <link rel="preconnect" href="https://avatars.githubusercontent.com">
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-IVVa++hW3DBYJnNsmMMiUwt96BJ1mjUpGNDRWeui5BY1iA04E58M5NujgomnZU9R9DB+H99IlE7a+9b5XlO25g==" rel="stylesheet" href="https://github.githubassets.com/assets/light-21555afbe856.css" /><link crossorigin="anonymous" media="all" integrity="sha512-1KkMNn8M/al/dtzBLupRwkIOgnA9MWkm8oxS+solP87jByEvY/g4BmoxLihRogKcX1obPnf4Yp7dI0ZTWO+ljg==" rel="stylesheet" href="https://github.githubassets.com/assets/dark-d4a90c367f0c.css" /><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" integrity="sha512-cZa7DZqvMBwD236uzEunO/G1dvw8/QftyT2UtLWKQFEy0z0eq0R5WPwqVME+3NSZG1YaLJAaIqtU+m0zWf/6SQ==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-7196bb0d9aaf.css" /><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" integrity="sha512-WVoKqJ4y1nLsdNH4RkRT5qrM9+n9RFe1RHSiTnQkBf5TSZkJEc9GpLpTIS7T15EQaUQBJ8BwmKvwFPVqfpTEIQ==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-595a0aa89e32.css" /><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" integrity="sha512-XpAMBMSRZ6RTXgepS8LjKiOeNK3BilRbv8qEiA/M3m+Q4GoqxtHedOI5BAZRikCzfBL4KWYvVzYZSZ8Gp/UnUg==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-5e900c04c491.css" /><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" integrity="sha512-3HF2HZ4LgEIQm77yOzoeR20CX1n2cUQlcywscqF4s+5iplolajiHV7E5ranBwkX65jN9TNciHEVSYebQ+8xxEw==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-dc71761d9e0b.css" /><link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" integrity="sha512-+J8j3T0kbK9/sL3zbkCfPtgYcRD4qQfRbT6xnfOrOTjvz4zhr0M7AXPuE642PpaxGhHs1t77cTtieW9hI2K6Gw==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_high_contrast-f89f23dd3d24.css" /><link data-color-theme="light_tritanopia" crossorigin="anonymous" media="all" integrity="sha512-AQeAx5wHQAXNf0DmkvVlHYwA3f6BkxunWTI0GGaRN57GqD+H9tW8RKIKlopLS0qGaC54seFsPc601GDlqIuuHg==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_tritanopia-010780c79c07.css" /><link data-color-theme="dark_tritanopia" crossorigin="anonymous" media="all" integrity="sha512-+u5pmgAE0T03d/yI6Ha0NWwz6Pk0W6S6WEfIt8veDVdK8NTjcMbZmQB9XUCkDlrBoAKkABva8HuGJ+SzEpV1Uw==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_tritanopia-faee699a0004.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-UaC13TxG23hAbfH8gKhoyj9nsc+0Fhd0RkAi3o7p/WBYXY2FTFBNQDSP3fDUTnL8e2u3oXdh70fE6C9KBS9Xgw==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-51a0b5dd3c46.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-u032SbATUumDO5cLHkFDVo2SWdvbjf6o2qnwwfkM/OOSVDeATpuoQYMLm+EsC7y73833htTGIHGDforOzpAzBw==" rel="stylesheet" href="https://github.githubassets.com/assets/behaviors-bb4df649b013.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-/PVFZquIyT/6NDd8VDE1oDsfk4FkSl7Wup0zNWsX8OC9akUtDVdza1j3xwMpVCbkj96zt/uigtxv7X1QxNXVqQ==" rel="stylesheet" href="https://github.githubassets.com/assets/github-fcf54566ab88.css" />
+
+
+
+  <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-w5hJCVLr9mMoWU2CkK3V6KJW8LPlmqctSv7S9OvjN0h/Z1/lr/EPQcNywisPxs4wfcuB3FYoS0t5KqAzYwtPUA==" src="https://github.githubassets.com/assets/runtime-c398490952eb.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-SpZgKJyhHfrmO9ZLmJztuQzJ+J7tYz7l2uK0FahNXJpiNvVqiy1b2P1HammIlT0b/yoq6M9ZC88oDEuIBe8X+g==" src="https://github.githubassets.com/assets/environment-4a9660289ca1.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-ZAKZQWCEc6bs9LSQOCPRWq3wqRDkQxG2bPL/pW9Lj/Seap0PV0kF/yKCHske8mW3Zytde9n1Im83jxrCmpaMrA==" src="https://github.githubassets.com/assets/5724-640299416084.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-yIsmzjyBs6Mu12a5shTZVT0Jr80it7wV2yjZs77L3GmHoFP5SPNsWY9P+Swu7lPaWMXMtyaxceBQGP/7/Kyl8w==" src="https://github.githubassets.com/assets/93-c88b26ce3c81.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-WtABWNDgj+0Z+nTC8dZsMxFYSujm/s9SJTsHmFnzg73joAek4tmQ1zXCSLBvgAsgdPE8EQuOuOOW0NNP97Y7UA==" src="https://github.githubassets.com/assets/8630-5ad00158d0e0.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-7ocxdRbeEIuk5x86ryHnbc5GBupcna8GP7PEtAqWS0+sMjp4CX10GV5P0XsN7Grx1XTum3BG1FFOwwpccenxkw==" src="https://github.githubassets.com/assets/5157-ee87317516de.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-7t/qm9rsK1ausz4+qmdD1DVavNT0Ask2sQNGggVw9n82rwMdTe/+k4rO67V4XP0aErLpodj1No8clP63c0AZkw==" src="https://github.githubassets.com/assets/9244-eedfea9bdaec.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-W+9GbCgd9tSXyjPKjIaJwHD2hoMWnttGaw6SD/PdwGYTvaFJZl18dNJ11PYmqGvtRrWvuFPvZuiDj1Jl9DiKPg==" src="https://github.githubassets.com/assets/github-elements-5bef466c281d.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-p3wlRYBzPNGFSwV/lSBeQez8NBdOLzQ+OhNZpflvewjsPaDvyO/Brb0KXgmB64AUdmMEOu/Jg2bYVazQ2QeKSA==" src="https://github.githubassets.com/assets/element-registry-a77c25458073.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-Hb8d69V10VxkC90NX3zvjNovHq5vrRv0XCde5qNf5WiQAB6BziCN+gEbKG+fDj8i05B2pBdyGIh+3pmaRvzLJA==" src="https://github.githubassets.com/assets/5388-1dbf1debd575.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-JPHg6lXC/kVMbA05VoaD5W739fMUF/ObaJ4NrZWLi91OWI9xEhJ9NtwbGROmxjCm5FGwNOVohY+DXILkO19dtA==" src="https://github.githubassets.com/assets/8932-24f1e0ea55c2.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-EIceiRH5/XsS9RPMOGlnx37yFBM2TbSNcVWgTjKPmRwjdl/lfKNdColL/PLunshA/attRqdYJVnNNGXNyhx6Zw==" src="https://github.githubassets.com/assets/7077-10871e8911f9.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-9mbH9ANKp+mACS9WB6Dwf0B0JST0GGfdf1Cal3BazOkVjhvgxnw3FPD6oNcq/mrsBR8Eowgelgcwvu1KhyUUhQ==" src="https://github.githubassets.com/assets/6262-f666c7f4034a.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-K5XqHZlKou8Ex97bfu02vnw9p1q3z7EXg/hNqwyzevXKd7VQhkOwCH5y4Kx7AQ+wxdF7w2O30sb03ukDwHGVJQ==" src="https://github.githubassets.com/assets/3682-2b95ea1d994a.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-JLnnTPhYd6z7k1g7CjOIUK4YQRvqCzvSNqRq6GH8tenPhyDVVXDp//clwLGS9xZc07/khbn/oI6NNUUUU5viPQ==" src="https://github.githubassets.com/assets/3932-24b9e74cf858.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-KpuRNOm6MMmvWuaP8wFX26rnjPfD1Wf8KTdEyObOT5SLeLP47LFmHQbSCVcJpdBhAAqlf28Pk7fUdcsT8cZILg==" src="https://github.githubassets.com/assets/3826-2a9b9134e9ba.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-a4WgZYeVc2aKrHPyOfYm6uY7Vcw96gOwHqRhs6hkNqnhHJuZC4f94uvcomE6JS3HhgCVZTQpvU8PgucLwSkteg==" src="https://github.githubassets.com/assets/5222-6b85a0658795.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-XrU5iELtQSSz5e+xv08TibnOi4mPUjcpZ+15cFMR3IghxHuI0P7H0pZm+mHCrj4C1PkpM3G7SdSV+0ST9mCNQA==" src="https://github.githubassets.com/assets/716-5eb5398842ed.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-IhBbXK4opeHET+Jg5VOiWg1FhcVSUuBVK24kAWZS24Xjo+Cie344tyd2RZstjmLRKkZ76GRRVZXoGKOblGtaXA==" src="https://github.githubassets.com/assets/behaviors-22105b5cae28.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-nZpgXrBvHm7YePk3m1UhdxY43Ra8lTPxsGk7ocBtGBimPanKdybEgnPXXulh7k7tNLnPzPXFEJ5wY7QGowGOdw==" src="https://github.githubassets.com/assets/7749-9d9a605eb06f.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-KKLG+hE5uCMJHxwocsH3WQNYzT3qftRjkNe7L0b5aOMgoS5iT5oWDIwhiy38adTWwg6xdomYeWvi2+wQBjOBAg==" src="https://github.githubassets.com/assets/notifications-global-28a2c6fa1139.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-xyGHYwjeMuGHmOdgy9Kb/p7zpSxjrw197tH6c+PzJj3L9zUCmjXBRbPky6B3Dqc/dN0x6OPF7n2Uh5u5MdbVUw==" src="https://github.githubassets.com/assets/90-c721876308de.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-beHut1QY+hKAlZvCu4urDea+/nmJLfBK5QMOhL20FQilvY2fEsh2eQyQEby6iQz+lcgGaT9Ek2WNbRCdnLOP0g==" src="https://github.githubassets.com/assets/3878-6de1eeb75418.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-F5Q6RrhRvlVCN2ETsd9f4DNxjV+y8sOWdG85YZrLnDVvJYdIUpwDHnLnXX7mO9FBWg15GUK86bhlJF4+r7BgRA==" src="https://github.githubassets.com/assets/codespaces-17943a46b851.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-ZSFwlLEfCHi+qMlyabT/x1hgegM31ywDLEVDPSNpNv5/bxbnTVHBhPvLTkSf+Yie8nohu1/RkuXr8PMIkVhO9w==" src="https://github.githubassets.com/assets/2734-65217094b11f.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-u8r8UO/bHE8/YPL9N2X0L6nMIkQcItDfE4Yk2OXciXzzEILnPjRg3I2JrrWpQ2F91UAkptNyDZ0xjVSte65jig==" src="https://github.githubassets.com/assets/6637-bbcafc50efdb.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-AX8yHsBvOrK05g8WTf93Zbc1BLgNv8lm5zW4GHMBmhH0rqS/foQCeEwS0gHO4vjHHYa9pVnGNexyFUEpLRIfhA==" src="https://github.githubassets.com/assets/6791-017f321ec06f.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-r2hHba1e8JPy7TLDUwijwsuZIFxmFwyLuBmhRH2nbpiGvS7ETCdJaI/BTo2C6U/SLyS5o9Vddf1tgiaL9txUGA==" src="https://github.githubassets.com/assets/repositories-af68476dad5e.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-JOIzm3cATQ5kHTE5cnwY89tc3pj0EXPTBlZSDvtWtySpGyWyyghnrgmKg1V+ggAJ4hya1moQYIZdJvlX+3UXgQ==" src="https://github.githubassets.com/assets/topic-suggestions-24e2339b7700.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-m+xLbtlG2Zwpm5sB0ozfIY8TGHROmcld5y+GWsYbeGqTAtW9l4mg5oxK2t8yntJSdV0Yzi8ATaauqC/t6s0U8Q==" src="https://github.githubassets.com/assets/code-menu-9bec4b6ed946.js"></script>
+  
+
+  <meta name="viewport" content="width=device-width">
+  
+  <title>idsa/graduation_scheme at main · International-Data-Spaces-Association/idsa · GitHub</title>
+    <meta name="description" content="This is the main repository of International Data Spaces Association on GitHub, where you can find general overview and required information on IDS Open Source Landscape. - idsa/graduation_scheme at main · International-Data-Spaces-Association/idsa">
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+  <meta property="fb:app_id" content="1401488693436528">
+  <meta name="apple-itunes-app" content="app-id=1477376905" />
+    <meta name="twitter:image:src" content="https://repository-images.githubusercontent.com/233607509/86aafa00-3dd2-11ea-98b0-5e06cc6e416f" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="idsa/graduation_scheme at main · International-Data-Spaces-Association/idsa" /><meta name="twitter:description" content="This is the main repository of International Data Spaces Association on GitHub, where you can find general overview and required information on IDS Open Source Landscape. - idsa/graduation_scheme a..." />
+    <meta property="og:image" content="https://repository-images.githubusercontent.com/233607509/86aafa00-3dd2-11ea-98b0-5e06cc6e416f" /><meta property="og:image:alt" content="This is the main repository of International Data Spaces Association on GitHub, where you can find general overview and required information on IDS Open Source Landscape. - idsa/graduation_scheme a..." /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="idsa/graduation_scheme at main · International-Data-Spaces-Association/idsa" /><meta property="og:url" content="https://github.com/International-Data-Spaces-Association/idsa" /><meta property="og:description" content="This is the main repository of International Data Spaces Association on GitHub, where you can find general overview and required information on IDS Open Source Landscape. - idsa/graduation_scheme a..." />
+    
+
+
+
+    
+
+  <link rel="assets" href="https://github.githubassets.com/">
+  
+
+
+  <meta name="request-id" content="E3BA:3B04:EB0DDA:18FFFC0:6274D1D1" data-pjax-transient="true"/><meta name="html-safe-nonce" content="802a893a2f3601a500eed01ce9069dec1f1193442a056a3435082530bccbe512" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFM0JBOjNCMDQ6RUIwRERBOjE4RkZGQzA6NjI3NEQxRDEiLCJ2aXNpdG9yX2lkIjoiMjUzNzQwMjE4Njg5OTcwNjMyMSIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="c45d398141fb85569d5fd531f243e829dc5d41b43d220bc8d53932e37420b5de" data-pjax-transient="true"/>
+
+    <meta name="hovercard-subject-tag" content="repository:233607509" data-pjax-transient>
+
+
+  <meta name="github-keyboard-shortcuts" content="repository,source-code" data-pjax-transient="true" />
+
+  
+
+  <meta name="selected-link" value="repo_source" data-pjax-transient>
+
+    <meta name="google-site-verification" content="c1kuD-K2HIVF635lypcsWPoD4kilo5-jA_wBFyT4uMY">
+  <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+  <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+  <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+
+<meta name="octolytics-url" content="https://collector.github.com/github/collect" />
+
+  <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/files/disambiguate" data-pjax-transient="true" />
+
+  
+
+
+
+
+  
+
+      <meta name="hostname" content="github.com">
+    <meta name="user-login" content="">
+
+
+
+      <meta name="expected-hostname" content="github.com">
+
+
+    <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS">
+
+
+  <meta http-equiv="x-pjax-version" content="6048d17580bf7368f6d76f950b9ba1cfaea07e76d8c995bd070284708318f51b" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-csp-version" content="ca8f28be2f02ebc697029bdc0646515d9017cf770c4c1ff8414eccd96f6b5a2a" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-css-version" content="395f050d6e359d4609ed90c839f944a8e552cc101acb9f63b2767b25b236871d" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="776a231309812d2c7a9de141cff5ea29ab997c1ff59548a3911bb6f8735f018a" data-turbo-track="reload">
+  <meta name="turbo-cache-control" content="no-preview">
+  
+
+    
+  <meta name="go-import" content="github.com/International-Data-Spaces-Association/idsa git https://github.com/International-Data-Spaces-Association/idsa.git">
+
+  <meta name="octolytics-dimension-user_id" content="56343214" /><meta name="octolytics-dimension-user_login" content="International-Data-Spaces-Association" /><meta name="octolytics-dimension-repository_id" content="233607509" /><meta name="octolytics-dimension-repository_nwo" content="International-Data-Spaces-Association/idsa" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="233607509" /><meta name="octolytics-dimension-repository_network_root_nwo" content="International-Data-Spaces-Association/idsa" />
+
+
+
+    <link rel="canonical" href="https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme" data-pjax-transient>
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+  <meta name="browser-optimizely-client-errors-url" content="https://api.github.com/_private/browser/optimizely_client/errors">
+
+  <link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
+  <link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github.githubassets.com/favicons/favicon.png">
+  <link rel="icon" class="js-site-favicon" type="image/svg+xml" href="https://github.githubassets.com/favicons/favicon.svg">
+
+<meta name="theme-color" content="#1e2327">
+<meta name="color-scheme" content="light dark" />
+
+
+  <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+  </head>
+
+  <body class="logged-out env-production page-responsive" style="word-wrap: break-word;">
+    
+
+    <div class="position-relative js-header-wrapper ">
+      <a href="#start-of-content" class="px-2 py-4 color-bg-accent-emphasis color-fg-on-emphasis show-on-focus js-skip-to-content">Skip to content</a>
+      <span data-view-component="true" class="progress-pjax-loader js-pjax-loader-bar Progress position-fixed width-full">
+    <span style="width: 0%;" data-view-component="true" class="Progress-item progress-pjax-loader-bar left-0 top-0 color-bg-accent-emphasis"></span>
+</span>      
+      
+
+
+        
+
+            <header class="Header-old header-logged-out js-details-container Details position-relative f4 py-2" role="banner">
+  <div class="container-xl d-lg-flex flex-items-center p-responsive">
+    <div class="d-flex flex-justify-between flex-items-center">
+      <a class="mr-4 color-fg-inherit" href="https://github.com/" aria-label="Homepage" data-ga-click="(Logged out) Header, go to homepage, icon:logo-wordmark">
+        <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github">
+    <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
+</svg>
+      </a>
+
+        <div class="d-lg-none css-truncate css-truncate-target width-fit p-2">
+          
+
+        </div>
+
+      <div class="d-flex flex-items-center">
+            <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&amp;source=header-repo"
+              class="d-inline-block d-lg-none f5 no-underline border color-border-default rounded-2 px-2 py-1 mr-3 mr-sm-5 color-fg-inherit"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8b50ffa879084964ed51745a50cd5fbd353ed0853efbac82f128044ee8098898"
+            >
+              Sign&nbsp;up
+            </a>
+
+        <button aria-label="Toggle navigation" aria-expanded="false" type="button" data-view-component="true" class="js-details-target btn-link d-lg-none mt-1 color-fg-inherit">  <svg aria-hidden="true" height="24" viewBox="0 0 16 16" version="1.1" width="24" data-view-component="true" class="octicon octicon-three-bars">
+    <path fill-rule="evenodd" d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z"></path>
+</svg>
+  
+</button>      </div>
+    </div>
+
+    <div class="HeaderMenu HeaderMenu--logged-out position-fixed top-0 right-0 bottom-0 height-fit position-lg-relative d-lg-flex flex-justify-between flex-items-center flex-auto">
+      <div class="d-flex d-lg-none flex-justify-end border-bottom color-bg-subtle p-3">
+        <button aria-label="Toggle navigation" aria-expanded="false" type="button" data-view-component="true" class="js-details-target btn-link">  <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-x color-fg-muted">
+    <path fill-rule="evenodd" d="M5.72 5.72a.75.75 0 011.06 0L12 10.94l5.22-5.22a.75.75 0 111.06 1.06L13.06 12l5.22 5.22a.75.75 0 11-1.06 1.06L12 13.06l-5.22 5.22a.75.75 0 01-1.06-1.06L10.94 12 5.72 6.78a.75.75 0 010-1.06z"></path>
+</svg>
+  
+</button>      </div>
+
+        <nav class="mt-0 px-3 px-lg-0 mb-5 mb-lg-0" aria-label="Global">
+          <ul class="d-lg-flex list-style-none">
+              <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
+    <details class="HeaderMenu-details details-overlay details-reset width-full">
+      <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap d-block d-lg-inline-block">
+        Product
+        <svg x="0" y="0" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-absolute position-lg-relative"><path d="M1,1l6.2,6L13,1"></path></svg>
+      </summary>
+      <div class="dropdown-menu flex-auto rounded px-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
+        <ul class="list-style-none f5 pb-1">
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Features&quot;,&quot;label&quot;:&quot;ref_page:/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme;ref_cta:Features;&quot;}" href="/features">
+      Features
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Mobile&quot;,&quot;label&quot;:&quot;ref_page:/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme;ref_cta:Mobile;&quot;}" href="/mobile">
+      Mobile
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_page:/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme;ref_cta:Actions;&quot;}" href="/features/actions">
+      Actions
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_page:/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme;ref_cta:Codespaces;&quot;}" href="/features/codespaces">
+      Codespaces
+</a>  </li>
+
+            
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_page:/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme;ref_cta:Packages;&quot;}" href="/features/packages">
+      Packages
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_page:/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme;ref_cta:Security;&quot;}" href="/features/security">
+      Security
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_page:/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme;ref_cta:Code review;&quot;}" href="/features/code-review">
+      Code review
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_page:/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme;ref_cta:Issues;&quot;}" href="/features/issues">
+      Issues
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Integrations&quot;,&quot;label&quot;:&quot;ref_page:/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme;ref_cta:Integrations;&quot;}" href="/features/integrations">
+      Integrations
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold border-top pt-4 pb-2 mt-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme;ref_cta:GitHub Sponsors;&quot;}" href="/sponsors">
+      GitHub Sponsors
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Customer stories&quot;,&quot;label&quot;:&quot;ref_page:/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme;ref_cta:Customer stories;&quot;}" href="/customer-stories">
+      Customer stories
+</a>  </li>
+
+        </ul>
+      </div>
+    </details>
+</li>
+
+
+              <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
+    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Team&quot;,&quot;label&quot;:&quot;ref_page:/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme;ref_cta:Team;&quot;}" href="/team">Team</a>
+</li>
+
+              <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
+    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Enterprise&quot;,&quot;label&quot;:&quot;ref_page:/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme;ref_cta:Enterprise;&quot;}" href="/enterprise">Enterprise</a>
+</li>
+
+
+            <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
+    <details class="HeaderMenu-details details-overlay details-reset width-full">
+      <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap d-block d-lg-inline-block">
+        Explore
+        <svg x="0" y="0" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-absolute position-lg-relative"><path d="M1,1l6.2,6L13,1"></path></svg>
+      </summary>
+      <div class="dropdown-menu flex-auto rounded px-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
+        <ul class="list-style-none f5 pb-1">
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Explore GitHub&quot;,&quot;label&quot;:&quot;ref_page:/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme;ref_cta:Explore GitHub;&quot;}" href="/explore">
+      Explore GitHub
+</a>  </li>
+
+              <li class="color-fg-muted text-normal f6 text-mono mb-1 border-top pt-3 mt-3 mb-1">Learn and contribute</li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_page:/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme;ref_cta:Topics;&quot;}" href="/topics">
+      Topics
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_page:/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme;ref_cta:Collections;&quot;}" href="/collections">
+      Collections
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_page:/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme;ref_cta:Trending;&quot;}" href="/trending">
+      Trending
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Learning Lab&quot;,&quot;label&quot;:&quot;ref_page:/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme;ref_cta:Learning Lab;&quot;}" href="https://lab.github.com/">
+      Learning Lab
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Open source guides&quot;,&quot;label&quot;:&quot;ref_page:/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme;ref_cta:Open source guides;&quot;}" href="https://opensource.guide">
+      Open source guides
+</a>  </li>
+
+              <li class="color-fg-muted text-normal f6 text-mono mb-1 border-top pt-3 mt-3 mb-1">Connect with others</li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_page:/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme;ref_cta:The ReadME Project;&quot;}" href="/readme">
+      The ReadME Project
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Events&quot;,&quot;label&quot;:&quot;ref_page:/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme;ref_cta:Events;&quot;}" href="/events">
+      Events
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Community forum&quot;,&quot;label&quot;:&quot;ref_page:/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme;ref_cta:Community forum;&quot;}" href="https://github.community">
+      Community forum
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Education&quot;,&quot;label&quot;:&quot;ref_page:/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme;ref_cta:GitHub Education;&quot;}" href="https://education.github.com">
+      GitHub Education
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Stars program&quot;,&quot;label&quot;:&quot;ref_page:/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme;ref_cta:GitHub Stars program;&quot;}" href="https://stars.github.com">
+      GitHub Stars program
+</a>  </li>
+
+        </ul>
+      </div>
+    </details>
+</li>
+
+
+            <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
+    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Marketplace&quot;,&quot;label&quot;:&quot;ref_page:/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme;ref_cta:Marketplace;&quot;}" href="/marketplace">Marketplace</a>
+</li>
+
+
+            <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
+    <details class="HeaderMenu-details details-overlay details-reset width-full">
+      <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap d-block d-lg-inline-block">
+        Pricing
+        <svg x="0" y="0" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-absolute position-lg-relative"><path d="M1,1l6.2,6L13,1"></path></svg>
+      </summary>
+      <div class="dropdown-menu flex-auto rounded px-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
+        <ul class="list-style-none f5 pb-1">
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Plans&quot;,&quot;label&quot;:&quot;ref_page:/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme;ref_cta:Plans;&quot;}" href="/pricing">
+      Plans
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Compare plans&quot;,&quot;label&quot;:&quot;ref_page:/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme;ref_cta:Compare plans;&quot;}" href="/pricing#compare-features">
+      Compare plans
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Contact Sales&quot;,&quot;label&quot;:&quot;ref_page:/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme;ref_cta:Contact Sales;&quot;}" href="https://github.com/enterprise/contact">
+      Contact Sales
+</a>  </li>
+
+              <li>
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold border-top pt-4 pb-2 mt-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Education&quot;,&quot;label&quot;:&quot;ref_page:/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme;ref_cta:Education;&quot;}" href="https://education.github.com">
+      Education
+</a>  </li>
+
+        </ul>
+      </div>
+    </details>
+</li>
+
+          </ul>
+        </nav>
+
+      <div class="d-lg-flex flex-items-center px-3 px-lg-0 text-center text-lg-left">
+          <div class="d-lg-flex min-width-0 mb-3 mb-lg-0">
+            
+
+
+
+<div class="header-search flex-auto js-site-search position-relative flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to"
+>
+  <div class="position-relative">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="233607509" data-scoped-search-url="/International-Data-Spaces-Association/idsa/search" data-owner-scoped-search-url="/orgs/International-Data-Spaces-Association/search" data-unscoped-search-url="/search" data-turbo="false" action="/International-Data-Spaces-Association/idsa/search" accept-charset="UTF-8" method="get">
+      <label class="form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
+        <input type="text"
+          class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+          data-hotkey=s,/
+          name="q"
+          data-test-selector="nav-search-input"
+          placeholder="Search"
+          data-unscoped-placeholder="Search GitHub"
+          data-scoped-placeholder="Search"
+          autocapitalize="off"
+          role="combobox"
+          aria-haspopup="listbox"
+          aria-expanded="false"
+          aria-autocomplete="list"
+          aria-controls="jump-to-results"
+          aria-label="Search"
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations"
+          spellcheck="false"
+          autocomplete="off"
+        >
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="1p9cY4UJhdhFxBF9PY8AoKJaZqvpBTTMhHJjrp9J4DQLrsQ/dADg8SsIduYKem18pvV+zIWhnKhHuykHWr1hOQ==" />
+        <input type="hidden" class="js-site-search-type-field" name="type" >
+            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
+
+
+          <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
+            
+<ul class="d-none js-jump-to-suggestions-template-container">
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="suggestion">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg title="Repository" aria-label="Repository" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo js-jump-to-octicon-repo d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path>
+</svg>
+      <svg title="Project" aria-label="Project" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-project js-jump-to-octicon-project d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path>
+</svg>
+      <svg title="Search" aria-label="Search" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-search js-jump-to-octicon-search d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path>
+</svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+</ul>
+
+<ul class="d-none js-jump-to-no-results-template-container">
+  <li class="d-flex flex-justify-center flex-items-center f5 d-none js-jump-to-suggestion p-2">
+    <span class="color-fg-muted">No suggested jump to results</span>
+  </li>
+</ul>
+
+<ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="scoped_search">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg title="Repository" aria-label="Repository" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo js-jump-to-octicon-repo d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path>
+</svg>
+      <svg title="Project" aria-label="Project" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-project js-jump-to-octicon-project d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path>
+</svg>
+      <svg title="Search" aria-label="Search" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-search js-jump-to-octicon-search d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path>
+</svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-owner-scoped-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="owner_scoped_search">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg title="Repository" aria-label="Repository" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo js-jump-to-octicon-repo d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path>
+</svg>
+      <svg title="Project" aria-label="Project" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-project js-jump-to-octicon-project d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path>
+</svg>
+      <svg title="Search" aria-label="Search" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-search js-jump-to-octicon-search d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path>
+</svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this organization">
+        In this organization
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-global-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="global_search">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg title="Repository" aria-label="Repository" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo js-jump-to-octicon-repo d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path>
+</svg>
+      <svg title="Project" aria-label="Project" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-project js-jump-to-octicon-project d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path>
+</svg>
+      <svg title="Search" aria-label="Search" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-search js-jump-to-octicon-search d-none flex-shrink-0">
+    <path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path>
+</svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+
+</ul>
+
+          </div>
+      </label>
+</form>  </div>
+</div>
+
+          </div>
+
+        <div class="position-relative mr-3 mb-4 mb-lg-0 d-inline-block">
+          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2FInternational-Data-Spaces-Association%2Fidsa%2Ftree%2Fmain%2Fgraduation_scheme"
+            class="HeaderMenu-link flex-shrink-0 no-underline"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="40bafe3938f14539e9994e4cda56d00ceb4cc38ca540f6555fd7b6c5bac53512"
+            data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
+            Sign in
+          </a>
+        </div>
+
+          <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&amp;source=header-repo&amp;source_repo=International-Data-Spaces-Association%2Fidsa"
+            class="HeaderMenu-link flex-shrink-0 d-inline-block no-underline border color-border-default rounded px-2 py-1"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="40bafe3938f14539e9994e4cda56d00ceb4cc38ca540f6555fd7b6c5bac53512"
+            data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/files/disambiguate;ref_cta:Sign up;ref_loc:header logged out&quot;}"
+          >
+            Sign up
+          </a>
+      </div>
+    </div>
+  </div>
+</header>
+
+    </div>
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+
+
+
+
+
+
+    <div data-pjax-replace id="js-flash-container">
+
+
+  <template class="js-flash-template">
+    <div class="flash flash-full  {{ className }}">
+  <div class="px-2" >
+    <button class="flash-close js-flash-close" type="button" aria-label="Dismiss this message">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+    </button>
+    
+      <div>{{ message }}</div>
+
+  </div>
+</div>
+  </template>
+</div>
+
+
+    
+
+  <include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"></include-fragment>
+
+
+
+
+
+  <div
+    class="application-main "
+    data-commit-hovercards-enabled
+    data-discussion-hovercards-enabled
+    data-issue-and-pr-hovercards-enabled
+  >
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+    <main id="js-repo-pjax-container" data-pjax-container >
+      
+    
+    
+
+
+
+
+
+
+
+
+  <div id="repository-container-header" class="pt-3 hide-full-screen" style="background-color: var(--color-page-header-bg);" data-pjax-replace>
+
+      <div class="d-flex mb-3 px-3 px-md-4 px-lg-5">
+
+        <div class="flex-auto min-width-0 width-fit mr-3">
+            <h2 class=" d-flex flex-wrap flex-items-center wb-break-word f3 text-normal">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo color-fg-muted mr-2">
+    <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path>
+</svg>
+  <span class="author flex-self-stretch" itemprop="author">
+    <a class="url fn" rel="author" data-hovercard-type="organization" data-hovercard-url="/orgs/International-Data-Spaces-Association/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/International-Data-Spaces-Association">International-Data-Spaces-Association</a>
+  </span>
+  <span class="mx-1 flex-self-stretch color-fg-muted">/</span>
+  <strong itemprop="name" class="mr-2 flex-self-stretch">
+    <a data-pjax="#repo-content-pjax-container" href="/International-Data-Spaces-Association/idsa">idsa</a>
+  </strong>
+
+  <span></span><span class="Label Label--secondary v-align-middle mr-1">Public</span>
+</h2>
+
+        </div>
+
+          <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
+
+    
+
+  <li>
+      <a href="/login?return_to=%2FInternational-Data-Spaces-Association%2Fidsa" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ef729811082e6ed5b366eca2c6eb792dece47e1cf8dfc7616505e169ec121cc2" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
+    <path d="M8 16a2 2 0 001.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 008 16z"></path><path fill-rule="evenodd" d="M8 1.5A3.5 3.5 0 004.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.018.018 0 00-.003.01l.001.006c0 .002.002.004.004.006a.017.017 0 00.006.004l.007.001h10.964l.007-.001a.016.016 0 00.006-.004.016.016 0 00.004-.006l.001-.007a.017.017 0 00-.003-.01l-1.703-2.554a1.75 1.75 0 01-.294-.97V5A3.5 3.5 0 008 1.5zM3 5a5 5 0 0110 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.518 1.518 0 0113.482 13H2.518a1.518 1.518 0 01-1.263-2.36l1.703-2.554A.25.25 0 003 7.947V5z"></path>
+</svg>Notifications
+  
+</a>
+  </li>
+
+  <li>
+        <a href="/login?return_to=%2FInternational-Data-Spaces-Association%2Fidsa" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:233607509,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="6ad261f04494433957b68ce1b7c868a2b9184bad14e0c7ad33d29062d4984f52" aria-label="You must be signed in to fork a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+    <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
+</svg>Fork
+    <span id="repo-network-counter" data-pjax-replace="true" title="17" data-view-component="true" class="Counter">17</span>
+  
+</a>
+  </li>
+
+  <li>
+        <div data-view-component="true" class="BtnGroup d-flex">
+      <a href="/login?return_to=%2FInternational-Data-Spaces-Association%2Fidsa" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:233607509,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5e0dc3989c13e31bde494ec3f8a559fcbc199da74ed85a35b430faaf909bbc56" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
+    <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
+</svg><span data-view-component="true" class="d-inline">
+          Star
+</span>          <span id="repo-stars-counter-star" aria-label="28 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="28" data-view-component="true" class="Counter js-social-count">28</span>
+  
+</a>      <button disabled="disabled" aria-label="You must be signed in to add this repository to a list" type="button" data-view-component="true" class="btn-sm btn BtnGroup-item px-2">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
+    <path d="M4.427 7.427l3.396 3.396a.25.25 0 00.354 0l3.396-3.396A.25.25 0 0011.396 7H4.604a.25.25 0 00-.177.427z"></path>
+</svg>
+  
+</button></div>
+  </li>
+
+  
+
+</ul>
+
+      </div>
+
+      <div id="responsive-meta-container" data-pjax-replace>
+</div>
+
+
+        
+<nav data-pjax="#js-repo-pjax-container" aria-label="Repository" data-view-component="true" class="js-repo-nav js-sidenav-container-pjax js-responsive-underlinenav overflow-hidden UnderlineNav px-3 px-md-4 px-lg-5">
+
+  <ul data-view-component="true" class="UnderlineNav-body list-style-none">
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="code-tab" href="/International-Data-Spaces-Association/idsa" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /International-Data-Spaces-Association/idsa" data-pjax="#repo-content-pjax-container" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
+    
+                  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
+    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
+</svg>
+          <span data-content="Code">Code</span>
+            <span id="code-repo-tab-count" data-pjax-replace="" title="Not available" data-view-component="true" class="Counter"></span>
+
+
+    
+</a></li>
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="issues-tab" href="/International-Data-Spaces-Association/idsa/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /International-Data-Spaces-Association/idsa/issues" data-pjax="#repo-content-pjax-container" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+                  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
+    <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
+</svg>
+          <span data-content="Issues">Issues</span>
+            <span id="issues-repo-tab-count" data-pjax-replace="" title="6" data-view-component="true" class="Counter">6</span>
+
+
+    
+</a></li>
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="pull-requests-tab" href="/International-Data-Spaces-Association/idsa/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /International-Data-Spaces-Association/idsa/pulls" data-pjax="#repo-content-pjax-container" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+                  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
+    <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path>
+</svg>
+          <span data-content="Pull requests">Pull requests</span>
+            <span id="pull-requests-repo-tab-count" data-pjax-replace="" title="0" hidden="hidden" data-view-component="true" class="Counter">0</span>
+
+
+    
+</a></li>
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="actions-tab" href="/International-Data-Spaces-Association/idsa/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /International-Data-Spaces-Association/idsa/actions" data-pjax="#repo-content-pjax-container" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Actions&quot;,&quot;action&quot;:&quot;clicked&quot;,&quot;label&quot;:&quot;ref_cta:Actions;ref_loc:navigation_helper&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+                  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
+    <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"></path>
+</svg>
+          <span data-content="Actions">Actions</span>
+            <span id="actions-repo-tab-count" data-pjax-replace="" title="Not available" data-view-component="true" class="Counter"></span>
+
+
+    
+</a></li>
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="projects-tab" href="/International-Data-Spaces-Association/idsa/projects?type=beta" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /International-Data-Spaces-Association/idsa/projects?type=beta" data-pjax="#repo-content-pjax-container" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+                  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table UnderlineNav-octicon d-none d-sm-inline">
+    <path fill-rule="evenodd" d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v3.585a.746.746 0 010 .83v8.085A1.75 1.75 0 0114.25 16H6.309a.748.748 0 01-1.118 0H1.75A1.75 1.75 0 010 14.25V6.165a.746.746 0 010-.83V1.75zM1.5 6.5v7.75c0 .138.112.25.25.25H5v-8H1.5zM5 5H1.5V1.75a.25.25 0 01.25-.25H5V5zm1.5 1.5v8h7.75a.25.25 0 00.25-.25V6.5h-8zm8-1.5h-8V1.5h7.75a.25.25 0 01.25.25V5z"></path>
+</svg>
+          <span data-content="Projects">Projects</span>
+            <span id="projects-repo-tab-count" data-pjax-replace="" title="2" data-view-component="true" class="Counter">2</span>
+
+
+    
+</a></li>
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="wiki-tab" href="/International-Data-Spaces-Association/idsa/wiki" data-tab-item="i5wiki-tab" data-selected-links="repo_wiki /International-Data-Spaces-Association/idsa/wiki" data-pjax="#repo-content-pjax-container" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+                  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-book UnderlineNav-octicon d-none d-sm-inline">
+    <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"></path>
+</svg>
+          <span data-content="Wiki">Wiki</span>
+            <span id="wiki-repo-tab-count" data-pjax-replace="" title="Not available" data-view-component="true" class="Counter"></span>
+
+
+    
+</a></li>
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="security-tab" href="/International-Data-Spaces-Association/idsa/security" data-tab-item="i6security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /International-Data-Spaces-Association/idsa/security" data-pjax="#repo-content-pjax-container" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+                  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
+    <path fill-rule="evenodd" d="M7.467.133a1.75 1.75 0 011.066 0l5.25 1.68A1.75 1.75 0 0115 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.7 1.7 0 01-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 011.217-1.667l5.25-1.68zm.61 1.429a.25.25 0 00-.153 0l-5.25 1.68a.25.25 0 00-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.2.2 0 00.154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.25.25 0 00-.174-.237l-5.25-1.68zM9 10.5a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.75a.75.75 0 10-1.5 0v3a.75.75 0 001.5 0v-3z"></path>
+</svg>
+          <span data-content="Security">Security</span>
+            <include-fragment src="/International-Data-Spaces-Association/idsa/security/overall-count" accept="text/fragment+html"></include-fragment>
+
+    
+</a></li>
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="insights-tab" href="/International-Data-Spaces-Association/idsa/pulse" data-tab-item="i7insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /International-Data-Spaces-Association/idsa/pulse" data-pjax="#repo-content-pjax-container" data-ga-click="Repository, Navigation click, Insights tab" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+                  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
+    <path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"></path>
+</svg>
+          <span data-content="Insights">Insights</span>
+            <span id="insights-repo-tab-count" data-pjax-replace="" title="Not available" data-view-component="true" class="Counter"></span>
+
+
+    
+</a></li>
+</ul>
+    <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions js-responsive-underlinenav-overflow position-absolute pr-3 pr-md-4 pr-lg-5 right-0">      <details data-view-component="true" class="details-overlay details-reset position-relative">
+  <summary role="button" data-view-component="true">          <div class="UnderlineNav-item mr-0 border-0">
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
+            <span class="sr-only">More</span>
+          </div>
+</summary>
+  <div data-view-component="true">          <details-menu role="menu" data-view-component="true" class="dropdown-menu dropdown-menu-sw">
+  
+            <ul>
+                <li data-menu-item="i0code-tab" hidden>
+                  <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /International-Data-Spaces-Association/idsa" href="/International-Data-Spaces-Association/idsa">
+                    Code
+</a>                </li>
+                <li data-menu-item="i1issues-tab" hidden>
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /International-Data-Spaces-Association/idsa/issues" href="/International-Data-Spaces-Association/idsa/issues">
+                    Issues
+</a>                </li>
+                <li data-menu-item="i2pull-requests-tab" hidden>
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /International-Data-Spaces-Association/idsa/pulls" href="/International-Data-Spaces-Association/idsa/pulls">
+                    Pull requests
+</a>                </li>
+                <li data-menu-item="i3actions-tab" hidden>
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /International-Data-Spaces-Association/idsa/actions" href="/International-Data-Spaces-Association/idsa/actions">
+                    Actions
+</a>                </li>
+                <li data-menu-item="i4projects-tab" hidden>
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /International-Data-Spaces-Association/idsa/projects?type=beta" href="/International-Data-Spaces-Association/idsa/projects?type=beta">
+                    Projects
+</a>                </li>
+                <li data-menu-item="i5wiki-tab" hidden>
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_wiki /International-Data-Spaces-Association/idsa/wiki" href="/International-Data-Spaces-Association/idsa/wiki">
+                    Wiki
+</a>                </li>
+                <li data-menu-item="i6security-tab" hidden>
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /International-Data-Spaces-Association/idsa/security" href="/International-Data-Spaces-Association/idsa/security">
+                    Security
+</a>                </li>
+                <li data-menu-item="i7insights-tab" hidden>
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /International-Data-Spaces-Association/idsa/pulse" href="/International-Data-Spaces-Association/idsa/pulse">
+                    Insights
+</a>                </li>
+            </ul>
+
+</details-menu></div>
+</details></div>
+</nav>
+  </div>
+
+
+
+<div id="repo-content-pjax-container" class="repository-content " >
+  
+  
+
+
+  
+      
+  <div class="clearfix container-xl px-3 px-md-4 px-lg-5 mt-4">
+    <div>
+  <div class="file-navigation mb-3 d-flex flex-items-start">
+    
+<div class="position-relative">
+  <details class="details-reset details-overlay mr-0 mb-0 " id="branch-select-menu">
+    <summary class="btn css-truncate"
+            data-hotkey="w"
+            title="Switch branches or tags">
+      <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-branch">
+    <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path>
+</svg>
+      <span class="css-truncate-target" data-menu-button>main</span>
+      <span class="dropdown-caret"></span>
+    </summary>
+
+    
+<div class="SelectMenu">
+  <div class="SelectMenu-modal">
+    <header class="SelectMenu-header">
+      <span class="SelectMenu-title">Switch branches/tags</span>
+      <button class="SelectMenu-closeButton" type="button" data-toggle-for="branch-select-menu"><svg aria-label="Close menu" aria-hidden="false" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg></button>
+    </header>
+
+    <input-demux data-action="tab-container-change:input-demux#storeInput tab-container-changed:input-demux#updateInput">
+      <tab-container class="d-flex flex-column js-branches-tags-tabs" style="min-height: 0;">
+        <div class="SelectMenu-filter">
+          <input data-target="input-demux.source"
+                 id="context-commitish-filter-field"
+                 class="SelectMenu-input form-control"
+                 aria-owns="ref-list-branches"
+                 data-controls-ref-menu-id="ref-list-branches"
+                 autofocus
+                 autocomplete="off"
+                 aria-label="Filter branches/tags"
+                 placeholder="Filter branches/tags"
+                 type="text"
+          >
+        </div>
+
+        <div class="SelectMenu-tabs" role="tablist" data-target="input-demux.control" >
+          <button class="SelectMenu-tab" type="button" role="tab" aria-selected="true">Branches</button>
+          <button class="SelectMenu-tab" type="button" role="tab">Tags</button>
+        </div>
+
+        <div role="tabpanel" id="ref-list-branches" data-filter-placeholder="Filter branches/tags" tabindex="" class="d-flex flex-column flex-auto overflow-auto">
+          <ref-selector
+            type="branch"
+            data-targets="input-demux.sinks"
+            data-action="
+              input-entered:ref-selector#inputEntered
+              tab-selected:ref-selector#tabSelected
+              focus-list:ref-selector#focusFirstListMember
+            "
+            query-endpoint="/International-Data-Spaces-Association/idsa/refs"
+            
+            cache-key="v0:1648739640.3354828"
+            current-committish="bWFpbg=="
+            default-branch="bWFpbg=="
+            name-with-owner="SW50ZXJuYXRpb25hbC1EYXRhLVNwYWNlcy1Bc3NvY2lhdGlvbi9pZHNh"
+            prefetch-on-mouseover
+          >
+
+            <template data-target="ref-selector.fetchFailedTemplate">
+              <div class="SelectMenu-message" data-index="{{ index }}">Could not load branches</div>
+            </template>
+
+              <template data-target="ref-selector.noMatchTemplate">
+    <div class="SelectMenu-message">Nothing to show</div>
+</template>
+
+
+            <div data-target="ref-selector.listContainer" role="menu" class="SelectMenu-list " data-pjax="#repo-content-pjax-container">
+              <div class="SelectMenu-loading pt-3 pb-0 overflow-hidden" aria-label="Menu is loading">
+                <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+              </div>
+            </div>
+
+              <template data-target="ref-selector.itemTemplate">
+  <a href="https://github.com/International-Data-Spaces-Association/idsa/tree/{{ urlEncodedRefName }}/graduation_scheme" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+    <span class="flex-1 css-truncate css-truncate-overflow {{ isFilteringClass }}">{{ refName }}</span>
+    <span hidden="{{ isNotDefault }}" class="Label Label--secondary flex-self-start">default</span>
+  </a>
+</template>
+
+
+              <footer class="SelectMenu-footer"><a href="/International-Data-Spaces-Association/idsa/branches">View all branches</a></footer>
+          </ref-selector>
+
+        </div>
+
+        <div role="tabpanel" id="tags-menu" data-filter-placeholder="Find a tag" tabindex="" hidden class="d-flex flex-column flex-auto overflow-auto">
+          <ref-selector
+            type="tag"
+            data-action="
+              input-entered:ref-selector#inputEntered
+              tab-selected:ref-selector#tabSelected
+              focus-list:ref-selector#focusFirstListMember
+            "
+            data-targets="input-demux.sinks"
+            query-endpoint="/International-Data-Spaces-Association/idsa/refs"
+            cache-key="v0:1648739640.3354828"
+            current-committish="bWFpbg=="
+            default-branch="bWFpbg=="
+            name-with-owner="SW50ZXJuYXRpb25hbC1EYXRhLVNwYWNlcy1Bc3NvY2lhdGlvbi9pZHNh"
+          >
+
+            <template data-target="ref-selector.fetchFailedTemplate">
+              <div class="SelectMenu-message" data-index="{{ index }}">Could not load tags</div>
+            </template>
+
+            <template data-target="ref-selector.noMatchTemplate">
+              <div class="SelectMenu-message" data-index="{{ index }}">Nothing to show</div>
+            </template>
+
+              <template data-target="ref-selector.itemTemplate">
+  <a href="https://github.com/International-Data-Spaces-Association/idsa/tree/{{ urlEncodedRefName }}/graduation_scheme" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+    <span class="flex-1 css-truncate css-truncate-overflow {{ isFilteringClass }}">{{ refName }}</span>
+    <span hidden="{{ isNotDefault }}" class="Label Label--secondary flex-self-start">default</span>
+  </a>
+</template>
+
+
+            <div data-target="ref-selector.listContainer" role="menu" class="SelectMenu-list" data-pjax="#repo-content-pjax-container">
+              <div class="SelectMenu-loading pt-3 pb-0 overflow-hidden" aria-label="Menu is loading">
+                <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+              </div>
+            </div>
+              <footer class="SelectMenu-footer"><a href="/International-Data-Spaces-Association/idsa/tags">View all tags</a></footer>
+          </ref-selector>
+        </div>
+      </tab-container>
+    </input-demux>
+  </div>
+</div>
+
+  </details>
+
+</div>
+
+
+    <div class="flex-1 mx-2 flex-self-center f4">
+      <div class="d-none d-sm-block">
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/International-Data-Spaces-Association/idsa"><span>idsa</span></a></span></span><span class="mx-1">/</span><strong class="final-path">graduation_scheme</strong><span class="mx-1">/</span>
+      </div>
+    </div>
+
+    <div class="d-flex">
+      <a class="btn mr-2 d-none d-md-block" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:233607509,&quot;originating_url&quot;:&quot;https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="34f0310dad130b2038c6fcddaf23121b69b5e752ee359508e752757c9f1c8a3f" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/International-Data-Spaces-Association/idsa/find/main">
+        Go to file
+</a>
+    </div>
+  </div>
+
+  <div class="f4 mt-3 mb-3 d-sm-none"><span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/International-Data-Spaces-Association/idsa"><span>idsa</span></a></span></span><span class="mx-1">/</span><strong class="final-path">graduation_scheme</strong><span class="separator mx-1">/</span></div>
+
+  
+
+
+<div class="Box mb-3">
+  <div class="Box-header position-relative">
+    <h2 class="sr-only">Latest commit</h2>
+    <div class="js-details-container Details d-flex rounded-top-2 flex-items-center flex-wrap" data-issue-and-pr-hovercards-enabled>
+      <include-fragment src="/International-Data-Spaces-Association/idsa/tree-commit/ab84a21439b4dc4ba1f44fd3f322ef1e79b8c886/graduation_scheme" class="d-flex flex-auto flex-items-center" aria-busy="true" aria-label="Loading latest commit">
+        <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
+        <div class="Skeleton Skeleton--text col-5 ml-3">&nbsp;</div>
+</include-fragment>      <div class="flex-shrink-0">
+        <h2 class="sr-only">Git stats</h2>
+        <ul class="list-style-none d-flex">
+          <li class="ml-0 ml-md-3">
+            <a data-pjax="#repo-content-pjax-container" href="/International-Data-Spaces-Association/idsa/commits/main/graduation_scheme" class="pl-3 pr-3 py-3 p-md-0 mt-n3 mb-n3 mr-n3 m-md-0 Link--primary no-underline no-wrap">
+              <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
+    <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
+</svg>
+              <span class="d-none d-sm-inline">
+                  <strong>History</strong>
+              </span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+    <h2 id="files"  class="sr-only">Files</h2>
+    
+
+
+  <include-fragment src="/International-Data-Spaces-Association/idsa/file-list/main/graduation_scheme">
+      <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/International-Data-Spaces-Association/idsa/tree/ab84a21439b4dc4ba1f44fd3f322ef1e79b8c886/graduation_scheme">Permalink</a>
+
+  <div data-view-component="true" class="include-fragment-error flash flash-error flash-full py-2">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+  
+    Failed to load latest commit information.
+
+
+  
+</div>  <div class="js-details-container Details">
+    <div role="grid" aria-labelledby="files" class="Details-content--hidden-not-important js-navigation-container js-active-navigation-container d-block" data-pjax>
+      <div class="sr-only" role="row">
+        <div role="columnheader">Type</div>
+        <div role="columnheader">Name</div>
+        <div role="columnheader" class="d-none d-md-block">Latest commit message</div>
+        <div role="columnheader">Commit time</div>
+      </div>
+        <div role="row" class="Box-row Box-row--focus-gray p-0 d-flex js-navigation-item" >
+          <div role="rowheader" class="flex-auto min-width-0 col-md-2">
+            <a rel="nofollow" title="Go to parent directory" class="js-navigation-open d-block py-2 px-3" href="/International-Data-Spaces-Association/idsa">
+              <span class="text-bold text-center d-inline-block" style="min-width: 16px;">. .</span>
+</a>          </div>
+          <div role="gridcell" class="d-none d-md-block"></div>
+          <div role="gridcell"></div>
+        </div>
+
+        <div role="row" class="Box-row Box-row--focus-gray py-2 d-flex position-relative js-navigation-item ">
+          <div role="gridcell" class="mr-3 flex-shrink-0" style="width: 16px;">
+              <svg aria-label="Directory" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file-directory-fill hx_color-icon-directory">
+    <path d="M1.75 1A1.75 1.75 0 000 2.75v10.5C0 14.216.784 15 1.75 15h12.5A1.75 1.75 0 0016 13.25v-8.5A1.75 1.75 0 0014.25 3H7.5a.25.25 0 01-.2-.1l-.9-1.2C6.07 1.26 5.55 1 5 1H1.75z"></path>
+</svg>
+          </div>
+
+          <div role="rowheader" class="flex-auto min-width-0 col-md-2 mr-3">
+            <span class="css-truncate css-truncate-target d-block width-fit"><a class="js-navigation-open Link--primary" title="Sandbox_Reviews" data-pjax="#repo-content-pjax-container" href="/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme/Sandbox_Reviews">Sandbox_Reviews</a></span>
+          </div>
+
+          <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+          </div>
+
+          <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
+          </div>
+
+        </div>
+        <div role="row" class="Box-row Box-row--focus-gray py-2 d-flex position-relative js-navigation-item ">
+          <div role="gridcell" class="mr-3 flex-shrink-0" style="width: 16px;">
+              <svg aria-label="Directory" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file-directory-fill hx_color-icon-directory">
+    <path d="M1.75 1A1.75 1.75 0 000 2.75v10.5C0 14.216.784 15 1.75 15h12.5A1.75 1.75 0 0016 13.25v-8.5A1.75 1.75 0 0014.25 3H7.5a.25.25 0 01-.2-.1l-.9-1.2C6.07 1.26 5.55 1 5 1H1.75z"></path>
+</svg>
+          </div>
+
+          <div role="rowheader" class="flex-auto min-width-0 col-md-2 mr-3">
+            <span class="css-truncate css-truncate-target d-block width-fit"><a class="js-navigation-open Link--primary" title="due_diligence_reports" data-pjax="#repo-content-pjax-container" href="/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme/due_diligence_reports">due_diligence_reports</a></span>
+          </div>
+
+          <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+          </div>
+
+          <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
+          </div>
+
+        </div>
+        <div role="row" class="Box-row Box-row--focus-gray py-2 d-flex position-relative js-navigation-item ">
+          <div role="gridcell" class="mr-3 flex-shrink-0" style="width: 16px;">
+              <svg aria-label="Directory" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file-directory-fill hx_color-icon-directory">
+    <path d="M1.75 1A1.75 1.75 0 000 2.75v10.5C0 14.216.784 15 1.75 15h12.5A1.75 1.75 0 0016 13.25v-8.5A1.75 1.75 0 0014.25 3H7.5a.25.25 0 01-.2-.1l-.9-1.2C6.07 1.26 5.55 1 5 1H1.75z"></path>
+</svg>
+          </div>
+
+          <div role="rowheader" class="flex-auto min-width-0 col-md-2 mr-3">
+            <span class="css-truncate css-truncate-target d-block width-fit"><a class="js-navigation-open Link--primary" title="media" data-pjax="#repo-content-pjax-container" href="/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme/media">media</a></span>
+          </div>
+
+          <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+          </div>
+
+          <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
+          </div>
+
+        </div>
+        <div role="row" class="Box-row Box-row--focus-gray py-2 d-flex position-relative js-navigation-item ">
+          <div role="gridcell" class="mr-3 flex-shrink-0" style="width: 16px;">
+              <svg aria-label="Directory" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file-directory-fill hx_color-icon-directory">
+    <path d="M1.75 1A1.75 1.75 0 000 2.75v10.5C0 14.216.784 15 1.75 15h12.5A1.75 1.75 0 0016 13.25v-8.5A1.75 1.75 0 0014.25 3H7.5a.25.25 0 01-.2-.1l-.9-1.2C6.07 1.26 5.55 1 5 1H1.75z"></path>
+</svg>
+          </div>
+
+          <div role="rowheader" class="flex-auto min-width-0 col-md-2 mr-3">
+            <span class="css-truncate css-truncate-target d-block width-fit"><a class="js-navigation-open Link--primary" title="resources" data-pjax="#repo-content-pjax-container" href="/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme/resources">resources</a></span>
+          </div>
+
+          <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+          </div>
+
+          <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
+          </div>
+
+        </div>
+        <div role="row" class="Box-row Box-row--focus-gray py-2 d-flex position-relative js-navigation-item ">
+          <div role="gridcell" class="mr-3 flex-shrink-0" style="width: 16px;">
+              <svg aria-label="File" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file color-fg-muted">
+    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
+</svg>
+          </div>
+
+          <div role="rowheader" class="flex-auto min-width-0 col-md-2 mr-3">
+            <span class="css-truncate css-truncate-target d-block width-fit"><a class="js-navigation-open Link--primary" title="Code_of_Conduct.md" data-pjax="#repo-content-pjax-container" href="/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/Code_of_Conduct.md">Code_of_Conduct.md</a></span>
+          </div>
+
+          <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+          </div>
+
+          <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
+          </div>
+
+        </div>
+        <div role="row" class="Box-row Box-row--focus-gray py-2 d-flex position-relative js-navigation-item ">
+          <div role="gridcell" class="mr-3 flex-shrink-0" style="width: 16px;">
+              <svg aria-label="File" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file color-fg-muted">
+    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
+</svg>
+          </div>
+
+          <div role="rowheader" class="flex-auto min-width-0 col-md-2 mr-3">
+            <span class="css-truncate css-truncate-target d-block width-fit"><a class="js-navigation-open Link--primary" title="IDSA-Graduation-Scheme.pdf" data-pjax="#repo-content-pjax-container" href="/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/IDSA-Graduation-Scheme.pdf">IDSA-Graduation-Scheme.pdf</a></span>
+          </div>
+
+          <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+          </div>
+
+          <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
+          </div>
+
+        </div>
+        <div role="row" class="Box-row Box-row--focus-gray py-2 d-flex position-relative js-navigation-item ">
+          <div role="gridcell" class="mr-3 flex-shrink-0" style="width: 16px;">
+              <svg aria-label="File" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file color-fg-muted">
+    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
+</svg>
+          </div>
+
+          <div role="rowheader" class="flex-auto min-width-0 col-md-2 mr-3">
+            <span class="css-truncate css-truncate-target d-block width-fit"><a class="js-navigation-open Link--primary" title="IDSA-Sandbox-Application.pdf" data-pjax="#repo-content-pjax-container" href="/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/IDSA-Sandbox-Application.pdf">IDSA-Sandbox-Application.pdf</a></span>
+          </div>
+
+          <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+          </div>
+
+          <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
+          </div>
+
+        </div>
+        <div role="row" class="Box-row Box-row--focus-gray py-2 d-flex position-relative js-navigation-item ">
+          <div role="gridcell" class="mr-3 flex-shrink-0" style="width: 16px;">
+              <svg aria-label="File" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file color-fg-muted">
+    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
+</svg>
+          </div>
+
+          <div role="rowheader" class="flex-auto min-width-0 col-md-2 mr-3">
+            <span class="css-truncate css-truncate-target d-block width-fit"><a class="js-navigation-open Link--primary" title="IP_Policy.md" data-pjax="#repo-content-pjax-container" href="/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/IP_Policy.md">IP_Policy.md</a></span>
+          </div>
+
+          <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+          </div>
+
+          <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
+          </div>
+
+        </div>
+        <div role="row" class="Box-row Box-row--focus-gray py-2 d-flex position-relative js-navigation-item ">
+          <div role="gridcell" class="mr-3 flex-shrink-0" style="width: 16px;">
+              <svg aria-label="File" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file color-fg-muted">
+    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
+</svg>
+          </div>
+
+          <div role="rowheader" class="flex-auto min-width-0 col-md-2 mr-3">
+            <span class="css-truncate css-truncate-target d-block width-fit"><a class="js-navigation-open Link--primary" title="Projects.md" data-pjax="#repo-content-pjax-container" href="/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/Projects.md">Projects.md</a></span>
+          </div>
+
+          <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+          </div>
+
+          <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
+          </div>
+
+        </div>
+        <div role="row" class="Box-row Box-row--focus-gray py-2 d-flex position-relative js-navigation-item ">
+          <div role="gridcell" class="mr-3 flex-shrink-0" style="width: 16px;">
+              <svg aria-label="File" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file color-fg-muted">
+    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
+</svg>
+          </div>
+
+          <div role="rowheader" class="flex-auto min-width-0 col-md-2 mr-3">
+            <span class="css-truncate css-truncate-target d-block width-fit"><a class="js-navigation-open Link--primary" title="README.md" data-pjax="#repo-content-pjax-container" href="/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/README.md">README.md</a></span>
+          </div>
+
+          <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+          </div>
+
+          <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
+          </div>
+
+        </div>
+        <div role="row" class="Box-row Box-row--focus-gray py-2 d-flex position-relative js-navigation-item ">
+          <div role="gridcell" class="mr-3 flex-shrink-0" style="width: 16px;">
+              <svg aria-label="File" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file color-fg-muted">
+    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
+</svg>
+          </div>
+
+          <div role="rowheader" class="flex-auto min-width-0 col-md-2 mr-3">
+            <span class="css-truncate css-truncate-target d-block width-fit"><a class="js-navigation-open Link--primary" title="Sandbox_Annual_Review.md" data-pjax="#repo-content-pjax-container" href="/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/Sandbox_Annual_Review.md">Sandbox_Annual_Review.md</a></span>
+          </div>
+
+          <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+          </div>
+
+          <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
+          </div>
+
+        </div>
+    </div>
+  </div>
+
+</include-fragment>
+
+
+</div>
+
+  
+      <readme-toc>
+
+      <div id="readme" class="Box md js-code-block-container js-code-nav-container js-tagsearch-file Box--responsive"
+          data-tagsearch-path="graduation_scheme/README.md"
+          data-tagsearch-lang="Markdown">
+
+        <div class="d-flex  js-sticky js-position-sticky top-0 border-top-0 border-bottom p-2 flex-items-center flex-justify-between color-bg-default rounded-top-2"  style="position: sticky; z-index: 30;" >
+          <div class="d-flex flex-items-center">
+              <details
+  data-target="readme-toc.trigger"
+  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:233607509,&quot;originating_url&quot;:&quot;https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme&quot;,&quot;user_id&quot;:null}}"
+  data-menu-hydro-click-hmac="8871070eb99e886d99a59889b40917044e20e868ebe1c1ef303cadcbf242474a"
+  class="dropdown details-reset details-overlay"
+>
+  <summary
+    class="btn btn-octicon m-0 mr-2 p-2"
+    aria-haspopup="true"
+    aria-label="Table of Contents">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-list-unordered">
+    <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"></path>
+</svg>
+  </summary>
+
+
+  <details-menu class="SelectMenu" role="menu">
+    <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
+
+        <div class="SelectMenu-filter">
+          <input
+            class="SelectMenu-input form-control js-filterable-field"
+            id="toc-filter-field"
+            type="text"
+            autocomplete="off"
+            spellcheck="false"
+            autofocus
+            placeholder="Filter headings"
+            aria-label="Filter headings">
+        </div>
+
+      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;" data-filterable-for="toc-filter-field" data-filterable-type="substring">
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:233607509,&quot;originating_url&quot;:&quot;https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a4b64d5fd2c61e91c4d51cc4c50da6745c846521104dfb3c82f433ddd46399d9" href="#idsa-graduation-scheme-v10">IDSA Graduation Scheme v1.0</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:233607509,&quot;originating_url&quot;:&quot;https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a4b64d5fd2c61e91c4d51cc4c50da6745c846521104dfb3c82f433ddd46399d9" href="#purpose-of-the-document">Purpose of the Document</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:233607509,&quot;originating_url&quot;:&quot;https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a4b64d5fd2c61e91c4d51cc4c50da6745c846521104dfb3c82f433ddd46399d9" href="#project-stages">Project Stages</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:233607509,&quot;originating_url&quot;:&quot;https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a4b64d5fd2c61e91c4d51cc4c50da6745c846521104dfb3c82f433ddd46399d9" href="#sandbox-stage">Sandbox Stage</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:233607509,&quot;originating_url&quot;:&quot;https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a4b64d5fd2c61e91c4d51cc4c50da6745c846521104dfb3c82f433ddd46399d9" href="#incubating-stage">Incubating Stage</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:233607509,&quot;originating_url&quot;:&quot;https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a4b64d5fd2c61e91c4d51cc4c50da6745c846521104dfb3c82f433ddd46399d9" href="#graduation-stage">Graduation Stage</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:233607509,&quot;originating_url&quot;:&quot;https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a4b64d5fd2c61e91c4d51cc4c50da6745c846521104dfb3c82f433ddd46399d9" href="#submissionapplication-processes">Submission/Application Processes</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:233607509,&quot;originating_url&quot;:&quot;https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a4b64d5fd2c61e91c4d51cc4c50da6745c846521104dfb3c82f433ddd46399d9" href="#sandbox-application-process">Sandbox Application Process</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:233607509,&quot;originating_url&quot;:&quot;https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a4b64d5fd2c61e91c4d51cc4c50da6745c846521104dfb3c82f433ddd46399d9" href="#incubation-process">Incubation Process</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 48px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:233607509,&quot;originating_url&quot;:&quot;https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a4b64d5fd2c61e91c4d51cc4c50da6745c846521104dfb3c82f433ddd46399d9" href="#project-proposal">Project Proposal</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 48px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:233607509,&quot;originating_url&quot;:&quot;https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a4b64d5fd2c61e91c4d51cc4c50da6745c846521104dfb3c82f433ddd46399d9" href="#tsc-incubation-sponsor">TSC Incubation Sponsor</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 48px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:233607509,&quot;originating_url&quot;:&quot;https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a4b64d5fd2c61e91c4d51cc4c50da6745c846521104dfb3c82f433ddd46399d9" href="#due-diligence-2-3-months">Due Diligence 2-3 months</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 48px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:233607509,&quot;originating_url&quot;:&quot;https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a4b64d5fd2c61e91c4d51cc4c50da6745c846521104dfb3c82f433ddd46399d9" href="#due-diligence-review-2-6-weeks">Due Diligence review (2-6 weeks)</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:233607509,&quot;originating_url&quot;:&quot;https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a4b64d5fd2c61e91c4d51cc4c50da6745c846521104dfb3c82f433ddd46399d9" href="#graduation-process">Graduation Process</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 48px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:233607509,&quot;originating_url&quot;:&quot;https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a4b64d5fd2c61e91c4d51cc4c50da6745c846521104dfb3c82f433ddd46399d9" href="#tsc-vote">TSC vote</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 48px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:233607509,&quot;originating_url&quot;:&quot;https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a4b64d5fd2c61e91c4d51cc4c50da6745c846521104dfb3c82f433ddd46399d9" href="#project-proposal-requirements">Project Proposal Requirements</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:233607509,&quot;originating_url&quot;:&quot;https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a4b64d5fd2c61e91c4d51cc4c50da6745c846521104dfb3c82f433ddd46399d9" href="#graduation-levels-criteria">Graduation Levels Criteria</a>
+      </div>
+    </div>
+  </details-menu>
+</details>
+
+            <h2 class="Box-title">
+              <a href="#readme" data-view-component="true" class="Link--primary">
+  README.md
+  
+</a>
+            </h2>
+          </div>
+        </div>
+
+          <div data-target="readme-toc.content" class="Box-body px-5 pb-5">
+            <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-idsa-graduation-scheme-v10" class="anchor" aria-hidden="true" href="#idsa-graduation-scheme-v10"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>IDSA Graduation Scheme v1.0</h1>
+<h2 dir="auto"><a id="user-content-purpose-of-the-document" class="anchor" aria-hidden="true" href="#purpose-of-the-document"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Purpose of the Document</h2>
+<p dir="auto">The <a href="https://github.com/International-Data-Spaces-Association/IDS-G">IDS standard on data sovereignty</a> should be distributed and used everywhere, where data sovereignty is applied. Therefore, it should be easy to apply and be designed in a usable way. The IDSA graduation process shall provide a transparent way to provide an overview of the Building Blocks that are available. At the same time, it shall open the IDSA developments to the contributors to Open Source Building Blocks.</p>
+<p dir="auto">The IDSA Graduation Scheme is based on the Cloud Native Computing Foundation (CNCF) project life cycle process (<a href="https://github.com/cncf/toc/blob/main/process/README.md">https://github.com/cncf/toc/blob/main/process/README.md</a>).</p>
+<p dir="auto">Please find addional information also on the <a href="https://internationaldataspaces.org/make/open-source/" rel="nofollow">IDSA Homepage</a>.</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Quickstart: <a href="/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/IDSA-Graduation-Scheme.pdf">What is the Graduation Scheme, How to apply and why?</a></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Quickstart: <a href="/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/IDSA-Sandbox-Application.pdf">How to Apply as a Sandbox Project</a></p>
+<h2 dir="auto"><a id="user-content-project-stages" class="anchor" aria-hidden="true" href="#project-stages"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Project Stages</h2>
+<h3 dir="auto"><a id="user-content-sandbox-stage" class="anchor" aria-hidden="true" href="#sandbox-stage"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Sandbox Stage</h3>
+<p dir="auto">The IDSA Sandbox has four goals:</p>
+<ul dir="auto">
+<li>Encourage public visibility of experiments or other early work that can add value to the IDSA mission and build the ingredients of a successful Incubation-level project.</li>
+<li>Facilitate alignment with existing projects if (and only if) this is desired.</li>
+<li>Nurture projects (e.g., by IDSA Head Office and IDSA member support).</li>
+<li>Remove possible legal and governance obstacles to adoption and contribution by ensuring all projects adhere to IDSA legal, <a href="/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/Code_of_Conduct.md">code of conduct</a>, and <a href="/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/IP_Policy.md">IP policy requirements</a>.</li>
+</ul>
+<p dir="auto">When we say that Sandbox projects are “early stage,” this covers the following examples:</p>
+<ul dir="auto">
+<li>New projects that are designed to extend one or more IDSA projects with functionality or interoperability libraries.</li>
+<li>Independent projects that fit the IDSA mission and provide the potential for a novel approach to existing functional areas (or are an attempt to meet an unfulfilled need).</li>
+<li>Projects commissioned or sanctioned by the IDSA, including initial code for IDSA WG collaborations, and “experimental” projects.</li>
+<li>Any project that realistically intends to join IDSA Incubation in future and wishes to lay the foundations for that.</li>
+</ul>
+<h3 dir="auto"><a id="user-content-incubating-stage" class="anchor" aria-hidden="true" href="#incubating-stage"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Incubating Stage</h3>
+<p dir="auto">Incubating projects have proven their compatibility (based on IDS Certification), reliability, vision and mission.</p>
+<h3 dir="auto"><a id="user-content-graduation-stage" class="anchor" aria-hidden="true" href="#graduation-stage"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Graduation Stage</h3>
+<p dir="auto">Graduated projects signal the highest level of maturity for an IDSA project. They have achieved a broad acceptance and adoption in data spaces.</p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/media/graduation_steps.png"><img src="/International-Data-Spaces-Association/idsa/raw/main/graduation_scheme/media/graduation_steps.png" alt="graduation stages" style="max-width: 100%;"></a></p>
+<h2 dir="auto"><a id="user-content-submissionapplication-processes" class="anchor" aria-hidden="true" href="#submissionapplication-processes"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Submission/Application Processes</h2>
+<p dir="auto">This governance policy sets forth the proposal process for projects to be accepted into the <a href="https://internationaldataspaces.org/" rel="nofollow">International Data Spaces Association</a> (“IDSA”). The process is the same for both existing projects which seek to move into the IDSA, and new projects to be formed within the IDSA.</p>
+<h3 dir="auto"><a id="user-content-sandbox-application-process" class="anchor" aria-hidden="true" href="#sandbox-application-process"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Sandbox Application Process</h3>
+<p dir="auto">Projects apply to join the Sandbox by submitting the form <a href="https://internationaldataspaces.org/sandbox-application/" rel="nofollow">here</a>, which fills in a row on a publicly-visible spreadsheet, but will include</p>
+<ul dir="auto">
+<li>Required: link to project on GitHub or other public source repository</li>
+<li>Optional: link to project website, if it exists</li>
+<li>Required: checkbox to ensure submitter understands the project license would need to follow the <a href="/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/IP_Policy.md">IDSA IP Policy</a> if accepted</li>
+<li>Required: a short description of alignment to IDSA</li>
+<li>Required: comparison with similar projects</li>
+<li>Required: link to the public roadmap (This could be in any format - documentation, GitHub issues, project boards etc. The requirement is simply that there should be some public documentation of the future direction and goals of the project)</li>
+<li>Required: link to contribution guidelines</li>
+<li>Required: link to Code of Conduct</li>
+<li>Optional: statement on alignment with existing IDSA projects</li>
+<li>Optional: link to a pre-existing presentation (slides / video)</li>
+<li>IDSA staff check submissions for administrative criteria, and advise project maintainers if they don’t currently meet these criteria:</li>
+<li>Compliance with IP policy</li>
+<li>Project website meets IDSA Guidelines</li>
+<li>Code of Conduct exist</li>
+<li>Contribution guidelines exist</li>
+<li>Public roadmap exists.</li>
+<li>The TSC review submissions once per quarter for the following criteria:
+<ul dir="auto">
+<li>Is the project a fit for the IDSA, in the TSC’s opinion?</li>
+<li>Is the project’s roadmap in line with the goals of the IDSA?</li>
+<li>Does the project appear to be on a good path to becoming well-governed and vendor-neutral?</li>
+</ul>
+</li>
+</ul>
+<p dir="auto">During this submission review, the TSC votes on each submission, and projects will be accepted by a simple majority vote of the TSC. In the event of rejection, we will indicate which of these criteria the TSC did not believe were met. Projects are welcome to address feedback and submit again in future. Unless advised otherwise, projects should not submit again for six months.</p>
+<ul dir="auto">
+<li>Sandbox projects remain subject to the <a href="/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/Sandbox_Annual_Review.md">Annual Review process</a>.</li>
+</ul>
+<h3 dir="auto"><a id="user-content-incubation-process" class="anchor" aria-hidden="true" href="#incubation-process"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Incubation Process</h3>
+<p dir="auto">All exceptions (and "no" outcomes) are handled by the TSC.</p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/media/IDSA-GraduationScheme-Sandbox-Incubation.png"><img src="/International-Data-Spaces-Association/idsa/raw/main/graduation_scheme/media/IDSA-GraduationScheme-Sandbox-Incubation.png" alt="incubation_process" style="max-width: 100%;"></a>
+Figure 3 1: From Sandbox to Incubation Steps</p>
+<h4 dir="auto"><a id="user-content-project-proposal" class="anchor" aria-hidden="true" href="#project-proposal"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Project Proposal</h4>
+<p dir="auto">Incubation proposed through a <a href="https://internationaldataspaces.org/incubation-application/" rel="nofollow">submission form</a>.</p>
+<p dir="auto">The status of outstanding Incubation proposals is reported on a monthly basis in the TSC public meeting. This highlights projects looking for sponsorship, and provides a check-in on DD progress for sponsored projects.</p>
+<p dir="auto">A potential sponsor will support the DD process and can indicate that they are interested but don’t have capacity to work on DD at this time, to set a project’s expectations.</p>
+<p dir="auto">The TSC may agree that the project does not (yet) meet the Incubation requirements and give feedback on why this is the case. If the project is not already in the IDSA, the TSC may suggest that project apply for Sandbox instead.</p>
+<p dir="auto">If a TSC Incubation Sponsor has not stepped forward within two months after the proposal PR is submitted, projects may request that their project proposal is discussed at a forthcoming TSC meeting by adding it to the <a href="/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme">Working Doc</a>. The outcome of this is discussion is either that a sponsor steps forward, or that the TSC votes to admit the project to Sandbox, or the proposal is rejected (projects may reapply after six months). If, even after all those steps, a sponsor does not step forward, the proposal is rejected.</p>
+<p dir="auto">DD will usually involve a presentation to an IDSA Working Group (WG), but an interested WG is welcome to schedule a project presentation at any time. WG can discuss their recommendations or concerns about a project with their WG Chairs, if there isn’t already a TSC Incubation Sponsor in place.</p>
+<p dir="auto">Although it is not necessary, projects are allowed to informally reach out to TSC members for advice, including asking about potential sponsorship. TSC members should keep each other informed about these approaches so that we can avoid falling prey to "lobbying". There is a fine line between a project asking for help to make a successful application, and a project shopping around looking to pressurize a TSC member into sponsorship.</p>
+<h4 dir="auto"><a id="user-content-tsc-incubation-sponsor" class="anchor" aria-hidden="true" href="#tsc-incubation-sponsor"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>TSC Incubation Sponsor</h4>
+<p dir="auto">TSC Incubation Sponsor is responsible for driving the process, and coordinating with WGs for review and input as they see fit. This is supported by the IDSA Head Office staff.</p>
+<p dir="auto">IDSA Head Office staff is a point of contact for the project throughout the process to support. A project should name a clear project lead as main point of contact.</p>
+<p dir="auto">TSC members may not sponsor a project for which they have a clear conflict of interest (for example, originating primarily from their organization). This doesn’t mean that they can’t have any involvement at all - for example, contributing pull requests, or being an end user of that project, can signal a healthy interest in and knowledge of a worthwhile project.</p>
+<h4 dir="auto"><a id="user-content-due-diligence-2-3-months" class="anchor" aria-hidden="true" href="#due-diligence-2-3-months"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Due Diligence 2-3 months</h4>
+<ul dir="auto">
+<li>TSC Incubation Sponsor drives due diligence (see the <a href="/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/due_diligence_reports/Due_Diligence_Project_Review_Template.md">template</a> and guidelines).</li>
+<li>TSC Incubation Sponsor can delegate DD work to IDSA WGs and/or other TSC members.</li>
+<li>Typically, DD includes a presentation to a IDSA WG, as identified by the TSC Sponsor. This step may be omitted if the TSC Sponsor feels there are readily-available and suitable presentations on video - for example, because the WG has already recently held a presentation. (We do not want unnecessary levels of process or bureaucracy to delay a widely-known and adopted project from joining the IDSA). TSC Sponsor has discretion to arrange alternatives (for example, arranging a Q&amp;A session at a TSC meeting) to ensure there is ample opportunity to ask questions.</li>
+<li>TSC Incubation Sponsor can ask project maintainers to complete the DD template. (In practice project maintainers sometimes choose to make a start on this in advance of the official DD process, or even in advance of the initial proposal as it may help them ensure they meet all the requirements.) The TSC Incubation Sponsor should carefully review and ask questions about the DD as prepared by the project maintainers and may also call on WGs to help with this.</li>
+<li>IDSA staff does governance checks and legal DD checks.</li>
+<li>During DD some conversations may be held in private (e.g. user interviews where the user wishes to remain anonymous) and are documented using discretion.</li>
+<li>The TSC Incubation Sponsor confirms that project meets the Incubation requirements.</li>
+<li>TSC Incubation Sponsor determines when DD is “done”. DD documentation should then be on <a href="/International-Data-Spaces-Association/idsa/blob/main/due_diligence_reports/README.md">GitHub</a>, open to public comment on record.</li>
+</ul>
+<h4 dir="auto"><a id="user-content-due-diligence-review-2-6-weeks" class="anchor" aria-hidden="true" href="#due-diligence-review-2-6-weeks"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Due Diligence review (2-6 weeks)</h4>
+<ul dir="auto">
+<li>TSC Incubation Sponsor announces on the TSC mailing list when the DD documents are available for public review and comment, which can take place on GitHub, the TSC mailing list, or at TSC public meetings.</li>
+<li>TSC Incubation sponsor decides when to call TSC vote, allowing at least two weeks for public comment before calling vote</li>
+<li>TSC vote up to 6 weeks</li>
+<li>TSC members assess whether project meets the IDSA incubation require-ments. Incubation criteria</li>
+<li>Projects get accepted to incubation via a 2/3 supermajority vote of the TSC.</li>
+<li>If the vote is not conclusive after 6 weeks, TSC chair may extend vote, or conclude that silence = abstain.</li>
+</ul>
+<h3 dir="auto"><a id="user-content-graduation-process" class="anchor" aria-hidden="true" href="#graduation-process"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Graduation Process</h3>
+<ul dir="auto">
+<li>Submit Graduation Proposal Template</li>
+<li>Project fills out and submits the <a href="https://internationaldataspaces.org/graduation-application/" rel="nofollow">graduation proposal template in a form</a>.</li>
+<li>The file containing the proposal should be located in Github.</li>
+<li>The proposal addresses how the project has grown since incubation and any concerns from incubation DD in addition to the standard graduation requirements.</li>
+<li>TSC member kicks off two week period of time for public comment on the TSC mailing list</li>
+<li>The email should contain a link to the proposal pull request and incubation DD document.</li>
+<li>All WG, end users, TSC members, and community members are welcome to comment at this time on the mailing list.</li>
+<li>Historically, projects have done a TSC presentation as part of the graduation process. The TSC has gotten rid of the presentation requirement. Instead, if the TSC wants to have a deeper discussion about the project with the maintainers, they may schedule an ad hoc meeting to do so before the vote.</li>
+</ul>
+<h4 dir="auto"><a id="user-content-tsc-vote" class="anchor" aria-hidden="true" href="#tsc-vote"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>TSC vote</h4>
+<p dir="auto">TSC members assess whether project meets the Graduation criteria
+Projects must have a 2/3 supermajority vote of the TSC to graduate</p>
+<p dir="auto"><em>Notes</em></p>
+<ul dir="auto">
+<li>TSC always has final decision</li>
+<li>TSC doesn’t have to accept WG recommendation</li>
+<li>Outcome may be “no” simply because sponsors don’t step forward within the timeframe</li>
+<li>Outcome from TSC Triage or WG recommendation could be that we want to wait for some reason e.g. project backlogs; batching similar projects together. We should give the project an explanation and set time expectations in these cases.</li>
+<li>All “no” outcomes and other exceptions are discussed by the TSC, and then with project and WG representatives. We will try to give feedback but it may simply be a lack of conviction in the project.</li>
+</ul>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/media/IDSA-GraduationScheme-Incubation-Graduation.png"><img src="/International-Data-Spaces-Association/idsa/raw/main/graduation_scheme/media/IDSA-GraduationScheme-Incubation-Graduation.png" alt="graduation_process" style="max-width: 100%;"></a>
+Figure 3 2: From Incubation to Graduation Steps</p>
+<h4 dir="auto"><a id="user-content-project-proposal-requirements" class="anchor" aria-hidden="true" href="#project-proposal-requirements"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Project Proposal Requirements</h4>
+<p dir="auto">Project proposals submitted to the IDSA can be written in <a href="https://www.markdownguide.org/" rel="nofollow">Markdown</a>, <a href="http://asciidoc.org/" rel="nofollow">AsciiDoc</a>, or <a href="http://docutils.sourceforge.net/rst.html" rel="nofollow">reStructuredText</a> and must provide the following information to the best of your ability:</p>
+<ul dir="auto">
+<li>name of project (must be unique within IDSA)</li>
+<li>project description (what it does, why it is valuable, origin and history)</li>
+<li>statement on alignment with IDSA charter mission</li>
+<li>comparison with similar projects (inside or outside the IDSA), including what differentiates this project</li>
+<li>sponsor from TSC or head office (sponsor helps mentor projects)</li>
+<li>preferred maturity level (see  …)</li>
+<li>license (charter dictates <a href="http://www.apache.org/licenses/LICENSE-2.0" rel="nofollow">Apache 2</a> by default)</li>
+<li>source control (GitHub by default)</li>
+<li>external dependencies (including licenses)</li>
+<li>initial committers (how long working on project, companies they represent)</li>
+<li>communication channels (slack, irc, mailing lists)</li>
+<li>issue tracker (GitHub by default)</li>
+<li>website</li>
+<li>release methodology and mechanics</li>
+<li>social media accounts</li>
+<li>community size and any existing sponsorship</li>
+<li>who is currently known to be using the project? Are they using it in production and at what scale? (It may be hard to obtain accurate data for this, but any supporting evidence of usage is helpful)</li>
+<li>project logo in svg format</li>
+</ul>
+<h2 dir="auto"><a id="user-content-graduation-levels-criteria" class="anchor" aria-hidden="true" href="#graduation-levels-criteria"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Graduation Levels Criteria</h2>
+<p dir="auto">Every IDSA project has an associated maturity level. Proposed IDSA projects should state their preferred maturity level. A two-thirds supermajority is required for a project to be accepted as incubating or graduated. If there is not a supermajority of votes to enter as a graduated project, then any graduated votes are counted again as votes to enter as an incubating project. If there is not a supermajority of votes to enter as an incubating project, then any graduated or incubating votes are recounted as sponsorship to enter as a sandbox project. If there is not enough sponsorship to enter as a sandbox stage project, the project is rejected. This voting process is called fallback voting.</p>
+<p dir="auto">The criteria for each stage of maturity are described below, and there is a separate Project Proposal process (see above).</p>
+<p dir="auto">Projects that achieve the sandbox, incubating or graduation status are listed on the IDSA Homepage <a href="https://www.internationaldataspaces.org" rel="nofollow">https://www.internationaldataspaces.org</a>.</p>
+</article>
+          </div>
+      </div>
+
+  </readme-toc>
+
+
+</div>
+
+  </div>
+
+
+</div>
+
+    </main>
+  </div>
+
+  </div>
+
+          <footer class="footer width-full container-xl p-responsive" role="contentinfo">
+
+
+  <div class="position-relative d-flex flex-items-center pb-2 f6 color-fg-muted border-top color-border-muted flex-column-reverse flex-lg-row flex-wrap flex-lg-nowrap mt-6 pt-6">
+    <ul class="list-style-none d-flex flex-wrap col-0 col-lg-2 flex-justify-start flex-lg-justify-between mb-2 mb-lg-0">
+      <li class="mt-2 mt-lg-0 d-flex flex-items-center">
+        <a aria-label="Homepage" title="GitHub" class="footer-octicon mr-2" href="https://github.com">
+          <svg aria-hidden="true" height="24" viewBox="0 0 16 16" version="1.1" width="24" data-view-component="true" class="octicon octicon-mark-github">
+    <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
+</svg>
+</a>        <span>
+        &copy; 2022 GitHub, Inc.
+        </span>
+      </li>
+    </ul>
+    <ul class="list-style-none d-flex flex-wrap col-12 col-lg-8 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}">Status</a></li>
+        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com">Docs</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;}">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;}">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}">Blog</a></li>
+        <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
+    </ul>
+  </div>
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 color-fg-muted"></span>
+  </div>
+</footer>
+
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error" hidden>
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+    </button>
+    You can’t perform that action at this time.
+  </div>
+
+  <div class="js-stale-session-flash flash flash-warn flash-banner" hidden
+    >
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+    <span class="js-stale-session-flash-signed-in" hidden>You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+  </div>
+    <template id="site-details-dialog">
+  <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default hx_rsm" open>
+    <summary role="button" aria-label="Close dialog"></summary>
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal">
+      <button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+      </button>
+      <div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
+    </details-dialog>
+  </details>
+</template>
+
+    <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box color-shadow-large" style="width:360px;">
+  </div>
+</div>
+
+    <template id="snippet-clipboard-copy-button">
+  <div class="zeroclipboard-container position-absolute right-0 top-0">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
+    <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none m-2">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+    </clipboard-copy>
+  </div>
+</template>
+
+
+
+
+  </body>
+</html>
+
