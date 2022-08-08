@@ -21,6 +21,7 @@ This is an umbrella repository which guides you through the International Data S
 
 </details>
 
+
 ## SHARING DATA WHILE KEEPING DATA OWNERSHIP
 
 The International Data Spaces Association aims at open, federated data ecosystems and marketplaces ensuring data sovereignty for the creator of the data.
@@ -118,7 +119,7 @@ The IDSA Open Source Software Graduation Scheme is placed in in this repository.
 
 The requests are responded within a maximum of two business days (in most cases, the invitations are sent within several hours).
 
-*If you already have access to IDSA Github*, we recommend you to adhere to the guidelines of the repository you are interested in. You can start doing this by checking the existing documentation (license, code of conduct and set of labels for issues) of the repository and then contact its maintainers.
+*If you already have access to IDSA Github*, we recommend you to adhere to the guidelines of the repository you are interested in. You can start doing this by checking the existing documentation (license, code of conduct and set of labels for issues) of the repository, then contact its maintainers.
 
 #### Joining as a Project
 If your project is not part of the IDSA Open Source Landscape yet, please use this form to [apply as a sandbox project](https://internationaldataspaces.org/open-source-application-form/).
