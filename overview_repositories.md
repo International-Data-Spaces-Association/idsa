@@ -39,4 +39,4 @@ Repo name | Description | private (y/n) | tbc. |
 [InformationModelUtils](https://github.com/International-Data-Spaces-Association/InformationModelUtils)|Main purpose of this repository is to store tools, utilities and other content related to the IDS Information Model, which are not part of the core ontology.|y|
 [IDS-RAM_4_0](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0)|IDS Reference Architecture Model v4.0|n|
 [IDS Deployment Scenarios](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0)|Library of information listing different deployment alternatives applied by IDS projects|n|
-[OPEN DEI Building Blocks](https://github.com/International-Data-Spaces-Association/OPENDEI-Building-Blocks)|Repository that lists the building blocks developed in OPEN DEI project
+[OPEN DEI Building Blocks](https://github.com/International-Data-Spaces-Association/OPENDEI-Building-Blocks)|Repository that lists the building blocks developed in OPEN DEI project|n|
