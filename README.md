@@ -23,9 +23,7 @@ This is an umbrella repository which aims to guide you through the International
 
 </details>
 
-**If you are not a user of IDS Github yet**, please join us by clicking on the button below and submitting a request to participate. 
-
-*The requests are processed within a maximum of two business days (in most cases, the invitations are sent within several hours).*
+**If you are not a user of IDS Github yet**, please join us by clicking on the button below and submitting a request to participate. *The requests are processed within a maximum of two business days (in most cases, the invitations are sent within several hours).*
 
 
 [![Join](/images/button_click-to-join-ids-githubv2.png.png)](https://forms.office.com/r/LMFt6pbji4)
@@ -36,7 +34,10 @@ The [IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G) is t
 
 Find the overview on the IDS resources and status of specifications in [**IDS-G** here on GitHub](https://github.com/International-Data-Spaces-Association/IDS-G)
 
+As part of IDS-G, you can also find the [IDS Glossary of Terms](https://github.com/International-Data-Spaces-Association/IDS-G/tree/main/Glossary) 
+
 You are invited to [create issues on IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G/issues). The issues are tracked, approved and worked on in [IDS-G-pre](https://github.com/International-Data-Spaces-Association/IDS-G-pre) by IDSA members.
+
 
 ## ✔️IDS Reference Testbed
 [IDS Testbed](https://github.com/International-Data-Spaces-Association/IDS-testbed) is a setup with Open Source IDS components which can be used to verify that a component implements the IDS specifications for establishing connections and communication and thus, can work interoperable with all IDS components in the testbed setup. It can be used for component behaviour testing, interoperability testing against IDS components (Connector, DAPS, CA, Metadata Broker), preparation for IDS certification and a starting point for creation of data spaces. 
