@@ -3,11 +3,14 @@
 All notable changes to this project will be documented in this file.
 
 
+## [1.1.0] - 2022-08-10
+### Changed
+- The look and content in the main branch
 
-## [Unreleased]
-
-
-
+### Added
+- Knowledge Base content
+- Missing repositories to the overview of repositories page
+- How to contribute table with shortlinks to create an issue
 
 ## [1.0.1] - 2022-03-31
 ### Changed
