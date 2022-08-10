@@ -19,6 +19,7 @@ This is an umbrella repository which aims to guide you through the International
 # Table of contents
 
 -   What is Available Here?
+    -   [IDS Reference Architecture Model (IDS RAM)](#IDS-RAM)
     -   [IDS-G](#IDS-G)
     -   [IDS Reference Testbed](#IDS-Reference-Testbed)
     -   [Minimum Viable Data Space](#Minimum-Viable-Data-Space)
@@ -28,6 +29,14 @@ This is an umbrella repository which aims to guide you through the International
 -   [IDSA at a Glance](#IDSA-at-a-Glance)
 -   [How to Contribute?](#How-to-Contribute?)
 -   [Management of Releases & License](#Management-of-Releases-&-License)
+
+
+## :blue_book: IDS Reference Architecture Model (IDS RAM) <a name="IDS-RAM"></a>
+The [IDS RAM](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0) is the beating heart of the IDS — it comprises the standards for secure and sovereign data exchange, certification and governance for across Europe and around the world. It is the blueprint for trustworthy data-driven ecosystems that promote data-sharing.
+
+Since the release of v4.0, IDS RAM is available on [Github](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0) and -as always- open for contributions. You are warmly invited to start contributing by checking the [contribution rules here](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0/blob/main/CONTRIBUTING.md) and/or [check the list of existing issues](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0/issues).
+
+You may also find the [previous version (v3.0) here](IDS-Reference-Architecture-Model-3.0-2019.pdf) in PDF format.
 
 
 ## :globe_with_meridians: IDS-G <a name="IDS-G"></a>
