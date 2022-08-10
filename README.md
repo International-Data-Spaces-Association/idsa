@@ -66,7 +66,7 @@ The IDS Knowledge Base consists of a step-by-step guide on [How to Build Data Sp
 
 #
 ## IDSA AT A GLANCE <a name="IDSA-at-a-Glance"></a>
-You can read the Executive Summary of the IDSA [here](https://www.internationaldataspaces.org/publications/sharing-data-while-keeping-data-ownership-the-potential-of-ids-for-the-data-economy/).
+You may read the Executive Summary of the IDSA [here](https://www.internationaldataspaces.org/publications/sharing-data-while-keeping-data-ownership-the-potential-of-ids-for-the-data-economy/) and check the [goals](GOALS.md) of the association.
 
 [IDSA Website](https://internationaldataspaces.org/) | [LinkedIn](https://www.linkedin.com/company/international-data-spaces-association/mycompany/) | [Twitter](https://twitter.com/ids_association) | [YouTube](https://www.youtube.com/channel/UC9PsQnKgreCmj-F6Kea5QRg) 
 
