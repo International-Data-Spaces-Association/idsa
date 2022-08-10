@@ -4,8 +4,7 @@ The International Data Spaces Association aims at open, federated data ecosystem
 ![Data Sharing in a Data Space](images/IDSA-Infographic-Data-Sharing-in-a-Data-Space.jpg)
 
 ## What is Available Here?
-This is an umbrella repository which aims to guide you through the International Data Spaces Association (IDSA) on Github, by pointing you to the right source of information. We briefly provide an overview on available resources in this repository and beyond to support your journey building data spaces and sharing data in a secure and sovereign way. You can also see an overview of repositories [here](./overview_repositories.md).
-
+This is an umbrella repository which aims to guide you through the International Data Spaces Association (IDSA) on Github, by pointing you to the right source of information. We briefly provide an overview on available resources in this repository and beyond to support your journey building data spaces and sharing data in a secure and sovereign way. You can also see an overview of repositories [here](./overview_repositories.md) or if you are interested in terms widely being used in IDS ecosystem, you may check the [IDS Glossary in IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G/tree/main/Glossary).
 
 
 **If you are not a user of IDS Github yet**, please join us by clicking on the button below and submitting a request to participate. *The requests are processed within a maximum of two business days (in most cases, the invitations are sent within several hours).*
