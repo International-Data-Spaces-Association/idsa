@@ -12,10 +12,12 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 - New content for IDS assets (Knowledge Base, IDS-G, Deployment Scenarios, etc.)
-- Links to new repositories and also existing markdown pages
 - Missing repositories to the overview of repositories page
 - How to contribute table with shortlinks to create an issue
 - Icons to the IDS assets
+
+### Removed
+- Glossary that was part of idsa repository as the content of this repository will move into the glossary in IDS-G
 
 ## [1.0.1] - 2022-03-31
 ### Changed
