@@ -8,6 +8,7 @@ All notable changes to this project will be documented in this file.
 - The look and order in the main branch
 - The content in the main branch, by making it more lean and shorter.
 - Table of contents was replaced along with the general outline 
+- Replaced the call to action button (that links to the participation to IDS Github form)
 
 ### Added
 - New content for IDS assets (Knowledge Base, IDS-G, Deployment Scenarios, etc.)
