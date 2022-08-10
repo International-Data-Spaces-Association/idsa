@@ -13,6 +13,7 @@ All notable changes to this project will be documented in this file.
 ### Added
 - New content for IDS assets (Knowledge Base, IDS-G, Deployment Scenarios, etc.)
 - Missing repositories to the overview of repositories page
+- Links to new repositories and also existing markdown pages
 - How to contribute table with shortlinks to create an issue
 - Icons to the IDS assets
 
