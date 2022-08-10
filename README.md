@@ -23,6 +23,7 @@ This is an umbrella repository which aims to guide you through the International
     -   [IDS Reference Testbed](#IDS-Reference-Testbed)
     -   [Minimum Viable Data Space](#Minimum-Viable-Data-Space)
     -   [IDS Deployment Scenarios](#IDS-Deployment-Scenarios)
+    -   [IDS Portfolio of Building Blocks](#IDS-Portfolio-of-Building-Blocks)
     -   [IDS Graduation Scheme](#IDS-Graduation-Scheme)
 -   [IDSA at a Glance](#IDSA-at-a-Glance)
 -   [How to Contribute?](#How-to-Contribute?)
@@ -53,6 +54,11 @@ To start experimenting with a MVDS, you can start with the setup explained [on t
 [IDS Deployment Scenarios](https://github.com/International-Data-Spaces-Association/IDS-Deployment-Scenarios) is the repository where deployment examples from various domains and cases are listed. It acts as a library of information listing different deployment alternatives applied by IDS projects and can be used as a great source of inspiration, prior to your implementation process.
 
 If your IDS implementation is either on Pilot or Live stage, you are warmly invited to apply with your IDS Deployment Scenario via the [Data Space Radar form](https://forms.office.com/Pages/ResponsePage.aspx?id=NNZGs_usx0K9RPFVfuibG3WVHeFvj2hHgjU7ZCgshUhUMExMOTdCWDNMSERJTjlIUlRKMVc0QTUxMCQlQCN0PWcu). 
+
+## :black_square_button: IDS-Portfolio-of-Building-Blocks <a name="IDS-Portfolio-of-Building-Blocks"></a>
+[IDS Portfolio of Building Blocks](https://github.com/International-Data-Spaces-Association/IDS-Portfolio-of-Building-Blocks) is the repository that provides an overview of IDS Building Blocks that are available as open source projects, including the [projects qualified via IDS Graduation Scheme](https://github.com/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/Projects.md) and others that contain pieces to initiate a data space.
+
+If you would like to have a project added into the IDS Portfolio of Building Blocks, please [use this template](https://github.com/International-Data-Spaces-Association/IDS-Portfolio-of-Building-Blocks/issues/new?assignees=&labels=&template=building-block-addition-request.md&title=) to create an issue in the repository. 
 
 ## 🥚 IDS Graduation Scheme <a name="IDS-Graduation-Scheme"></a>
 IDS Graduation Scheme is the set of rules, processes and criteria to evaluate the maturity level of a IDS-compliant component. 
