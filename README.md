@@ -103,6 +103,8 @@ You are warmly invited to contribute to the IDSA work here. While some aspects o
 ## Management of IDSA Releases <a name="Management-of-Releases-&-License"></a>
 The [IDS-RAM](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0) and specifications on [IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G) are governed and managed by the IDSA and its members, through the bodies of the association. The main bodies are the IDSA Working Groups. Details on the management of IDSA releases are described in the [IDS-G Handbook](https://github.com/International-Data-Spaces-Association/IDS-G/blob/main/Handbook/README.md).
 
+Please be also aware of our [Code of Conduct](../CODE_OF_CONDUCT.md).
+
 ## License
 [CC-BY 4.0](/LICENSE.md) © International Data Spaces Association e.V.
 
