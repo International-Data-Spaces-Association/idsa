@@ -29,6 +29,7 @@ Existing open-source projects address the technical challenges of cataloguing an
 * [Clearing House](../../../../ids-clearing-house-core/) is an implementation of the IDS Clearing House. It consists of two microservices that support the Clearing House Service, which is a prototype implementation of the Clearing House component of the Industrial Data Space.
 
 ### Frameworks & Other Resources
+
 * [Certification Criteria Catalogue](../../../../ids3c-co/) International Data Spaces Certification Criteria Catalog for Components. **(Accessible only for IDS Members)** 
 * [DataspaceConnector UI](../../../../DataspaceConnectorUI/) is a user interface for the Dataspace Connector, facilitating the operation and configuration of the connector.
 * [Deployment Examples](../../../../IDS-Deployment-Examples/) is used to provide working deployments across the various IDSA repositories.
@@ -37,10 +38,8 @@ Existing open-source projects address the technical challenges of cataloguing an
 * [IDSCP2Rust](../../../../idscp2-rust/) is the Rust implementation of the IDSCP2 transport layer.
 * [IDS Information Model](../../../../InformationModel/) is an RDFS/OWL-ontology covering the fundamental concepts of the International Data Spaces (IDS), i.e. the types of digital contents that are exchanged by participants by means of the IDS infrastructure components.
 * [IDS Messaging Services](../../../../IDS-Messaging-Services/) provides a lightweight implementation for IDS-Message-Handling. The IDS-Messaging-Services offer open-source functionality for sending IDS-Messages as well as interfaces for processing received IDS-Messages.
-* [IDS Testbed](../../../../IDS-testbed/) can be used for component behaviour testing and to verify interoperability testing against IDS components (Connector, DAPS, CA, Metadata Broker). It also functions as a preparation tool for IDS certification as well as a starting point for creation of data spaces. 
+* [IDS Testbed](../../../../IDS-testbed/) can be used for component behaviour testing and to verify interoperability testing against IDS components (Connector, DAPS, CA, Metadata Broker). It also functions as a preparation tool for IDS certification as well as a starting point for creation of data spaces. Its documentation includes an installation guide with instructions to install the testbed and each individual component and an interconnectivity guide to connect the different components to one another.
 
 ## Technology Implementation Partners
 Are you looking for external support for technology implementation process? IDSA works together with many different organizations who serve as technology implementation partners (TIP), that will support you as you build the necessary components to succeed with certification. Your TIP will help you to bring your use case from the drawing board into the real world. You can find more information [on IDSA Website](https://internationaldataspaces.org/adopt/implementation-partners/).
-
-
 

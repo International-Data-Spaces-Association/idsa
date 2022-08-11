@@ -13,8 +13,6 @@ This is an umbrella repository which aims to guide you through the International
 [![Join](/images/button_click-to-join-ids-githubv2.png.png)](https://forms.office.com/r/LMFt6pbji4)
 
 
-
-
 # Table of contents
 
 -   What is Available Here?
@@ -107,6 +105,8 @@ Please be also aware of our [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ## License
 [CC-BY 4.0](/LICENSE.md) © International Data Spaces Association e.V.
+
+
 
 
 
