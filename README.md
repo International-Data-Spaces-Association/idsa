@@ -64,7 +64,9 @@ If your IDS implementation is either on Pilot or Live stage, you are warmly invi
 ## :black_square_button: IDS-Portfolio-of-Building-Blocks <a name="IDS-Portfolio-of-Building-Blocks"></a>
 [IDS Portfolio of Building Blocks](https://github.com/International-Data-Spaces-Association/IDS-Portfolio-of-Building-Blocks) is the repository that provides an overview of IDS Building Blocks that are available as open source projects, including the [projects qualified via IDS Graduation Scheme](https://github.com/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/Projects.md) and others that contain pieces to initiate a data space.
 
-If you would like to have a project added into the IDS Portfolio of Building Blocks, please [use this template](https://github.com/International-Data-Spaces-Association/IDS-Portfolio-of-Building-Blocks/issues/new?assignees=&labels=&template=building-block-addition-request.md&title=) to create an issue in the repository. 
+If you would like to have a project added into the IDS Portfolio of Building Blocks, please [use this template](https://github.com/International-Data-Spaces-Association/IDS-Portfolio-of-Building-Blocks/issues/new?assignees=&labels=&template=building-block-addition-request.md&title=) to create an issue in the repository.
+
+In IDSA Github, you may also check [this repository](https://github.com/International-Data-Spaces-Association/OPENDEI-Building-Blocks) that lists the building blocks developed in OPEN DEI project as result of Task Force 1 Iteration 2. 
 
 ## 🥚 IDS Graduation Scheme <a name="IDS-Graduation-Scheme"></a>
 IDS Graduation Scheme is the set of rules, processes and criteria to evaluate the maturity level of a IDS-compliant component. 
