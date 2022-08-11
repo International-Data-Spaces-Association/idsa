@@ -3,11 +3,22 @@
 All notable changes to this project will be documented in this file.
 
 
+## [1.1.0] - 2022-08-10
+### Changed
+- The look and order in the main branch
+- The content in the main branch, by making it more lean and shorter.
+- Table of contents was replaced along with the general outline 
+- Replaced the call to action button (that links to the participation to IDS Github form)
 
-## [Unreleased]
+### Added
+- New content for IDS assets (Knowledge Base, IDS-G, Deployment Scenarios, etc.)
+- Missing repositories to the overview of repositories page
+- Links to new repositories and also existing markdown pages
+- How to contribute table with shortlinks to create an issue
+- Icons to the IDS assets
 
-
-
+### Removed
+- Glossary that was part of idsa repository as the content of this repository will move into the glossary in IDS-G
 
 ## [1.0.1] - 2022-03-31
 ### Changed

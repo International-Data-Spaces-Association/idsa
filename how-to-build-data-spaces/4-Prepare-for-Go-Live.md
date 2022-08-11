@@ -13,7 +13,6 @@ The component certification required for participating in the IDS serves the pur
 ### Certification of operational environment
 The operational environment certification serves the purpose of proving the trustworthiness of the participating organizations by evaluating the fulfilment of several technical and procedural requirements for the operational environment. Also here, there are several security profiles an operational environment can fulfil and will be indicated at the issued certificate. For the organization, the resulting certificate is the most important prerequisite for access to the IDS. You can access the [self-assessment questionnaire for operational environment here](https://industrialdataspace.jiveon.com/docs/DOC-4292) **(Accessible only for IDS Members)**.
 
-#
 The entire certification process consists of three steps as shown on the ["How to Get IDS Certified? page of IDSA Website"](https://internationaldataspaces.org/use/certification/)
 
 1. We will consult you on the process and help you find the perfect partner.
