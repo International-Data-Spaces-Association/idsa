@@ -1,6 +1,5 @@
 # IDSA Graduation Scheme v1.0
 
-
 ## Purpose of the Document
 The [IDS standard on data sovereignty](https://github.com/International-Data-Spaces-Association/IDS-G) should be distributed and used everywhere, where data sovereignty is applied. Therefore, it should be easy to apply and be designed in a usable way. The IDSA graduation process shall provide a transparent way to provide an overview of the Building Blocks that are available. At the same time, it shall open the IDSA developments to the contributors to Open Source Building Blocks. 
 
@@ -29,6 +28,8 @@ When we say that Sandbox projects are “early stage,” this covers the followi
 -	Independent projects that fit the IDSA mission and provide the potential for a novel approach to existing functional areas (or are an attempt to meet an unfulfilled need).
 -	Projects commissioned or sanctioned by the IDSA, including initial code for IDSA WG collaborations, and “experimental” projects.
 -	Any project that realistically intends to join IDSA Incubation in future and wishes to lay the foundations for that.
+
+:information_source: The term **"project"** refers to both a single component or a set of components. So it is possible for a project (that is applicant of IDS Graduation Scheme) to be consisting of a standalone component or multiple components.
 
 ### Incubating Stage
 Incubating projects have proven their compatibility (based on IDS Certification), reliability, vision and mission.
