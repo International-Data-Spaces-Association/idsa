@@ -37,6 +37,6 @@ Repo name | Description | private (y/n) | tbc. |
 [How_idsa_does_github](https://github.com/International-Data-Spaces-Association/How_idsa_does_github)| (Archieved) Internal documentation how we work on github and which rules we set up|y|
 [IDS-DAPS](https://github.com/International-Data-Spaces-Association/IDS-DAPS)|IDS DAPS development|y|
 [InformationModelUtils](https://github.com/International-Data-Spaces-Association/InformationModelUtils)|Main purpose of this repository is to store tools, utilities and other content related to the IDS Information Model, which are not part of the core ontology.|y|
-[IDS-RAM_4_0](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0)|IDS Reference Architecture Model v4.0|n|
+[IDS-RAM_4_0](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0)|IDS Reference Architecture Model v4.0|y|
 [IDS Deployment Scenarios](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0)|Library of information listing different deployment alternatives applied by IDS projects|n|
 [OPEN DEI Building Blocks](https://github.com/International-Data-Spaces-Association/OPENDEI-Building-Blocks)|Repository that lists the building blocks developed in [OPEN DEI](https://www.opendei.eu/) project as result of Task Force 1 Iteration 2|n|
