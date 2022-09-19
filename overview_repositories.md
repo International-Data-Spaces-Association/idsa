@@ -3,14 +3,14 @@
 See here the relation of the different GitHub repositories: [IDSA Github Repos.pdf](https://github.com/International-Data-Spaces-Association/idsa/files/6554088/IDSA.Github.Repos.pdf)
 
 
-Repo name | Description | private/public | Maintainer(s) |
+Repo name | Description | private/public/archived | Maintainer(s) |
 --- | --- | --- | --- | 
-[idsa](https://github.com/International-Data-Spaces-Association/idsa) | About International Data Spaces Association on GitHub | public |  |
-[IDS-G-pre](https://github.com/International-Data-Spaces-Association/IDS-G-pre) | This is where specifications for different components are provided. | private |  |
-[DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector) | This is the core of the Dataspace Connector as an IDS Connector reference implementation following the specifications of the IDS Information Model. | public |  |
-[IDS-ConfigurationManager](https://github.com/International-Data-Spaces-Association/IDS-ConfigurationManager) | Latest: 6.0.0 - The IDS ConfigurationManager aims to simplify the administration of a connector) | public |  |
-[ids3c-co](https://github.com/International-Data-Spaces-Association/ids3c-co) | IDS Certification criteria catalog | public |  |
-[IDS-testbed](https://github.com/International-Data-Spaces-Association/IDS-testbed)| IDS Testbed is a setup with Open Source IDS components which can be used to verify if a component implements the IDS specifications for establishing connections and communication and, thus, can work interoperable with all IDS components in the testbed setup. | public |  |
+[idsa](https://github.com/International-Data-Spaces-Association/idsa) | About International Data Spaces Association on GitHub | public | [IDSA Head Office](https://github.com/orgs/International-Data-Spaces-Association/teams/idsa_headoffice) |
+[IDS-G-pre](https://github.com/International-Data-Spaces-Association/IDS-G-pre) | This is where specifications for different components are provided. | private | [IDSA-TSC](https://github.com/orgs/International-Data-Spaces-Association/teams/idsa-tsc) |
+[DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector) | This is the core of the Dataspace Connector as an IDS Connector reference implementation following the specifications of the IDS Information Model. | public | [dataspace-connector-maintainer](https://github.com/orgs/International-Data-Spaces-Association/teams/dataspace-connector-maintainer) |
+[IDS-ConfigurationManager](https://github.com/International-Data-Spaces-Association/IDS-ConfigurationManager) | Latest: 6.0.0 - The IDS ConfigurationManager aims to simplify the administration of a connector) | archived | [IDS-ConfigurationManager Maintainers](https://github.com/orgs/International-Data-Spaces-Association/teams/ids-configurationmanager-maintainers) |
+[ids3c-co](https://github.com/International-Data-Spaces-Association/ids3c-co) | IDS Certification criteria catalog | private | [jlangkau](https://github.com/jlangkau) |
+[IDS-testbed](https://github.com/International-Data-Spaces-Association/IDS-testbed)| IDS Testbed is a setup with Open Source IDS components which can be used to verify if a component implements the IDS specifications for establishing connections and communication and, thus, can work interoperable with all IDS components in the testbed setup. | public | [IDSA Head Office](https://github.com/orgs/International-Data-Spaces-Association/teams/idsa_headoffice) |
 [InformationModel](https://github.com/International-Data-Spaces-Association/InformationModel)| The Information Model of the International Data Spaces implements the IDS reference architecture as an extensible, machine readable and technology independent data model. | public |  |
 [IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G) | IDS-G | public |  |
 [trusted-connector](https://github.com/International-Data-Spaces-Association/trusted-connector) | Forked from [industrial-data-space/trusted-connector](https://github.com/industrial-data-space/trusted-connector). IoT edge platform "Trusted Connector" of the International Data Spaces. Based on Apache Karaf, includes Camel message routing, a Camel component for remote attestation with other connectors, and a management web console.| public |  |
