@@ -8,7 +8,7 @@ This stage is meant to sharpen your comprehension of IDS technologies and core i
 
 **IDS and GAIA-X Position Paper** – The European initiative GAIA-X and the International Data Spaces share the vision of proliferating data sovereignty in a trusted data ecosystem. Nevertheless, some main differences exist. This position paper explains the relation of the International Data Spaces Reference Architecture Model and the principles and architecture of the European Imitative GAIA-X. [Learn more](https://internationaldataspaces.org/download/19016/)
 
-**IDS Use Case Overview** – The purpose of this document is to provide interested parties with an overview of the practical application of the IDS architecture in various industries. The use cases which are gathered in this document are real-life examples of IDS industry partners and include a short problem statement, description of the targets, results, and benefits. [Learn more](https://internationaldataspaces.org/wp-content/uploads/dlm\_uploads/Use-Case-Brochure\_2019.pdf)
+**IDS Use Case Overview** – The purpose of this document is to provide interested parties with an overview of the practical application of the IDS architecture in various industries. The use cases which are gathered in this document are real-life examples of IDS industry partners and include a short problem statement, description of the targets, results, and benefits. You can find the [latest version of the brochure (2022) here](https://internationaldataspaces.org/wp-content/uploads/220513\_Use-Case-Brochure.pdf) and also check the ones from previous years [via this page](https://internationaldataspaces.org/publications/most-important-documents/).
 
 **New Business Models for Data Spaces Grounded in Data Sovereignty** - This paper applies business frameworks and methods to the IDS perspective and gives some concrete use-case examples of early adopters for governance, participants, and support service providers. [Learn more](https://internationaldataspaces.org/wp-content/uploads/IDSA-Position-Paper-New-Business-Models-sneak-preview-version.pdf)
 
@@ -16,7 +16,7 @@ This stage is meant to sharpen your comprehension of IDS technologies and core i
 
 **Introduction to Data Spaces** – Here is a brief summary of how International Data Spaces work and an overview of their minimum viable structure. [Learn more](https://github.com/International-Data-Spaces-Association/idsa/blob/main/how-to-build-data-spaces/images/Introduction%20to%20Data%20Spaces.pdf)
 
-**IDS Glossary** – In this glossary, the most important terms of the IDS, the services, and tools are defined (e.g., Clearing House, Data Provider, Data Sovereignty). [Learn more](https://github.com/International-Data-Spaces-Association/IDS-G/blob/master/glossary/README.md)
+**IDS Glossary** – In this glossary, the most important terms of the IDS, the services, and tools are defined (e.g., Clearing House, Data Provider, Data Sovereignty). [Learn more](https://github.com/International-Data-Spaces-Association/IDS-G/tree/main/Glossary)
 
 **Dataspace Connector** - This is the documentation explaining the technical steps for deployment of the Dataspace Connector. [Learn more](https://international-data-spaces-association.github.io/DataspaceConnector/)
 
