@@ -87,7 +87,7 @@ The IDS Knowledge Base is a step-by-step guide on [How to Build Data Spaces](./h
 ## IDSA AT A GLANCE <a name="IDSA-at-a-Glance"></a>
 You may read the Executive Summary of the IDSA [here](https://www.internationaldataspaces.org/publications/sharing-data-while-keeping-data-ownership-the-potential-of-ids-for-the-data-economy/) and check the [goals](GOALS.md) of the association.
 
-[IDSA Website](https://internationaldataspaces.org/) | [LinkedIn](https://www.linkedin.com/company/international-data-spaces-association/mycompany/) | [Twitter](https://twitter.com/ids_association) | [YouTube](https://www.youtube.com/channel/UC9PsQnKgreCmj-F6Kea5QRg) 
+[IDSA Website](https://internationaldataspaces.org/) | [LinkedIn](https://www.linkedin.com/company/international-data-spaces-association/) | [Twitter](https://twitter.com/ids_association) | [YouTube](https://www.youtube.com/channel/UC9PsQnKgreCmj-F6Kea5QRg) 
 
 [Most Important Documents from IDSA](https://internationaldataspaces.org/publications/most-important-documents/)
 
@@ -108,7 +108,7 @@ You are warmly invited to contribute to the IDSA work here. While some aspects o
 ## Management of IDSA Releases <a name="Management-of-Releases-&-License"></a>
 The [IDS-RAM](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0) and specifications on [IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G) are governed and managed by the IDSA and its members, through the bodies of the association. The main bodies are the IDSA Working Groups. Details on the management of IDSA releases are described in the [IDS-G Handbook](https://github.com/International-Data-Spaces-Association/IDS-G/blob/main/Handbook/README.md).
 
-Please be also aware of our [Code of Conduct](../CODE_OF_CONDUCT.md).
+Please be also aware of our [Code of Conduct](/CODE_OF_CONDUCT.md).
 
 ## License
 [CC-BY 4.0](/LICENSE.md) © International Data Spaces Association e.V.
