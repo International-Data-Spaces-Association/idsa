@@ -24,7 +24,7 @@ The entire certification process consists of three steps as shown on the leaflet
 2. Onboarding session with your Evaluation Facility. You will get your individual audit road map.
 3. The Evaluation Facility will start the audit process and collaborate with you on collecting all necessary documents and information.
 
-[Here](https://github.com/International-Data-Spaces-Association/idsa/blob/main/how-to-build-data-spaces/Roles-in-Certification.md) you can find more information about the roles involved in the certification process.
+[Here](https://github.com/anilturkmayali/idsa/blob/main/how-to-build-data-spaces/broken-reference/README.md) you can find more information about the roles involved in the certification process.
 
 ##
 
