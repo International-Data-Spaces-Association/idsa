@@ -25,3 +25,9 @@ This stage is meant to sharpen your comprehension of IDS technologies and core i
 If you feel that you need some additional support, you can consider the following workshop offerings. **IDS Basic Training “Data sovereignty and International Data Spaces”** – This hands-on training is designed for professionals from various industries, IT and software development specialists, and executive managers who would like to understand the structure of the IDS architecture, its technologies, services, and roles. The training lasts one full day and is offered upon request by the Fraunhofer Academy in Dortmund, Germany. [Learn more](https://www.dataspaces.fraunhofer.de/en/referenzen/seminare/basic-training.html)
 
 **IDS Lab** – IDS Lab offers interactive training for a uniform understanding of the International Data Spaces architecture and software. Seminars and further trainings are offered. [Learn more](https://www.dataspaces.fraunhofer.de/en/InternationalDataSpaces/ids-lab.html)
+
+**IDS Component Certification** - IDS Component Certification gives an understanding of what is required for successful IDS Component Certification and compares these requirements to the stage of development of a component. [Learn more](https://www.dataspaces.fraunhofer.de/en/referenzen/seminare/certification.html)
+
+**IDS Certification Criteria Review** - IDS component implementations must meet high standards to receive IDS Certification. This workshop provides a clear understanding of the criteria for IDS certification and details the certification process. [Learn more](https://baidata.eu/cursos?locale=en)
+
+**Configuration and Use of Data** - This workshop provides the basic knowledge to configure, deploy and operate an IDS-based data space, from the initial configuration of the connector and publishing of a data source to the realization of a complete data transaction. [Learn more](https://baidata.eu/cursos?locale=en)
