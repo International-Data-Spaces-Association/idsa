@@ -8,6 +8,6 @@ If you have a IDS project that is not yet part of IDS Graduation Scheme, then we
 
 2\) Applying via the [sandbox application form](https://internationaldataspaces.org/sandbox-application/) on IDSA website.
 
-![](../.gitbook/assets/download.png)
+![](<../.gitbook/assets/download (2).png>)
 
 Following the submission, our Technical Steering Committee will review your application and you will get the result of this evaluation via email.

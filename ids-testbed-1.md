@@ -14,6 +14,4 @@ It can be used for:
 * Preparation for IDS certification
 * Starting point for creation of data spaces
 
-More information and code can be accessed on Github, via the link below:
-
-{% embed url="https://github.com/International-Data-Spaces-Association/IDS-testbed" %}
+More information can be accessed, [via this page](https://docs.internationaldataspaces.org/ids-reference-testbed/):
