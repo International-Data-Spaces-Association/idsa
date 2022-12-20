@@ -14,4 +14,4 @@ It can be used for:
 * Preparation for IDS certification
 * Starting point for creation of data spaces
 
-More information can be found [via this page](https://docs.internationaldataspaces.org/ids-reference-testbed/):
+More information can be found [via this page](https://docs.internationaldataspaces.org/ids-reference-testbed/).
