@@ -14,3 +14,4 @@
 * [IDS Open Source Strategy](ids-open-source-strategy/README.md)
   * [How to Become a Contributor?](ids-open-source-strategy/how-to-become-a-contributor.md)
   * [IDS Graduation Scheme](ids-open-source-strategy/ids-graduation-scheme.md)
+* [IDS-G](ids-g.md)
