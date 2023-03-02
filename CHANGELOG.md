@@ -2,6 +2,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.1.1] - 2022-09-19
+### Added
+- Overview for repositories on IDS Github. 
+
 ## [1.1.0] - 2022-08-12
 ### Added
 - Definition of the term "project" in IDS Graduation Scheme. 
