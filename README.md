@@ -67,12 +67,6 @@ The [IDS Deployment Scenarios](https://github.com/International-Data-Spaces-Asso
 
 If your IDS implementation is either on Pilot or Live stage, you are warmly invited to apply with your IDS Deployment Scenario via the [Data Space Radar form](https://forms.office.com/Pages/ResponsePage.aspx?id=NNZGs_usx0K9RPFVfuibG3WVHeFvj2hHgjU7ZCgshUhUMExMOTdCWDNMSERJTjlIUlRKMVc0QTUxMCQlQCN0PWcu). 
 
-## :black_square_button: IDS-Portfolio-of-Building-Blocks <a name="IDS-Portfolio-of-Building-Blocks"></a>
-[IDS Portfolio of Building Blocks](https://github.com/International-Data-Spaces-Association/IDS-Portfolio-of-Building-Blocks) provides an overview of IDS building blocks that are available as open-source projects, including the [projects qualified via IDS Graduation Scheme](https://github.com/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/Projects.md) and others that contain pieces to initiate a data space.
-
-If you would like to have a project added to the IDS Portfolio of Building Blocks, please [use this template](https://github.com/International-Data-Spaces-Association/IDS-Portfolio-of-Building-Blocks/issues/new?assignees=&labels=&template=building-block-addition-request.md&title=) to create an issue in the repository.
-
-In IDSA Github, you may also check [this repository](https://github.com/International-Data-Spaces-Association/OPENDEI-Building-Blocks) that lists the building blocks developed in OPEN DEI project as result of Task Force 1 Iteration 2.
 
 ## 🥚 IDS Graduation Scheme <a name="IDS-Graduation-Scheme"></a>
 The IDS Graduation Scheme is the set of rules, processes and criteria to evaluate the maturity level of a IDS component.
@@ -83,6 +77,9 @@ You can find the latest version of [IDS Graduation Scheme here](https://github.c
 The IDS Knowledge Base is a step-by-step guide on [How to Build Data Spaces](./how-to-build-data-spaces/README.md) on the foundation of IDS. This community-driven knowledge base is a place to gather and share information. New contributions are always very welcome. If you are interested in sharing your experiences with the community, please start with the [contribution guidelines](/CONTRIBUTING.md).
 
 :triangular_flag_on_post: Part of the IDS Knowledge Base is also available on the IDSA website [docs.internationaldataspaces.org](https://docs.internationaldataspaces.org/knowledge-base/) where you will find lean and brief information on the most popular topics about IDS technologies.
+
+:triangular_flag_on_post: In IDSA Github, you may also check [this repository](https://github.com/International-Data-Spaces-Association/OPENDEI-Building-Blocks) that lists the building blocks developed in OPEN DEI project as result of Task Force 1 Iteration 2.
+
 
 #
 ## IDSA AT A GLANCE <a name="IDSA-at-a-Glance"></a>
