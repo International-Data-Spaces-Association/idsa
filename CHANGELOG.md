@@ -2,6 +2,18 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.1.1] - 2023-03-27
+### Removed
+- IDS Portfolio of Building Blocks section
+
+## [1.1.0] - 2023-02-15
+### Changed
+- Corrected typos on readme.md 
+
+## [1.1.0] - 2022-12-20
+### Removed
+- The Gitbook folders that were obsolete and not needed.
+
 ## [1.1.0] - 2022-08-12
 ### Added
 - Definition of the term "project" in IDS Graduation Scheme. 
