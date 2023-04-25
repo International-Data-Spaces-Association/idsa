@@ -13,6 +13,13 @@ The [Data Connector Report](https://internationaldataspaces.org/data-connector-r
 
 Also to be compliant with IDS standard, one should always check and try to comply with the specifications listed on [IDS-G repository](https://github.com/International-Data-Spaces-Association/IDS-G) and in the [specifications/criteria catalogues of IDS components](https://internationaldataspaces.org/publications/white-papers/) that are available via IDSA website.
 
+You can see the entire development journey (and the roles of the IDS assets) in the picture below: 
+
+
+![](https://github.com/International-Data-Spaces-Association/IDS-Deployment-Scenarios/blob/a87492b2b420658b336bc2f36e8fab6109de4f1c/images/development-journey-and-IDS-Assets.png)
+
+
+
 4️⃣ A fourth path to implementing a dataspace is to partner with a technical implementation partner who can provide guidance and support throughout the process. With the help of an experienced IDS technical implementation partner, organizations can ensure that their data space implementation meets their unique needs and is aligned with industry standards and best practices. You can see a list of available [IDS Technical Implementation Partners](https://internationaldataspaces.org/adopt/implementation-partners/) on the IDSA website.
 
 
