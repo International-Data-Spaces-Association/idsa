@@ -42,9 +42,12 @@ To learn about how these initiatives are relevant and complementary to IDSA, you
 
 
 ### Looking for more?
-#### Trainings
+#### :arrow_forward:Trainings
 If you feel that you need some additional support, you can consider the following workshop offerings.
 **IDS Basic Training “Data sovereignty and International Data Spaces”** – This hands-on training is designed for professionals from various industries, IT and software development specialists, and executive managers who would like to understand the structure of the IDS architecture, its technologies, services, and roles. The training lasts one full day and is offered upon request by the Fraunhofer Academy in Dortmund, Germany. [Learn more](https://www.dataspaces.fraunhofer.de/en/referenzen/seminare/basic-training.html)
 
-**IDS Lab** – IDS Lab offers interactive training for a uniform understanding of the International Data Spaces architecture and software. Seminars and further trainings are offered. [Learn more](https://www.dataspaces.fraunhofer.de/en/InternationalDataSpaces/ids-lab.html)
+:arrow_forward:**IDS Lab** – IDS Lab offers interactive training for a uniform understanding of the International Data Spaces architecture and software. Seminars and further trainings are offered. [Learn more](https://www.dataspaces.fraunhofer.de/en/InternationalDataSpaces/ids-lab.html)
+
+#### :arrow_forward: Position Papers, White Papers and Studies on IDS
+You can find [Position Papers](https://internationaldataspaces.org/publications/position-papers/), [White Papers](https://internationaldataspaces.org/publications/white-papers/), [Studies](https://internationaldataspaces.org/publications/studies-and-external-papers/) and [Scientific Publications](https://internationaldataspaces.org/publications/scientific-publications/) on IDS via the IDSA website.
 
