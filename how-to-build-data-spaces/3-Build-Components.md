@@ -7,11 +7,16 @@ When building components for a dataspace, the three main paths to follow are:
 
 :three: [IDS-Basecamp](https://github.com/International-Data-Spaces-Association/IDS-BaseCamp) can be used as a more mature industry-grade solution.
 
-In all three options, [IDS Graduation Scheme](https://github.com/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/Projects.md) and [Data Connector Report](https://internationaldataspaces.org/data-connector-report/) can be helpful resources to support the implementation process of dataspaces. Also to be compliant with IDS standard, one should always check the specifications listed on [IDS-G repository](https://github.com/International-Data-Spaces-Association/IDS-G).
+In all three options, [IDS Graduation Scheme](https://github.com/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/Projects.md) and [Data Connector Report](https://internationaldataspaces.org/data-connector-report/) can be helpful resources to support the implementation process of dataspaces. 
 
 The [Data Connector Report](https://internationaldataspaces.org/data-connector-report/) provides an overview of available connectors in the market, including open-source options, while the [IDS Graduation Scheme](https://github.com/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/Projects.md) showcases projects that are aligned with a clear path towards IDS-compliancy and are at a more mature stage of development. These resources can help organizations choose the right components and ensure that their implementation is secure and trustworthy.
 
+Also to be compliant with IDS standard, one should always check and try to comply with the specifications listed on [IDS-G repository](https://github.com/International-Data-Spaces-Association/IDS-G).
+
 4️⃣ A fourth path to implementing a dataspace is to partner with a technical implementation partner who can provide guidance and support throughout the process. With the help of an experienced IDS technical implementation partner, organizations can ensure that their data space implementation meets their unique needs and is aligned with industry standards and best practices. You can see a list of available [IDS Technical Implementation Partners](https://internationaldataspaces.org/adopt/implementation-partners/) on the IDSA website.
+
+
+
 
 
 ----- old content -----
