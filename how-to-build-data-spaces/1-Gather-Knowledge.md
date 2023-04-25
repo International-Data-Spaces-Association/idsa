@@ -25,7 +25,7 @@ The [IDSA rulebook](https://docs.internationaldataspaces.org/idsa-rulebook-v2/) 
 - Guidelines how to implement or use a technical artefact of the IDSA.
 - Guidelines for the work and collaboration within data services.
 - Guidelines for the legal basis in compliance with the regulatory environment to ensure trust and security.
-
+IDSA Rulebook also has a [Github repository](https://github.com/International-Data-Spaces-Association/IDSA-Rulebook), where issues can be created. 
 
 :arrow_forward:**IDS Glossary**
 The [IDS Glossary](https://github.com/International-Data-Spaces-Association/IDS-G/tree/main/Glossary) is a collection of definitions for key terms related to the International Data Spaces (IDS). It serves as a reference for understanding the fundamental concepts and vocabulary used in the IDS ecosystem.
