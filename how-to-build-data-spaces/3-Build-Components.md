@@ -1,13 +1,13 @@
 # 3. Build Components
 When building components for a dataspace, the three main paths to follow are:
 
-:one: You can initiate a custom implementation by using the available open-source components on [IDS Github](https://github.com/International-Data-Spaces-Association/idsa/blob/main/overview_repositories.md) and specifications on [IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G). This option allows for greater flexibility and customization based on the purpose of the implementation.
+:one: You can initiate a custom implementation by using the available open-source components on [IDS Github](https://github.com/International-Data-Spaces-Association/idsa/blob/main/overview_repositories.md). This option allows for greater flexibility and customization based on the purpose of the implementation.
 
-:two: Alternatively, you can use [IDS-Testbed as a Minimum Viable Data Space](https://github.com/International-Data-Spaces-Association/IDS-testbed/blob/master/minimum-viable-data-space/MVDS.md) for initial testing and validation. 
+:two: Alternatively, you can use [IDS-Testbed as a Minimum Viable Data Space](https://github.com/International-Data-Spaces-Association/IDS-testbed/blob/master/minimum-viable-data-space/MVDS.md) which consists of just enough features to create a working dataspace with secure and sovereign data exchange. 
 
 :three: [IDS-Basecamp](https://github.com/International-Data-Spaces-Association/IDS-BaseCamp) can be used as a more mature industry-grade solution.
 
-In all three options, [IDS Graduation Scheme](https://github.com/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/Projects.md) and [Data Connector Report](https://internationaldataspaces.org/data-connector-report/) can be helpful resources to support the implementation process of dataspaces. 
+In all three options, [IDS Graduation Scheme](https://github.com/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/Projects.md) and [Data Connector Report](https://internationaldataspaces.org/data-connector-report/) can be helpful resources to support the implementation process of dataspaces. Also to be compliant with IDS standard, one should always check the specifications listed on [IDS-G repository](https://github.com/International-Data-Spaces-Association/IDS-G).
 
 The [Data Connector Report](https://internationaldataspaces.org/data-connector-report/) provides an overview of available connectors in the market, including open-source options, while the [IDS Graduation Scheme](https://github.com/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/Projects.md) showcases projects that are aligned with a clear path towards IDS-compliancy and are at a more mature stage of development. These resources can help organizations choose the right components and ensure that their implementation is secure and trustworthy.
 
