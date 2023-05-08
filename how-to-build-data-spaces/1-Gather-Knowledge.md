@@ -52,9 +52,9 @@ To learn about how these initiatives are relevant and complementary to IDSA, you
 #### :arrow_forward: Trainings
 Our partners offer hands-on trainings and seminars where you can learn about implementing IDS – and speed up your journey to sovereign data sharing. These trainings vary in depth, intensity, and focus - so you can find the right fit for your needs. [Learn more about available trainings here](https://internationaldataspaces.org/adopt/education/)
 
-#### ▶️ IDSA Hubs and Competnence Centers
+#### ▶️ IDSA Hubs and Competence Centers
 Get localized support and learning materials in your own language! The IDSA has inspired a strong network of international hubs and competence centers that share knowledge and information about IDS in countries around the world. These hubs and competence centers are all facilitated by not-for-profit organizations that understand the importance of sovereign data sharing for future data economies and global value chains. [Learn more here](https://internationaldataspaces.org/make/hubs-and-competence-centers/)
 
 #### :arrow_forward: Position Papers, White Papers and Studies on IDS
-You can find a verity of [Position Papers](https://internationaldataspaces.org/publications/position-papers/), [White Papers](https://internationaldataspaces.org/publications/white-papers/), [Studies](https://internationaldataspaces.org/publications/studies-and-external-papers/) and [Scientific Publications](https://internationaldataspaces.org/publications/scientific-publications/) on IDS via the IDSA website.
+You can find a variety of [Position Papers](https://internationaldataspaces.org/publications/position-papers/), [White Papers](https://internationaldataspaces.org/publications/white-papers/), [Studies](https://internationaldataspaces.org/publications/studies-and-external-papers/) and [Scientific Publications](https://internationaldataspaces.org/publications/scientific-publications/) on IDS via the IDSA website.
 
