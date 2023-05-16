@@ -1,4 +1,4 @@
-root: ./documentation/
+root: ./
 
 structure:
     readme: README.md
