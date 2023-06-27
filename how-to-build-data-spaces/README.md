@@ -7,7 +7,7 @@ Navigating the vast landscape of dataspaces can be challenging due to the abunda
 ### Who is this guide for?
 This guide is intended for anyone interested in building dataspace components or using existing ones to build dataspaces. The guide offers links and references for more in-depth learning, making it easy to find what you're looking for, whether you're new to the world of data spaces or an experienced professional.
 
-If you are looking for a particular asset, be sure to check out the rest of [IDSA's GitHub repository](https://link/), where you'll find all our open-source repositories in one place. If you're interested in engaging with the IDS ecosystem, visit the [Connect page on the IDSA Website](https://internationaldataspaces.org/connect/) to learn more about the working groups, latest developments, and opportunities to collaborate.
+If you are looking for a particular asset, be sure to check out the rest of [IDSA's GitHub repository](https://github.com/International-Data-Spaces-Association/idsa), where you'll find all our open-source repositories in one place. If you're interested in engaging with the IDS ecosystem, visit the [Connect page on the IDSA Website](https://internationaldataspaces.org/connect/) to learn more about the working groups, latest developments, and opportunities to collaborate.
 
 ## Your Five-Step Guide to Building Dataspaces
 Every development journey is unique, and your starting point may vary depending on your knowledge and experience with IDS technologies. This guide will take you through the five general stages of building dataspaces, as outlined below.
