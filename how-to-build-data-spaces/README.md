@@ -12,44 +12,10 @@ If you are looking for a particular asset, be sure to check out the rest of [IDS
 ## Your Five-Step Guide to Building Dataspaces
 Every development journey is unique, and your starting point may vary depending on your knowledge and experience with IDS technologies. This guide will take you through the five general stages of building dataspaces, as outlined below.
 Feel free to start from any of these steps that best suit your needs and level of understanding of IDS concepts.
-<table class="images" border="0px" width="100%"  style="border:0px solid white; width:100%;">
-    <tr style="border: 0px;">
-        <td width="20%" align="center" style="border:0px; width:20%">
-            <a href="/how-to-build-data-spaces/1-Gather-Knowledge.md"><img src="https://github.com/International-Data-Spaces-Association/idsa/blob/Update_KnowledgeBase_v.20/how-to-build-data-spaces/images/step1.png" width="156.8px" height="184px"></a> 
-        </td>
-        <td width="20%" align="center" style="border:0px; width:20%">
-            <a href="/how-to-build-data-spaces/2-Define-Your-Use-Case.md"><img src="https://github.com/International-Data-Spaces-Association/idsa/blob/Update_KnowledgeBase_v.20/how-to-build-data-spaces/images/step2.png" width="156.8px" height="184px"></a>
-        </td>
-        <td width="20%" align="center" style="border:0px; width:20%">
-            <a href="/how-to-build-data-spaces/3-Build-Components.md"><img src="https://github.com/International-Data-Spaces-Association/idsa/blob/Update_KnowledgeBase_v.20/how-to-build-data-spaces/images/step3.png" width="156.8px" height="184px"></a>
-        </td>
-        <td width="20%" align="center" style="border:0px; width:20%">
-            <a href="/how-to-build-data-spaces/4-Prepare-for-Go-Live.md"><img src="https://github.com/International-Data-Spaces-Association/idsa/blob/Update_KnowledgeBase_v.20/how-to-build-data-spaces/images/step4.png" width="156.8px" height="184px"></a>
-        </td>
-        <td width="20%" align="center" style="border:0px; width:20%">
-            <a href="/how-to-build-data-spaces/5-Share.md"><img src="https://github.com/International-Data-Spaces-Association/idsa/blob/Update_KnowledgeBase_v.20/how-to-build-data-spaces/images/step5.png" width="156.8px" height="184px"></a>
-        </td>
-    </tr>
-  <tr style="border: 0px;">
-        <td width="20%" valign="top" style="border:0px; width:20%">
-            Get a better understanding of IDS core ideas and identify whether your company needs an IDS solution or aspires to support others in creating dataspaces.
-        </td>
-        <td width="20%" valign="top" style="border:0px; width:20%">
-            Transform your business need into an IDS-based data sharing use case and collaborate with others to co-create or get support in your journey.
-        </td>
-        <td width="20%" valign="top" style="border:0px; width:20%">
-            Identify the specific components required for your use case, and get support on implementing existing suitable components or creating and developing your own.
-        </td>
-        <td width="20%" valign="top" style="border:0px; width:20%">
-            Go through IDS certification and finalize the preparation of your components for establishing a dataspace.
-        </td>
-        <td width="20%" valign="top" style="border:0px; width:20%" valign=top">
-            Go live and reap the benefits of secure and sovereign data sharing!
-        </td>
-    </tr>
-  
-</table>
 
+| ![](https://github.com/International-Data-Spaces-Association/idsa/blob/e2d76f6dc2920b41c005efcb6f94349d082c4990/how-to-build-data-spaces/images/step01.png) | ![](https://github.com/International-Data-Spaces-Association/idsa/blob/e2d76f6dc2920b41c005efcb6f94349d082c4990/how-to-build-data-spaces/images/step02.png) | ![](https://github.com/International-Data-Spaces-Association/idsa/blob/e2d76f6dc2920b41c005efcb6f94349d082c4990/how-to-build-data-spaces/images/step03.png)  | ![](https://github.com/International-Data-Spaces-Association/idsa/blob/e2d76f6dc2920b41c005efcb6f94349d082c4990/how-to-build-data-spaces/images/step04.png) | ![](https://github.com/International-Data-Spaces-Association/idsa/blob/e2d76f6dc2920b41c005efcb6f94349d082c4990/how-to-build-data-spaces/images/step05.png) | 
+| --- | --- | --- | --- | --- |
+|Get a better understanding of IDS core ideas and identify whether your company needs an IDS solution or aspires to support others in creating dataspaces.|Transform your business need into an IDS-based data sharing use case and collaborate with others to co-create or get support in your journey.|Identify the specific components required for your use case, and get support on implementing existing suitable components or creating and developing your own.|Go through IDS certification and finalize the preparation of your components for establishing a dataspace.|Go live and reap the benefits of secure and sovereign data sharing!| 
 
 ## Share Your Ideas to Improve the IDS Knowledge Base 
 ### :mega: We want to hear from you!
