@@ -15,7 +15,7 @@ Feel free to start from any of these steps that best suit your needs and level o
 <table class="images" border="0px" width="100%"  style="border:0px solid white; width:100%;">
     <tr style="border: 0px;">
         <td width="20%" align="center" style="border:0px; width:20%">
-            <a href="/how-to-build-data-spaces/1-Gather-Knowledge.md"><img src="https://github.com/International-Data-Spaces-Association/idsa/blob/Update_KnowledgeBase_v.20/how-to-build-data-spaces/images/step1.png" width="156.8px" height="184px"></a>
+            <a href="/how-to-build-data-spaces/1-Gather-Knowledge.md"><img src="https://github.com/International-Data-Spaces-Association/idsa/how-to-build-data-spaces/images/step1.png" width="156.8px" height="184px"></a>
         </td>
         <td width="20%" align="center" style="border:0px; width:20%">
             <a href="/how-to-build-data-spaces/2-Define-Your-Use-Case.md"><img src="https://github.com/International-Data-Spaces-Association/idsa/blob/Update_KnowledgeBase_v.20/how-to-build-data-spaces/images/step2.png" width="156.8px" height="184px"></a>
