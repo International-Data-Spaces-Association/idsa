@@ -19,16 +19,16 @@ Feel free to start from any of these steps that best suit your needs and level o
             <a href="/how-to-build-data-spaces/1_Gather-Knowledge.md"><img src="https://github.com/International-Data-Spaces-Association/idsa/blob/Update_KnowledgeBase_v.20/how-to-build-data-spaces/images/step1.png" width="156.8px" height="184px"></a> 
         </td>
         <td width="20%" align="center" style="border:0px; width:20%">
-            <a href="/how-to-build-data-spaces/2-Define-Your-Use-Case.md"><img src="https://github.com/International-Data-Spaces-Association/idsa/blob/Update_KnowledgeBase_v.20/how-to-build-data-spaces/images/step2.png" width="156.8px" height="184px"></a>
+            <a href="/how-to-build-data-spaces/2_Define-Your-Use-Case.md"><img src="https://github.com/International-Data-Spaces-Association/idsa/blob/Update_KnowledgeBase_v.20/how-to-build-data-spaces/images/step2.png" width="156.8px" height="184px"></a>
         </td>
         <td width="20%" align="center" style="border:0px; width:20%">
-            <a href="/how-to-build-data-spaces/3-Build-Components.md"><img src="https://github.com/International-Data-Spaces-Association/idsa/blob/Update_KnowledgeBase_v.20/how-to-build-data-spaces/images/step3.png" width="156.8px" height="184px"></a>
+            <a href="/how-to-build-data-spaces/3_Build-Components.md"><img src="https://github.com/International-Data-Spaces-Association/idsa/blob/Update_KnowledgeBase_v.20/how-to-build-data-spaces/images/step3.png" width="156.8px" height="184px"></a>
         </td>
         <td width="20%" align="center" style="border:0px; width:20%">
-            <a href="/how-to-build-data-spaces/4-Prepare-for-Go-Live.md"><img src="https://github.com/International-Data-Spaces-Association/idsa/blob/Update_KnowledgeBase_v.20/how-to-build-data-spaces/images/step4.png" width="156.8px" height="184px"></a>
+            <a href="/how-to-build-data-spaces/4_Prepare-for-Go-Live.md"><img src="https://github.com/International-Data-Spaces-Association/idsa/blob/Update_KnowledgeBase_v.20/how-to-build-data-spaces/images/step4.png" width="156.8px" height="184px"></a>
         </td>
         <td width="20%" align="center" style="border:0px; width:20%">
-            <a href="/how-to-build-data-spaces/5-Share.md"><img src="https://github.com/International-Data-Spaces-Association/idsa/blob/Update_KnowledgeBase_v.20/how-to-build-data-spaces/images/step5.png" width="156.8px" height="184px"></a>
+            <a href="/how-to-build-data-spaces/5_Share.md"><img src="https://github.com/International-Data-Spaces-Association/idsa/blob/Update_KnowledgeBase_v.20/how-to-build-data-spaces/images/step5.png" width="156.8px" height="184px"></a>
         </td>
     </tr>
   <tr style="border: 0px;">
