@@ -1,4 +1,4 @@
-## Task Force Legal Framework (Open for all contributors)
+## Task Force Legal Framework 
 **Description:** 
 Legal aspects are crucial in ensuring innovation and safeguarding sovereignty within data spaces. The Task Force Legal has been established by IDSA to discuss and align legal issues with other initiatives, strengthening IDSA’s internal and external positioning on legal matters.
 
@@ -12,6 +12,7 @@ The aim of the TF Legal Framework is to provide tangible answers to the question
 - Usage control
 
 ### Who Should Attend?
+- Open for all contributors (IDSA members and non-members)
 - Lawyers with a strong interest in technology 
 - Technicians with a strong interest in legal issues
 
