@@ -13,12 +13,17 @@ The Architecture working group aims to develop a business, security, data & serv
 - Colleagues who are familiar with their organization's IT infrastructure, software and systems
 - Experts in software, application or other component development
 
-**Chair(s):** 
-Andreas Teuscher, SICK AG
-Peter Koen, Microsoft
-Arian Firouzbakhsh, IONOS
+### Chair(s):
+- Andreas Teuscher, SICK AG
+- Peter Koen, Microsoft
+- Arian Firouzbakhsh, IONOS
 
-**Artifact(s):**
+### Meetings:
+
+
+### Artifact(s):
 [IDS Reference Architecture Model](https://docs.internationaldataspaces.org/idsa-knowledge-base/v/ids-ram-4/)
 
-**Relevant Webinars & Events**: 
+### Relevant Webinars & Events:
+
+
