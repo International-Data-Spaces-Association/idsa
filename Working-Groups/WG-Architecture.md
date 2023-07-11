@@ -1,4 +1,4 @@
-## Working Group Architecture
+## Working Group Architecture (Open for IDSA Members)
 **Description:** 
 The Architecture working group aims to develop a business, security, data & service and software architecture. It’s also responsible for standardizing the main software component the IDS Connector as well as embracing existing standards and corresponding initiatives. Finally, the Architecture group is incubating the IDSA Developers Community to help IDSA architecture and technologies mature and foster their acceptance.
 
