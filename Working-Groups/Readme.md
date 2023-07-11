@@ -4,8 +4,8 @@ Join us and become an active participant in our working groups.
 
 [Working Group Architecture](WG-Architecture.md)
 
-[Working Group Rulebook](/WG-Rulebook.md)
+[Working Group Rulebook](WG-Rulebook.md)
 
-[Working Group Certification](/WG-Certification.md)
+[Working Group Certification](WG-Certification.md)
 
-[Task Force Legal Framework](/TF-Legal-Framework.md)
+[Task Force Legal Framework](TF-Legal-Framework.md)
