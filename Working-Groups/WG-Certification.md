@@ -1,4 +1,4 @@
-## Working Group Certification
+## Working Group Certification (Open for IDSA Members)
 **Description:** 
 The IDSA Certification working group creates and maintains the IDSA certification process as an important aspect of building trust among participants in data spaces. This includes certifying operational environments and core components, defining roles and developing evaluation methods used during certification.
 
