@@ -2,7 +2,7 @@
 Our working groups are IDSA members collaborating on the standards and characteristics for international data spaces. 
 Join us and become an active participant in our working groups.
 
-[Working Group Architecture](/WG-Architecture.md)
+[Working Group Architecture](WG-Architecture.md)
 
 [Working Group Rulebook](/WG-Rulebook.md)
 
