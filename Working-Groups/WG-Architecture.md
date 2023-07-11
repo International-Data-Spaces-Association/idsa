@@ -22,7 +22,7 @@ The Architecture working group aims to develop a business, security, data & serv
 
 
 ### Artifact(s):
-[IDS Reference Architecture Model](https://docs.internationaldataspaces.org/idsa-knowledge-base/v/ids-ram-4/)
+:blue_book: [IDS Reference Architecture Model](https://docs.internationaldataspaces.org/idsa-knowledge-base/v/ids-ram-4/)
 
 ### Relevant Webinars & Events:
 
