@@ -1,4 +1,4 @@
-## Working Group Rulebook
+## Working Group Rulebook (Open for IDSA Members)
 
 ### Description:
 The IDSA Rule Book working group creates and maintains the IDSA Rule Book. The IDSA Rule Book covers all aspects relevant for ensuring secure, fair and trustworthy cross-organizational data sharing – both within sector-specific data spaces and across data spaces of different industries. 
