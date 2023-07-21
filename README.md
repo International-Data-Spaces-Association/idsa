@@ -18,6 +18,7 @@ This is an umbrella repository designed to guide you through the International D
 
 -   What is Available Here?
     -   [IDS Reference Architecture Model (IDS RAM)](#IDS-RAM)
+    -   [IDSA Rulebook](#IDS-RULEBOOK)
     -   [IDS-G](#IDS-G)
     -   [IDS Reference Testbed](#IDS-Reference-Testbed)
     -   [Minimum Viable Data Space](#Minimum-Viable-Data-Space)
@@ -35,6 +36,14 @@ The [IDS RAM](https://github.com/International-Data-Spaces-Association/IDS-RAM_4
 Since the release of v4.0, the IDS RAM is available on [Github](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0) and -as always- open for contributions. You are warmly invited to start contributing by checking the [contribution rules here](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0/blob/main/CONTRIBUTING.md) and/or [the list of existing issues](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0/issues).
 
 You may also find the [previous version (v3.0) here](IDS-Reference-Architecture-Model-3.0-2019.pdf) in PDF format.
+
+
+## :green_book: IDS Rulebook <a name="IDS-RULEBOOK"></a>
+In an era dominated by data-driven ecosystems and businesses, the development and operation of data spaces have become crucial for organizations seeking success and competitiveness. The IDSA Rulebook plays a pivotal role in this landscape, serving multiple purposes that are instrumental in shaping the data space framework. At its core, the IDSA Rulebook aims to provide a clear delineation between mandatory rules and optional guidelines, encompassing functional, technical, operational, and legal dimensions. This governance framework lays down guidelines for common service functionalities, defining processes, and outlining specific roles and services within data spaces. In short, the IDSA Rulebook stands as a comprehensive guide for navigating the complexities of data spaces, offering essential guidelines for data functionality, technical implementation, collaboration, and legal compliance. Join us in contributing to the development and enhancement of the IDS Rulebook. Your expertise and insights can make a significant impact on creating guidelines that foster innovation, collaboration, and compliance in data spaces.
+
+You can access the [IDSA Rulebook repository here](https://github.com/International-Data-Spaces-Association/IDSA-Rulebook).
+
+You may also find the [rendered version here](https://docs.internationaldataspaces.org/ids-knowledgebase/v/idsa-rulebook/front-matter/readme) in PDF format.
 
 
 ## :globe_with_meridians: IDS-G <a name="IDS-G"></a>
