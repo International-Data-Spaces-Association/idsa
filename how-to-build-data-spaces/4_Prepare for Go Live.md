@@ -1,4 +1,4 @@
-# 4. Prepare for Go-Live
+# 4. Prepare for go-live
 Step 4 explains how to facilitate the integration of IDS connectors into existing ecosystems and provides an installation guide for the IDS Open Source components. The most important facts on the Testbed and Certification can be found on this page, as well.
 
 ## Overview
