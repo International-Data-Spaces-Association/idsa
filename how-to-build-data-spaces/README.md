@@ -1,16 +1,16 @@
-# How To Build Dataspaces?
-### :dart: Welcome to The IDS Knowledge Base: Your Five-Step Approach to Building Dataspaces with Ease
+# How to build data spaces?
+### :dart: Welcome to The IDS Knowledge Base: Your Five-Step Approach to Building Data Spaces with Ease
 
 ## Introduction
-Navigating the vast landscape of dataspaces can be challenging due to the abundance of information and complexity of the topics. The IDS Knowledge Base was created to simplify the learning experience and provide a structured, easy-to-follow guide for building data spaces or components. Here, you'll find all the information you need to build data spaces, whether you're just starting or have some experience.
+Navigating the vast landscape of data spaces can be challenging due to the abundance of information and complexity of the topics. The IDS Knowledge Base was created to simplify the learning experience and provide a structured, easy-to-follow guide for building data spaces or components. Here, you'll find all the information you need to build data spaces, whether you're just starting or have some experience.
 
 ### Who is this guide for?
-This guide is intended for anyone interested in building dataspace components or using existing ones to build dataspaces. The guide offers links and references for more in-depth learning, making it easy to find what you're looking for, whether you're new to the world of data spaces or an experienced professional.
+This guide is intended for anyone interested in building data space components or using existing ones to build data spaces. The guide offers links and references for more in-depth learning, making it easy to find what you're looking for, whether you're new to the world of data spaces or an experienced professional.
 
 If you are looking for a particular asset, be sure to check out the rest of [IDSA's GitHub repository](https://github.com/International-Data-Spaces-Association/idsa), where you'll find all our open-source repositories in one place. If you're interested in engaging with the IDS ecosystem, visit the [Connect page on the IDSA Website](https://internationaldataspaces.org/connect/) to learn more about the working groups, latest developments, and opportunities to collaborate.
 
-## Your Five-Step Guide to Building Dataspaces
-Every development journey is unique, and your starting point may vary depending on your knowledge and experience with IDS technologies. This guide will take you through the five general stages of building dataspaces, as outlined below.
+## Your five-step guide to building data spaces
+Every development journey is unique, and your starting point may vary depending on your knowledge and experience with IDS technologies. This guide will take you through the five general stages of building data spaces, as outlined below.
 Feel free to start from any of these steps that best suit your needs and level of understanding of IDS concepts.
 
 <table class="images" border="0px" width="100%"  style="border:0px solid white; width:100%;">
@@ -33,7 +33,7 @@ Feel free to start from any of these steps that best suit your needs and level o
     </tr>
   <tr style="border: 0px;">
         <td width="20%" valign="top" style="border:0px; width:20%">
-            Get a better understanding of IDS core ideas and identify whether your company needs an IDS solution or aspires to support others in creating dataspaces.
+            Get a better understanding of IDS core ideas and identify whether your company needs an IDS solution or aspires to support others in creating data spaces.
         </td>
         <td width="20%" valign="top" style="border:0px; width:20%">
             Transform your business need into an IDS-based data sharing use case and collaborate with others to co-create or get support in your journey.
@@ -42,7 +42,7 @@ Feel free to start from any of these steps that best suit your needs and level o
             Identify the specific components required for your use case, and get support on implementing existing suitable components or creating and developing your own.
         </td>
         <td width="20%" valign="top" style="border:0px; width:20%">
-            Go through IDS certification and finalize the preparation of your components for establishing a dataspace.
+            Go through IDS certification and finalize the preparation of your components for establishing a data space.
         </td>
         <td width="20%" valign="top" style="border:0px; width:20%" valign=top">
             Go live and reap the benefits of secure and sovereign data sharing!
@@ -51,7 +51,7 @@ Feel free to start from any of these steps that best suit your needs and level o
   
 </table>
 
-## Share Your Ideas to Improve the IDS Knowledge Base 
+## Share your ideas to improve the IDS Knowledge Base 
 ### :mega: We want to hear from you!
 We value your feedback and welcome your contributions to make the IDS Knowledge Base better. This documentation relies on the IDS expertise and experience of everyone involved. If you can't find the information you need in the knowledge base please feel free **to contribute to the knowledge base.** 
 
@@ -63,5 +63,5 @@ In case you are unable to locate the information you are looking for, please:
 You can also open an issue in order to ask any specific questions regarding the knowledge base, share your suggestions for imporvements or provide corrections to the text. 
 Check the detailed information on [how to contribute](/how-to-build-data-spaces/CONTRIBUTING.md) for more information.
 
-### :mag_right: Still Can't Find What You're Looking For?
+### :mag_right: Still can't find what you're looking for?
 If you  have any general questions regarding IDSA, don't hesitate to contact us at [info@internationaldataspaces.org](mailto:info@internationaldataspaces.org ). We're here to help.
