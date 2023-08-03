@@ -3,17 +3,17 @@ When it comes to data sharing, usage control plays a critical role in data shari
 
 ![Usage Control in IDS](https://github.com/International-Data-Spaces-Association/idsa/blob/a29f144f4b35e225559faf0100e50680c17f88b8/how-to-build-data-spaces/images/Usage-Control-in-IDSA.png)
 
-:arrow_forward: **Usage Control in the IDS**
+:arrow_forward: **Usage control in the IDS**
 This document (Data Sovereignty: Updated Position Paper on Data Usage Control in the IDS) provides necessary information about how Data Usage Control is considered in IDS. [Link to the document](https://internationaldataspaces.org/wp-content/uploads/dlm_uploads/IDSA-Position-Paper-Usage-Control-in-the-IDS-V3..pdf)
 
 The Usage Control related applications are listed as follows:
 - **MYDATA Control Technologies** MYDATA Control Technologies is a technical implementation of data sovereignty, which represents an essential component for informational self-determination. It is based on the IND2UCE framework for data usage control developed at Fraunhofer IESE. MYDATA Control Technologies implements data sovereignty by monitoring or intercepting security-relevant data flows. [MYDATA](https://www.mydata-control.de/)
 
-## Data Sharing Contracts
+## Data sharing contracts
 In addition to usage control, data sharing contracts are also critical for ensuring secure and trustworthy data exchange in the IDS ecosystem. These contracts outline the terms and conditions for data sharing, including the rights and obligations of the parties involved, as well as the purpose and scope of data sharing. [The SITRA Rulebook](https://www.sitra.fi/en/publications/rulebook-for-a-fair-data-economy/)'s contract templates provide a useful framework for creating such contracts, as they are tailored to the specific needs and requirements of the IDS ecosystem. However, as the IDS evolves and new use cases emerge, it is important to continually update and refine these templates to ensure they remain relevant and effective. As part of this effort, the [Task Force Legal Framework](https://internationaldataspaces.org/make/working-groups/) of IDSA is working on adapting these contract templates into the IDS Rulebook, which will provide a standardized and legally compliant framework for data sharing within the IDS ecosystem. This will help to streamline the data sharing process, reduce legal and regulatory risks, and promote greater trust and collaboration among all stakeholders.
 
-## Sharing Best Practices: Inspiring Others in IDS Deployment
-As the final step of the dataspace deployment journey within the International Data Spaces (IDS) ecosystem, it is not only essential to ensure secure and trustworthy data sharing but also crucial to share our experiences with others. By sharing our implementation methods, you can inspire and guide fellow organizations to embark on their own IDS deployment journeys. There are two effective channels through which we can accomplish this goal.
+## Sharing best practices: Inspiring others in IDS deployment
+As the final step of the data space deployment journey within the International Data Spaces (IDS) ecosystem, it is not only essential to ensure secure and trustworthy data sharing but also crucial to share our experiences with others. By sharing our implementation methods, you can inspire and guide fellow organizations to embark on their own IDS deployment journeys. There are two effective channels through which we can accomplish this goal.
 
 Firstly, you can contribute to [IDS Deployment Scenarios](https://github.com/International-Data-Spaces-Association/IDS-Deployment-Scenarios), the repository where IDS implementors and experts come together to exchange their footsteps related to IDS deployment. By sharing the details of our own successful implementation, you can provide valuable guidance and inspiration to those who are planning to embark on similar endeavors. 
 
