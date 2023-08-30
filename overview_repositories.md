@@ -6,7 +6,6 @@ See here the relation of the different GitHub repositories: [IDSA Github Repos.p
 Repo name | Description | private (y/n) | tbc. |
 --- | --- | --- | --- | 
 [idsa](https://github.com/International-Data-Spaces-Association/idsa) | About International Data Spaces Association on GitHub | n |
-[IDS-G-pre](https://github.com/International-Data-Spaces-Association/IDS-G-pre) | This is where specifications for different components are provided. | y | 
 [DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector) | This is the core of the Dataspace Connector as an IDS Connector reference implementation following the specifications of the IDS Information Model. | n |
 [IDS-ConfigurationManager](https://github.com/International-Data-Spaces-Association/IDS-ConfigurationManager) | Latest: 6.0.0 - The IDS ConfigurationManager aims to simplify the administration of a connector) | n |
 [ids3c-co](https://github.com/International-Data-Spaces-Association/ids3c-co) | IDS Certification criteria catalog | n |
