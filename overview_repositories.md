@@ -6,7 +6,6 @@ See here the relation of the different GitHub repositories: [IDSA Github Repos.p
 Repo name | Description | private/public/archived | Maintainer(s) |
 --- | --- | --- | --- | 
 [idsa](https://github.com/International-Data-Spaces-Association/idsa) | About International Data Spaces Association on GitHub | public | [IDSA Head Office](https://github.com/orgs/International-Data-Spaces-Association/teams/idsa_headoffice) |
-[IDS-G-pre](https://github.com/International-Data-Spaces-Association/IDS-G-pre) | This is where specifications for different components are provided. | private | [IDSA Technical Steering Committee](https://github.com/orgs/International-Data-Spaces-Association/teams/idsa-tsc) |
 [IDS-testbed](https://github.com/International-Data-Spaces-Association/IDS-testbed)| IDS Testbed is a setup with Open Source IDS components which can be used to verify if a component implements the IDS specifications for establishing connections and communication and, thus, can work interoperable with all IDS components in the testbed setup. | public | [IDSA Head Office](https://github.com/orgs/International-Data-Spaces-Association/teams/idsa_headoffice) |
 [IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G) | IDS-G | public | [IDSA Technical Steering Committee](https://github.com/orgs/International-Data-Spaces-Association/teams/idsa-tsc) |
 [ids3c-co](https://github.com/International-Data-Spaces-Association/ids3c-co) | IDS Certification criteria catalog | private | [jlangkau](https://github.com/jlangkau) |
