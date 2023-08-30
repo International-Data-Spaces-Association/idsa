@@ -53,7 +53,7 @@ An overview of the IDS resources and the status of specifications in IDS-G can b
 
 As part of this repository, you can also find the [IDS Glossary of Terms](https://github.com/International-Data-Spaces-Association/IDS-G/tree/main/Glossary) 
 
-You are invited to [create issues on IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G/issues). The issues are tracked, approved and worked on in [IDS-G-pre](https://github.com/International-Data-Spaces-Association/IDS-G-pre) by IDSA members.
+You are invited to [create issues on IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G/issues). 
 
 
 ## ✔️IDS Reference Testbed <a name="IDS-Reference-Testbed"></a>
