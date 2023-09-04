@@ -2,10 +2,10 @@
 The first step towards building a data space is to gather knowledge about IDS core ideas and concepts. 
 This stage is all about expanding your understanding of IDS technologies and core concepts. It is important to leverage every source of information that can help you learn more about the IDS. Once you have a better understanding of IDS, you can start defining your use case and identifying the specific components needed for your solution.
 
-:point_right: If you are completely new to data spaces, we recommend [starting from the basics](#basics), to sharpen your understanding of IDS technologies and core ideas. This will link you to every source that could be of help while learning about the IDS.
+:arrow_forward: If you are completely new to data spaces, we recommend [starting from the basics](#basics), to sharpen your understanding of IDS technologies and core ideas. This will link you to every source that could be of help while learning about the IDS.
 If you are already familiar with the concept of data spaces, [feel free to skip below](#advanced) to the more advanced and in-depth reading materials.
 
-:point_right: If you already have a data space implemented and want to learn more about what IDSA can offer, start from [Step 4](how-to-build-data-spaces/4-Prepare-for-Go-Live.md) of the five-step approach which involves preparing for go-live.
+:arrow_forward: If you already have a data space implemented and want to learn more about what IDSA can offer, start from [Step 4](how-to-build-data-spaces/4-Prepare-for-Go-Live.md) of the five-step approach which involves preparing for go-live.
 
 <a id="basics"></a>
 ## What are data spaces? How IDSA defines a data space?
