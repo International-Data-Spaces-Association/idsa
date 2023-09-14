@@ -11,3 +11,4 @@
   * [IDS Graduation Scheme](ids-open-source-strategy/ids-graduation-scheme.md)
 * [IDS-G](ids-g.md)
 * [IDS Rulebook](ids-rulebook.md)
+* [Dataspace Protocol](dataspace-protocol.md)
