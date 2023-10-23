@@ -23,7 +23,6 @@ This is an umbrella repository designed to guide you through the International D
     -   [IDS Reference Testbed](#IDS-Reference-Testbed)
     -   [Minimum Viable Data Space](#Minimum-Viable-Data-Space)
     -   [IDS Deployment Scenarios](#IDS-Deployment-Scenarios)
-    -   [IDS Portfolio of Building Blocks](#IDS-Portfolio-of-Building-Blocks)
     -   [IDS Graduation Scheme](#IDS-Graduation-Scheme)
 -   [IDSA at a Glance](#IDSA-at-a-Glance)
 -   [How to Contribute?](#How-to-Contribute?)
