@@ -11,15 +11,14 @@ You can find examples of our success stories and best practices in the Data Spac
 
 ![image](https://user-images.githubusercontent.com/95077363/151158349-382d9966-0de1-4ed6-b5ff-5bc19087f3c8.png)
 
-:arrow_forward: Find the **Data Spaces Radar** [here](https://internationaldataspaces.org/adopt/data-space-radar/)
+:arrow_forward: Find the **Data Spaces Radar** [here](https://www.dataspaces-radar.org/)
 
-:arrow_forward: The **Data Spaces Radar Report**, with more detailed insights into the world of our data spaces can be found [here](https://internationaldataspaces.org/wp-content/uploads/dlm_uploads/Data_Spaces_Radar_Web_230307.pdf)
+:arrow_forward: The **Data Spaces Radar Report**, with more detailed insights into the world of our data spaces can be found [here](https://internationaldataspaces.org/adopt/data-spaces-radar/)
 
-:arrow_forward: Joining the **Data Spaces Radar** with your own **Use Case/Data Space** can be done by filling out our short form. You can find it [here](https://forms.office.com/Pages/ResponsePage.aspx?id=NNZGs_usx0K9RPFVfuibG3WVHeFvj2hHgjU7ZCgshUhUMExMOTdCWDNMSERJTjlIUlRKMVc0QTUxMCQlQCN0PWcu).
+:arrow_forward: Joining the **Data Spaces Radar** with your own **Use Case/Data Space** can be done by filling out our registration form. You can find it [here](https://form.jotform.com/232263600987055).
 
 :arrow_forward: **Position Paper**: A deeper understanding of our mission and goals, especially in relation to other initiatives, standards, and tools can be found in our various position papers which can be found [here](https://internationaldataspaces.org/publications/position-papers/). 
 
-:arrow_forward: Data spaces offer the opportunity for new business models. Find our publication on **New Business Models 
-for Data Spaces Grounded in Data Sovereignty** [here](https://internationaldataspaces.org/wp-content/uploads/IDSA-Position-Paper-New-Business-Models-sneak-preview-version.pdf)
+:arrow_forward: The **Data Cooperation Canvas** can help you getting an overview of your current situation in data cooperation. Have a look [here](https://www.datacooperationcanvas.eu/)
 
 :arrow_forward: Are you already a step ahead and looking for **Implementation Partners**? Skip to **Step 3**
