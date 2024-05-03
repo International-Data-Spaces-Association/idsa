@@ -1,4 +1,4 @@
-# 2. Define Your Use Case
+[# 2. Define Your Use Case
 
 ## What is the importance of defining your use case? Why do we need data spaces?
 IDS use cases show how our research applies to real life. They are examples and success stories that show what one can achieve by putting theory into practice. 
@@ -36,3 +36,4 @@ How is the Data Spaces Radar linked to best practices? Simple: it is the place w
 The Data Spaces Radar makes data spaces happen by bringing all projects into the same place, engaging their adoption, identifying lighthouses, and helping the most promising ones. Projects here come from different domains and can vary in levels of maturity. Most mature data spaces are always good examples of best practices that can inspire new projects to come. 
 Have a look into our Data Spaces Radar! [Learn more](https://internationaldataspaces.org/adopt/data-space-radar/)
 
+](https://docs.internationaldataspaces.org/ids-knowledgebase/v/how-to-build-data-spaces/2_define-your-use-case)
