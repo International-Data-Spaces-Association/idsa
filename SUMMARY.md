@@ -12,3 +12,4 @@
 * [IDS-G](ids-g.md)
 * [IDS Rulebook](ids-rulebook.md)
 * [Dataspace Protocol](dataspace-protocol.md)
+* [Manifesto for International Data Spaces](manifesto-for-international-data-spaces.md)
