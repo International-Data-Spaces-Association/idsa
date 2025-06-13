@@ -68,7 +68,7 @@ You can check the [IDS Reference Testbed repository](https://github.com/Internat
 ## 💊 Minimum Viable Data Space <a name="Minimum-Viable-Data-Space"></a>
 The Minimum Viable Data Space (MVDS) is a combination of IDS components to create a data space with just enough features to be used for secure and sovereign data exchange as specified by IDSA. It aims to facilitate the work of experimenters by shortening the implementation time (by avoiding lengthy details that would slow down the first release). MVDS allows them to start with a first working version (where secure and sovereign data exchange is guaranteed), where the development team can iterate, identify and respond to the assumptions about the requirements of the data space.
 
-To start experimenting with a MVDS, you can start with the setup explained [on this page](https://github.com/International-Data-Spaces-Association/IDS-testbed/blob/master/minimum-viable-data-space/MVDS.md) of IDS Reference Testbed repository.
+To start experimenting with a MVDS, you can start with the setup explained [on this page](https://github.com/International-Data-Spaces-Association/IDS-testbed/blob/master/minimum-viable-data-space/MVDS.md) of IDS Reference Testbed repository. For questions, you can check the [FAQ page here](FAQ/FAQ-MVDS.md). 
 
 ## ✍️ IDS Deployment Scenarios <a name="IDS-Deployment-Scenarios"></a>
 The [IDS Deployment Scenarios](https://github.com/International-Data-Spaces-Association/IDS-Deployment-Scenarios) repository is a collection of deployment examples from various domains and use cases. It is a library of information for IDS projects and can be used as a great source of inspiration prior to your implementation process.
@@ -80,9 +80,10 @@ If your IDS implementation is either on Pilot or Live stage, you are warmly invi
 The IDS Graduation Scheme is the set of rules, processes and criteria to evaluate the maturity level of a IDS component.
 
 You can find the latest version of [IDS Graduation Scheme here](https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme). Check out this [one pager](https://github.com/International-Data-Spaces-Association/idsa/blob/main/graduation_scheme/IDSA-Sandbox-Application.pdf) as a starting point to understand how you can apply with your project. If you already have an IDS-related project, you can quickly initiate your application via [this form](https://internationaldataspaces.org/sandbox-application/).
+For any questions you may have, please also check the [FAQ page](FAQ/FAQ-Graduation-Scheme.md).
 
 ## :book: Knowledge Base <a name="Knowledge-Base"></a>
-The IDS Knowledge Base is a step-by-step guide on [How to Build Data Spaces](./how-to-build-data-spaces/README.md) on the foundation of IDS. This community-driven knowledge base is a place to gather and share information. New contributions are always very welcome. If you are interested in sharing your experiences with the community, please start with the [contribution guidelines](/CONTRIBUTING.md).
+The IDS Knowledge Base is a step-by-step guide on [How to Build Data Spaces](./how-to-build-data-spaces/README.md) on the foundation of IDS. This community-driven knowledge base is a place to gather and share information. New contributions are always very welcome. If you are interested in sharing your experiences with the community, please start with the [contribution guidelines](/CONTRIBUTING.md) and if you have questions, feel free to check the [FAQ page](FAQ/FAQ-IDS-Knowledge-Base.md). 
 
 :triangular_flag_on_post: Part of the IDS Knowledge Base is also available on the IDSA website [docs.internationaldataspaces.org](https://docs.internationaldataspaces.org/knowledge-base/) where you will find lean and brief information on the most popular topics about IDS technologies.
 
