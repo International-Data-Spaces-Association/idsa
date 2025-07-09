@@ -76,7 +76,7 @@ You are warmly invited to contribute to the IDSA work here. While some aspects o
 | [IDS Reference Testbed](https://github.com/International-Data-Spaces-Association/IDS-testbed) | [Creating an Issue](https://github.com/International-Data-Spaces-Association/IDS-testbed/issues/new)| [Contribution Guidelines](https://github.com/International-Data-Spaces-Association/IDS-testbed/blob/master/CONTRIBUTING.md)
 
 ## Management of IDSA Releases <a name="Management-of-Releases-&-License"></a>
-The [IDS-RAM](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0) and specifications on [IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G) are governed and managed by the IDSA and its members, through the bodies of the association. The main bodies are the IDSA Working Groups. Details on the management of IDSA releases are described in the [IDS-G Handbook](https://github.com/International-Data-Spaces-Association/IDS-G/blob/main/Handbook/README.md).
+The repositories, documents and specifications here are governed and managed by the IDSA and its members through the bodies of the association. The main bodies are the IDSA Working Groups. Details on the management of IDSA releases are described in the [Organizational Handbook](https://github.com/International-Data-Spaces-Association/members-area/tree/main/OrganizationalHandbook).
 
 Please be also aware of our [Code of Conduct](/CODE_OF_CONDUCT.md).
 
