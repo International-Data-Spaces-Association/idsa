@@ -1,30 +1,25 @@
 ## Working Group Architecture
-**Description:** 
-The Architecture working group aims to develop a business, security, data & service and software architecture. It’s also responsible for standardizing the main software component the IDS Connector as well as embracing existing standards and corresponding initiatives. Finally, the Architecture group is incubating the IDSA Developers Community to help IDSA architecture and technologies mature and foster their acceptance.
+The IDSA Architecture Working Group defines and promotes architectural principles and implementation patterns that are firmly grounded in the IDSA core concepts as described in the IDSA Rulebook. Its mission is to guide architects and software engineers in designing and developing trusted, interoperable, and compliant dataspaces.
+
+Through a combination of best practices, reference blueprints, and trade-off analyses, the group supports the design of robust dataspace solutions while highlighting known anti-patterns to avoid. It also explores and discusses the essential technical capabilities that dataspaces enable—such as data discovery, policy enforcement, usage control, identity resolution, and observability—and provides in-depth analysis of how these can be implemented in a compliant manner.
+
+Maintaining a technology-neutral perspective, the Architecture Working Group focuses on aligning diverse implementations with the shared IDSA vision. By contributing deep technical expertise to the broader IDSA community, the group plays a key role in shaping discussions around emerging trends and technologies that advance the future of data sharing ecosystems.
 
 ### Activities
-- Modifying the IDS-RAM so that IDS can be used across industries
-- Verifying the different elements of the reference architecture as the basis for the IDS ecosystem
-- Implementing and testing sprint releases within user companies
-- Standardizing the IDS Connector and other components that will enable IDS to deliver on its value proposition
+- Maintain technical documents
+- Provide guidance for the community
+- Contribute technical insights to specification and standardization activities
+- Provide a ground for ideation of data space technologies
 
 ### Who Should Attend?
-- Experts in IT architecture development and analysis
-- Colleagues who are familiar with their organization's IT infrastructure, software and systems
-- Experts in software, application or other component development
-- Open for IDSA members
+- Architects and software engineers
+- Service providers
+- Technology-oriented researchers
+
+- We are open for IDSA members
 
 ### Chair(s):
-- Andreas Teuscher, SICK AG
-- Peter Koen, Microsoft
-- Arian Firouzbakhsh, IONOS
-
-### Meetings:
-
-
-### Artifact(s):
-:blue_book: [IDS Reference Architecture Model](https://docs.internationaldataspaces.org/idsa-knowledge-base/v/ids-ram-4/)
-
-### Relevant Webinars & Events:
+- Markus Spiekermann (Huawei Technologies)
+- Petteri Kivimäki (NIIS)
 
 
