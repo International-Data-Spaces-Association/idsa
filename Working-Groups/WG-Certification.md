@@ -9,8 +9,9 @@ The IDSA Certification working group creates and maintains the IDSA certificatio
 - Open for IDSA Members
 
 ### Chair(s):
-- Monika Kamhuber, Fraunhofer AISEC
 - Javier Borres, SQS
+- Yan Liu, CFIEC
+- Harm Jan Arendshorst, iLabs
 
 
 ### Meetings:
