@@ -1,7 +1,7 @@
 # 🌐 International Data Spaces Association (IDSA) on GitHub
 
 **International Data Spaces Association (IDSA)** brings together [around 200 organizations](https://internationaldataspaces.org/we/members/) building a trusted and interoperable data economy based on **data sovereignty**.  
-Together, we define, implement, and evolve the **global standard for data spaces** — enabling organizations to share data securely and fairly.
+Together, we define, implement, and evolve the **global standard for data spaces** — enabling organizations to share data on a secure and sovereign fashion.
 
 ---
 
