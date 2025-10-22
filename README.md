@@ -8,7 +8,7 @@ Together, we define, implement, and evolve the **global standard for data spaces
 ## 🧭 Purpose of This Repository
 
 This repository acts as the **main entry point** for all IDSA activities on GitHub.  
-It connects you to the latest frameworks, specifications, and guidelines shaping data spaces — from architecture to governance, from rulebook to implementation.
+It connects you to the latest frameworks, specifications, and guidelines shaping data spaces.
 
 If you are new to the IDSA GitHub, [**click here to join**](https://forms.office.com/pages/responsepage.aspx?id=NNZGs_usx0K9RPFVfuibGz1qA21VHyZEj6dyjHL7iBdUM0ZVMzlEMkJTUlhOSEVEWEQyMjZPOUNYTi4u&route=shorturl).
 
