@@ -15,7 +15,7 @@
 
 ### Meetings:
 - Quarterly meetings open for all IDSA members.
-- Task force meetings for subgroups of the .
+- Task force meetings for subgroups of the WG Rulebook.
 
 ### Artifact(s):
 :green_book: [IDSA Rulebook](https://docs.internationaldataspaces.org/idsa-knowledge-base/v/idsa-rulebook/front-matter/readme)
