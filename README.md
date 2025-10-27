@@ -1,91 +1,63 @@
-# The International Data Spaces Association on GitHub
-"The International Data Spaces Association is a coalition of over 180+ members who share a vision of a world where all companies and organizations can self-determine the usage rules of their data in secure, trusted and equal partnerships. Their goal is to establish a global standard for international data spaces (IDS) while fostering related technologies and business models for open, federated data ecosystems and marketplaces that ensure data sovereignty for all participants.
+# 🌐 International Data Spaces Association (IDSA) on GitHub
 
-## What is Available Here?
-This is an umbrella repository designed to guide you through the International Data Spaces Association (IDSA) on GitHub by directing you to the right sources of information. We provide a brief overview of the resources available in this repository and beyond to help you build data spaces and share data in a secure and sovereign way. You can also find an overview of the repositories [here](./overview_repositories.md). If you are interested in terms commonly used in the IDS ecosystem, check out the [IDS Glossary in IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G/tree/main/Glossary).
+**International Data Spaces Association (IDSA)** brings together [around 200 organizations](https://internationaldataspaces.org/we/members/) building a trusted and interoperable data economy based on **data sovereignty**.  
+Together, we define, specify and evolve the **global standard for data spaces** — enabling organizations to share data on a secure and sovereign fashion.
 
+---
 
-**If you are not yet a user of IDS GitHub**, please join us by clicking on the button below and submitting a request to participate. *Requests are typically processed within two business days and in most cases, invitations are sent within several hours.*
+## 🧭 Purpose of This Repository
 
-[![Join](/images/button_click-to-join-ids-githubv2.png.png)](https://forms.office.com/r/LMFt6pbji4)
+This repository acts as the **main entry point** for all IDSA activities on GitHub.  
+It connects you to the latest frameworks, specifications, and guidelines shaping data spaces.
 
+If you are new to the IDSA GitHub, [**click here to join**](https://forms.office.com/pages/responsepage.aspx?id=NNZGs_usx0K9RPFVfuibGz1qA21VHyZEj6dyjHL7iBdUM0ZVMzlEMkJTUlhOSEVEWEQyMjZPOUNYTi4u&route=shorturl).
 
-# Table of contents
+---
 
--   What is Available Here?
-    -   [IDS Reference Architecture Model (IDS RAM)](#IDS-RAM)
-    -   [IDSA Rulebook](#IDSA-RULEBOOK)
-    -   [IDS Reference Testbed](#IDS-Reference-Testbed)
-    -   [IDS Knowledge Base](#Knowledge-Base)
--   [IDSA at a Glance](#IDSA-at-a-Glance)
--   [How to Contribute?](#How-to-Contribute?)
--   [Management of Releases & License](#Management-of-Releases-&-License)
+## 📚 The IDSA Value Chain of Documents
 
+The IDSA documentation follows a clear value chain — from **vision to implementation**.  
+Each layer builds on the previous one to ensure consistency, quality, and usability.
 
-## :blue_book: IDS Reference Architecture Model (IDS RAM) <a name="IDS-RAM"></a>
-The [IDS RAM](https://github.com/International-Data-Spaces-Association/RAM5) is the beating heart of the IDS. It is **accessible to IDSA members** and includes the standards for secure and sovereign data exchange, certification and governance. The RAM serves as the blueprint for trusted ecosystems for data exchange and processing.
+| Level | Description | Repository / Resource |
+|-------|--------------|-----------------------|
+| **Vision & Principles** | Strategic foundation for data sovereignty, trust, and interoperability. | [Manifesto for IDS](https://docs.internationaldataspaces.org/ids-knowledgebase/manifesto-for-international-dataspaces/), [Most Important Documents](https://internationaldataspaces.org/publications/most-important-documents/) |
+| **Governance & Compliance** | The **IDSA Rulebook** provides functional, technical, operational, and legal guidelines for building and managing data spaces. | [IDSA Rulebook](https://github.com/International-Data-Spaces-Association/IDSA-Rulebook) |
+| **Architecture & Standards** | The **IDS Reference Architecture Model (RAM)** defines the conceptual and technical blueprint of trusted data spaces. | [IDS RAM 5 (Members-only)](https://github.com/International-Data-Spaces-Association/RAM5) <br> [Previous version: RAM 4.0](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0) |
+| **Knowledge & Adoption** | The **IDS Knowledge Base** and **Data Space Body of Knowledge (DSBOK)** translate standards into learning materials for IDSA-based trainings. | [IDS Knowledge Base](https://docs.internationaldataspaces.org/ids-knowledgebase/) <br> [DSBOK (Members-only)](https://github.com/International-Data-Spaces-Association/DSBOK) |
 
-The continuous development of the IDS RAM takes place in its dedicated repository and -as always— is open to contributions. You are warmly invited to start contributing by checking the [contribution rules here](https://github.com/International-Data-Spaces-Association/RAM5/blob/main/CONTRIBUTING.md) and/or [the list of existing issues](https://github.com/International-Data-Spaces-Association/RAM5/issues).
+> 🧩 Note: Some repositories are available to IDSA members only. Learn more about [joining IDSA](https://internationaldataspaces.org/we/become-a-member/).
 
-You may also find the [previous version (v4.0) here](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0) that is publicly archived.
+---
 
+## 🤝 How to Contribute
 
-## :green_book: IDSA Rulebook <a name="IDSA-RULEBOOK"></a>
-In an era dominated by data-driven ecosystems and businesses, the development and operation of data spaces have become crucial for organizations seeking success and competitiveness. The IDSA Rulebook plays a pivotal role in this landscape, serving multiple purposes that are instrumental in shaping the data space framework. At its core, the IDSA Rulebook aims to provide a clear delineation between mandatory rules and optional guidelines, encompassing functional, technical, operational and legal dimensions. This governance framework lays down guidelines for common service functionalities, defining processes and outlining specific roles and services within data spaces. In short, the IDSA Rulebook stands as a comprehensive guide for navigating the complexities of data spaces, offering essential guidelines for data functionality, technical implementation, collaboration and legal compliance. Join us in contributing to the development and enhancement of the IDS Rulebook. Your expertise and insights can make a significant impact on creating guidelines that foster innovation, collaboration and compliance in data spaces.
+We welcome community participation in shaping IDSA’s specifications, documentation, and ecosystem.  
+Each repository includes its own `CONTRIBUTING.md` outlining contribution guidelines and review processes.
 
-You can access the [IDSA Rulebook repository here](https://github.com/International-Data-Spaces-Association/IDSA-Rulebook).
+👉 Start by visiting the repository you want to contribute to and follow the steps described there.
 
-You may also find the [rendered version here](https://docs.internationaldataspaces.org/ids-knowledgebase/v/idsa-rulebook/front-matter/readme) in PDF format.
+If you are not yet part of the IDSA GitHub community, [**request access here**](https://forms.office.com/pages/responsepage.aspx?id=NNZGs_usx0K9RPFVfuibGz1qA21VHyZEj6dyjHL7iBdUM0ZVMzlEMkJTUlhOSEVEWEQyMjZPOUNYTi4u&route=shorturl).
 
+---
 
-## ✔️IDS Reference Testbed <a name="IDS-Reference-Testbed"></a>
-[IDS Testbed](https://github.com/International-Data-Spaces-Association/IDS-testbed) is a setup with open-source IDS components. It can be used to verify if a component implements the IDS specifications for establishing connections and communication and thus, can work interoperable with all IDS components in the testbed setup. 
+## 🏛️ IDSA Organizational Handbook
 
-The IDS Testbed is the starting point for the creation of data spaces. It can be used for:
--	component behavior testing
--	interoperability testing against IDS components (Connector, DAPS, CA, Metadata Broker)
--	preparation for IDS Certification 
+The governance of IDSA assets and releases is described in the  
+[**Organizational Handbook** (Members-only)](https://github.com/International-Data-Spaces-Association/members-area/tree/main/OrganizationalHandbook).
 
-You can check the [IDS Reference Testbed repository](https://github.com/International-Data-Spaces-Association/IDS-testbed) for more information.
+---
 
+## 📜 License & Code of Conduct
 
-## :book: Knowledge Base <a name="Knowledge-Base"></a>
-The IDS Knowledge Base is a step-by-step guide on [How to Build Data Spaces](./how-to-build-data-spaces/README.md) on the foundation of IDS. This community-driven knowledge base is a place to gather and share information. New contributions are always very welcome. If you are interested in sharing your experiences with the community, please start with the [contribution guidelines](/CONTRIBUTING.md).
+All open content here is shared under the [**CC-BY 4.0 License**](./LICENSE.md).  
+We follow the [**IDSA Code of Conduct**](./CODE_OF_CONDUCT.md) to ensure a collaborative and inclusive community.
 
-:triangular_flag_on_post: Part of the IDS Knowledge Base is also available on the IDSA website [docs.internationaldataspaces.org](https://docs.internationaldataspaces.org/ids-knowledgebase) where you will find lean and brief information on the most popular topics about IDS technologies.
+---
 
+### 🔗 Stay Connected
 
-#
-## IDSA AT A GLANCE <a name="IDSA-at-a-Glance"></a>
-You may read the Executive Summary of the IDSA [here](https://www.internationaldataspaces.org/publications/sharing-data-while-keeping-data-ownership-the-potential-of-ids-for-the-data-economy/) and check the [goals](GOALS.md) of the association.
-
-[IDSA Website](https://internationaldataspaces.org/) | [LinkedIn](https://www.linkedin.com/company/international-data-spaces-association/) | [YouTube](https://www.youtube.com/channel/UC9PsQnKgreCmj-F6Kea5QRg) 
-
-[Most Important Documents from IDSA](https://internationaldataspaces.org/publications/most-important-documents/)
-
-[Benefits and Advantages of Becoming a Member of IDSA](https://internationaldataspaces.org/we/become-a-member/)
-#
-
-## How to Contribute to IDS Assets on Github? <a name="How-to-Contribute?"></a>
-You are warmly invited to contribute to the IDSA work here. While some aspects of the IDSA work are limited to IDSA members, most of the work here on GitHub is open for everybody to use and to contribute. You can always create change requests as issues on the repositories below: 
-
-| You Can Contribute to | By | Rules are Available in
-| ----------- | ----------- | ----------- |
-| [IDSA Main Repository (this repo)](https://github.com/International-Data-Spaces-Association/idsa), [IDS Knowledge Base](https://github.com/International-Data-Spaces-Association/idsa/tree/main/how-to-build-data-spaces) | [Creating an Issue](https://github.com/International-Data-Spaces-Association/idsa/issues/new/choose) | [Contribution Guidelines](https://github.com/International-Data-Spaces-Association/idsa/blob/main/CONTRIBUTING.md)
-| [IDS Reference Architecture Model](https://github.com/International-Data-Spaces-Association/RAM5) | [Creating an Issue](https://github.com/International-Data-Spaces-Association/RAM5/issues)| [Contribution Guidelines](https://github.com/International-Data-Spaces-Association/RAM5/blob/main/CONTRIBUTING.md)
-| [IDS Reference Testbed](https://github.com/International-Data-Spaces-Association/IDS-testbed) | [Creating an Issue](https://github.com/International-Data-Spaces-Association/IDS-testbed/issues/new)| [Contribution Guidelines](https://github.com/International-Data-Spaces-Association/IDS-testbed/blob/master/CONTRIBUTING.md)
-
-## Management of IDSA Releases <a name="Management-of-Releases-&-License"></a>
-The repositories, documents and specifications here are governed and managed by the IDSA and its members through the bodies of the association. The main bodies are the IDSA Working Groups. Details on the management of IDSA releases are described in the [Organizational Handbook](https://github.com/International-Data-Spaces-Association/members-area/tree/main/OrganizationalHandbook).
-
-Please be also aware of our [Code of Conduct](/CODE_OF_CONDUCT.md).
-
-## License
-[CC-BY 4.0](/LICENSE.md) © International Data Spaces Association e.V.
-
-
-
-
+[🌍 Website](https://internationaldataspaces.org) • [💼 LinkedIn](https://www.linkedin.com/company/international-data-spaces-association/) • [▶️ YouTube](https://www.youtube.com/channel/UC9PsQnKgreCmj-F6Kea5QRg)
 
 
 
