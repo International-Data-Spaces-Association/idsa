@@ -9,5 +9,3 @@ Join us and become an active participant in our working groups.
 [Working Group Certification](WG-Certification.md)
 
 [Task Force Legal Framework](TF-Legal-Framework.md)
-
-[Personal Data and IDS Sub Working Group](Working-Groups/Personal-Data-and-IDS.md)
