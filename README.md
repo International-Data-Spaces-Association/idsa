@@ -21,10 +21,10 @@ Each layer builds on the previous one to ensure consistency, quality, and usabil
 
 | Level | Description | Repository / Resource |
 |-------|--------------|-----------------------|
-| **Vision & Principles** | Strategic foundation for data sovereignty, trust, and interoperability. | [Manifesto for IDS](https://docs.internationaldataspaces.org/ids-knowledgebase/manifesto-for-international-dataspaces/), [Most Important Documents](https://internationaldataspaces.org/publications/most-important-documents/) |
+| **Vision & Principles** | Strategic foundation for data sovereignty, trust, and interoperability. | [Manifesto for IDS](https://kb.internationaldataspaces.org/external/manifesto/manifesto/), <br> [Most Important Documents](https://internationaldataspaces.org/publications/most-important-documents/) |
 | **Governance & Compliance** | The **IDSA Rulebook** provides functional, technical, operational, and legal guidelines for building and managing data spaces. | [IDSA Rulebook](https://github.com/International-Data-Spaces-Association/IDSA-Rulebook) |
-| **Architecture & Standards** | The **IDS Reference Architecture Model (RAM)** defines the conceptual and technical blueprint of trusted data spaces. | [IDS RAM 5 (Members-only)](https://github.com/International-Data-Spaces-Association/RAM5) <br> [Previous version: RAM 4.0](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0) |
-| **Knowledge & Adoption** | The **IDS Knowledge Base** and **Data Space Body of Knowledge (DSBOK)** translate standards into learning materials for IDSA-based trainings. | [IDS Knowledge Base](https://docs.internationaldataspaces.org/ids-knowledgebase/) <br> [DSBOK (Members-only)](https://github.com/International-Data-Spaces-Association/DSBOK) |
+| **Architecture & Standards** | The **IDS Reference Architecture Model (RAM)** defines the conceptual and technical blueprint of trusted data spaces. | [IDS RAM (Members-only)](https://github.com/International-Data-Spaces-Association/IDS-RAM), <br> [Previous version: RAM 4.0](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0) |
+| **Knowledge & Adoption** | The **IDS Knowledge Base** and **Data Space Body of Knowledge (DSBOK)** translate standards into learning materials for IDSA-based trainings. | [IDS Knowledge Base](https://kb.internationaldataspaces.org/), <br> [DSBOK (Members-only)](https://github.com/International-Data-Spaces-Association/DSBOK) |
 
 > 🧩 Note: Some repositories are available to IDSA members only. Learn more about [joining IDSA](https://internationaldataspaces.org/we/become-a-member/).
 
